@@ -12,10 +12,15 @@
 
 ## 找到我们
 
-如何找到我们呢？戳下面
+如何找到我们呢？可以通过下面的新浪微博
 
 - [优雅的程序员D](http://weibo.com/u/5891258264?topnav=1&wvr=6&topsug=1&is_all=1)
 - [D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+
+也可以来到 [diycode](http://diycode.cc/)
+
+- [jixiaohua](http://diycode.cc/jixiaohua)
+- [d_clock](http://diycode.cc/d_clock)
 
 ## 更多
 
