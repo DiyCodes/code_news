@@ -18,11 +18,13 @@
 
 - [优雅的程序员D](http://weibo.com/u/5891258264?topnav=1&wvr=6&topsug=1&is_all=1)
 - [D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+- [YasicYu](http://weibo.com/3917305697/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 也可以来到 [diycode](http://diycode.cc/)
 
 - [jixiaohua](http://diycode.cc/jixiaohua)
 - [d_clock](http://diycode.cc/d_clock)
+- [yaisc](http://diycode.cc/yasic)
 
 **如果你是一个爱写技术博客的童鞋，欢迎发稿时在微博@上小编哦，优秀的文章能让更多童鞋们看到！小编：**[D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
