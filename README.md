@@ -1,6 +1,6 @@
 # Diycode每日文章精选
 
-每天读到一些不错的文章，随手点评收录，分享给大家！
+每天读到一些不错的技术文章，随手点评收录，分享给大家！
 
 ## 归档
 
@@ -19,17 +19,19 @@
 
 - [优雅的程序员D](http://weibo.com/u/5891258264?topnav=1&wvr=6&topsug=1&is_all=1)
 - [D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+- [YasicYu](http://weibo.com/3917305697/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 也可以来到 [diycode](http://diycode.cc/)
 
 - [jixiaohua](http://diycode.cc/jixiaohua)
 - [d_clock](http://diycode.cc/d_clock)
+- [yaisc](http://diycode.cc/yasic)
 
 **如果你是一个爱写技术博客的童鞋，欢迎发稿时在微博@上小编哦，优秀的文章能让更多童鞋们看到！小编：**[D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
 ## 邮箱订阅
 
-想要订阅我们的日报么，来[猛戳这里](http://list.qq.com/cgi-bin/qf_invite?id=d469993d2c888e971c0fbb2309c4d84256968386b126b967)
+目前有 12842 小伙伴订阅了日报，想要订阅我们么，来[猛戳这里](http://list.qq.com/cgi-bin/qf_invite?id=d469993d2c888e971c0fbb2309c4d84256968386b126b967)
 
 ## 更多
 
