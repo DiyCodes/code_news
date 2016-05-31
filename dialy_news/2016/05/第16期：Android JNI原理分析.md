@@ -2,9 +2,12 @@
 
 ## 深度讨论
 
-[]()
+[为什么有一些程序员那么浮躁？](https://www.zhihu.com/question/43576011)
 
-王子，看你了！
+vczh：
+Life is hard：本来以为翻了墙真的是从Hard模式到Easy模式，但是实际上是从Very Hard模式到Harder模式，估计过几年能变成Hard吧。
+这让我觉得，生活本来就是很Hard的，说浮躁并没有什么错。至少幸好并没有体验过什么叫Elite模式。
+
 
 ## Android开发
 
