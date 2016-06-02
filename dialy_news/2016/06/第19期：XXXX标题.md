@@ -16,22 +16,23 @@
 
 Retrofit  是一个 RESTful 的 HTTP 网络请求框架的封装，内置的OkHttp是一个应用广泛的网络请求框架，前者专注于接口的封装，后者专注于网络请求的高效，二者配合就出现了这样一门利器！还不快来看看利器的源码分析~
 
-3、[]()
+3、[开发第三方库最佳实践](http://www.jianshu.com/p/0aacd419cb7e#)
 
-啦啦啦
+强烈推荐，小编表示看完之后得到很多开发效率提升的技能，赞！
 
-4、[]()
+4、[Android-SpinKit：卡哇伊的动画开源动画效果](https://github.com/ybq/Android-SpinKit)
 
-![]()
+![](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)
 
-啦啦啦
+这么多种动画效果，任君选择！
 
-## 线下活动
+## 课外话题
 
-[]()
+[现在赚多少钱，40岁以后才能财务自由？](https://www.zhihu.com/question/46440694)
 
-啦啦啦
+钱不是万能的，但没有钱是万万不能的。赚多少钱才能满足呢？怎样才能更好的打理自己的财务状况呢？
 
+> 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
 ## 邮箱订阅
 
