@@ -1,10 +1,10 @@
-# 第18期：XXXX标题
+# 第18期：android多主题之坑
 
 ## 深度讨论
 
-[]()
+[最近在重新捡起学校的英语，发现了一篇很 nice 的文章和一个 nice 的 TED 视频，值得思考和分享！](http://diycode.cc/topics/114)
 
-王子，看你了！
+一篇文章，一个20分钟的TED演讲小视频，给你不一样的思考方式，对于学英语，你又什么想说的呢？
 
 ## Android开发
 
@@ -24,15 +24,11 @@
 
 你是不是一个把什么代码都往Activity里面塞的开发者？你是不是让Activity做了除UI操作外的其他事情？嗯，来好好看看本文，可以准备重构了！
 
-## 课外话题
+5、[MaterialIntroView:一个很nice的新手导航开源库](https://github.com/iammert/MaterialIntroView)
 
-[如何用英语打开一扇门 —— 我的非功利英语学习法](http://www.jianshu.com/p/0724c80bef3f#)
+![](https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif)
 
-英语对开发者是很重要的哦，毕业之后还想继续学习英语的童鞋是否感觉非常吃力呢？来看看别人家的童鞋是怎么玩的！小编最近也在开始重拾英语的路上。
-
-[最近一个很火的TED演讲视频，教你如何在六个月内学会一门外语。](http://www.miaopai.com/show/OpNjBnrX2jRRiCa-SrY5aQ__.htm)
-
-视频很短，18多分钟。但是看完它，或许能颠覆你某些学习观念。
+目前还处于Beta阶段哦，有兴趣的童鞋可以持续关注。对于App新手指引的功能，可以提高不少体验呢！
 
 ## 邮箱订阅
 

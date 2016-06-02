@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第18期：android多主题之坑](dialy_news/2016/06/第18期：android多主题之坑.md) 	|
 |[第17期：App 发外包注意事项有哪些？](dialy_news/2016/06/第17期：App 发外包注意事项有哪些？.md) 	|
 |[第16期：Android JNI原理分析](dialy_news/2016/05/第16期：Android JNI原理分析.md) 	|
 |[第15期：英语流利说 Android 架构演进](dialy_news/2016/05/第15期：英语流利说 Android 架构演进.md) 	|
