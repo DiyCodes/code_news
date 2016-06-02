@@ -1,11 +1,12 @@
-# Diycode每日文章精选
+# Diycode每日精选
 
-每天读到一些不错的技术文章，随手点评收录，分享给大家！
+每天读到一些不错的技术文章，随手点评收录，分享给大家！想知道更多关于每日精选的信息，请查看我们的[wiki](https://github.com/DiyCodes/code_news/wiki)
 
 ## 归档
 
 |	精选文章	|
 |------|
+|[第18期：android多主题之坑](dialy_news/2016/06/第18期：android多主题之坑.md) 	|
 |[第17期：App 发外包注意事项有哪些？](dialy_news/2016/06/第17期：App 发外包注意事项有哪些？.md) 	|
 |[第16期：Android JNI原理分析](dialy_news/2016/05/第16期：Android JNI原理分析.md) 	|
 |[第15期：英语流利说 Android 架构演进](dialy_news/2016/05/第15期：英语流利说 Android 架构演进.md) 	|
