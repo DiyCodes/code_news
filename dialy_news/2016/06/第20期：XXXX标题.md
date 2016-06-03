@@ -16,9 +16,11 @@
 
 ConstraintLayout可以看做是RelativeLayout的增强，目前关于ConstraintLayout的资料还比较少，甚至没有一个正式的官方视频介绍，因此正如文章题目所言，这是一篇对学习资料的汇集介绍，献给需要的小伙伴们，记得配合Android Studio2.2食用哦
 
-3、[]()
+3、[完美的安卓 model 层架构（上）](http://blog.piasy.com//2016/05/06/Perfect-Android-Model-Layer/)
 
-啦啦啦
+4、[完美的安卓 model 层架构（下）](http://blog.piasy.com/2016/05/12/Perfect-Android-Model-Layer-2/)
+
+你会怎样去规划自己的 model 层设计呢？上下两篇，双手奉上！
 
 4、[利用三阶贝塞尔曲线实现直播界面的礼物冒泡泡动画](https://github.com/Yasic/QQBubbleView)
 
@@ -26,12 +28,13 @@ ConstraintLayout可以看做是RelativeLayout的增强，目前关于ConstraintL
 
 还可以支持自定义view样式和动画效果哦~
 
-## 线下活动
+## 课外话题
 
-[]()
+[我的博客是如何搭建的：Github Pages + HEXO + 域名绑定](http://www.jianshu.com/p/834d7cc0668d#)
 
-啦啦啦
+想要自己搭建一个博客么？点进去看看！
 
+> 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
 ## 邮箱订阅
 
