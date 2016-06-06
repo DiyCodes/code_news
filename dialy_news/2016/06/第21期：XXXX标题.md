@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[神奇的Android Studio Template](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820341&idx=1&sn=fa0b3094e1970989ffdff05c878ba53d&scene=0#wechat_redirect)
 
-啦啦啦
+我们在AS中创造新的activity的时候，除了内置的几个模板，也可以自己开发模板哦，这个东东就叫做“Android Studio Template”，如果你想提高代码自动生成效果，就跟随作者学习一下吧！
 
-2、[]()
+2、[嘿！让我们来手动编译安卓项目吧](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0603/4331.html)
 
-啦啦啦
+神秘的后台进程执行着我们不知道也不晓得原理的任务。IDE就像知道我们头脑里的想法似的悄悄生成代码，如果你想看到本质，嘿！让我们来手动编译安卓项目吧！
 
 3、[]()
 
