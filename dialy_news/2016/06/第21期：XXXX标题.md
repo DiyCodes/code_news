@@ -8,13 +8,14 @@
 
 ## Android开发
 
-1、[]()
+1、[神奇的Android Studio Template](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820341&idx=1&sn=fa0b3094e1970989ffdff05c878ba53d&scene=0#wechat_redirect)
 
-啦啦啦
+我们在AS中创造新的activity的时候，除了内置的几个模板，也可以自己开发模板哦，这个东东就叫做“Android Studio Template”，如果你想提高代码自动生成效果，就跟随作者学习一下吧！
 
-2、[]()
+2、[从 java 注解分析 ButterKnife 工作流程](http://android.jobbole.com/83333/)
 
-啦啦啦
+ButterKnife是依赖注入中相对简单易懂的很不错的开源框架,相信很多人都喜欢在项目里使用，但是ButterKnife的工作流程你真的了解
+吗？如果答案是否定的，现在就是你学习它的最佳时机！
 
 3、[]()
 
