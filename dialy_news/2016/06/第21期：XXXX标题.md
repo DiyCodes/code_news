@@ -12,9 +12,10 @@
 
 我们在AS中创造新的activity的时候，除了内置的几个模板，也可以自己开发模板哦，这个东东就叫做“Android Studio Template”，如果你想提高代码自动生成效果，就跟随作者学习一下吧！
 
-2、[嘿！让我们来手动编译安卓项目吧](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0603/4331.html)
+2、[从 java 注解分析 ButterKnife 工作流程](http://android.jobbole.com/83333/)
 
-神秘的后台进程执行着我们不知道也不晓得原理的任务。IDE就像知道我们头脑里的想法似的悄悄生成代码，如果你想看到本质，嘿！让我们来手动编译安卓项目吧！
+ButterKnife是依赖注入中相对简单易懂的很不错的开源框架,相信很多人都喜欢在项目里使用，但是ButterKnife的工作流程你真的了解
+吗？如果答案是否定的，现在就是你学习它的最佳时机！
 
 3、[]()
 
