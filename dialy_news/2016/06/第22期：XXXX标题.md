@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[BroadcastReceiver中的设计模式](http://blog.csdn.net/tiefeng0606/article/details/51499199)
 
-啦啦啦
+我们经常使用BroadcastReceiver,却不知其实BroadcastReceiver也使用了很多设计模式，比如观察者模式，代理模式和适配器模式，快来学习一下吧！
 
-2、[]()
+2、[Java内存模型](http://blog.csdn.net/u013256816/article/details/51510815)
 
-啦啦啦
+并发编程让我们从单线程的程序中跳脱出来看到了更广阔的世界和更大的可能性，而在Java语言中，我们采用共享内存模型来实现多线程之间的信息交换和数据同步，现在就来看看共享内存模型的详细内容吧！
 
 3、[]()
 
