@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Better Android Intents with Dart & Henson](https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b#.5llfonskk)
 
-啦啦啦
+在android开发中，intent组件是最常用的组件之一，通常被我们用来进行activity之间的通信，但是你知道android自带的intent有哪些缺陷吗？快来学习写优雅而健壮的intent的办法吧！
 
-2、[]()
+2、[利用 Android Annotations 来玩玩契约编程](http://blog.csdn.net/feelang/article/details/49000203)
 
-啦啦啦
+也许你已经听说过契约编程的概念，也许你还没有在代码中实践过契约编程，现在，给你一个机会，利用android annotations来践行契约编程的理念吧！
 
 3、[]()
 
