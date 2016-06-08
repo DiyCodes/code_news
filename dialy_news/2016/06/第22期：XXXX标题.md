@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第22期：XXXX标题
 
 ## 深度讨论
 
@@ -16,21 +16,21 @@
 
 并发编程让我们从单线程的程序中跳脱出来看到了更广阔的世界和更大的可能性，而在Java语言中，我们采用共享内存模型来实现多线程之间的信息交换和数据同步，现在就来看看共享内存模型的详细内容吧！
 
-3、[]()
+3、[如何调试Android Framework？](http://weishu.me/2016/05/30/how-to-debug-android-framework/)
 
-啦啦啦
+还在为想调试Framework层的代码而头疼吗？来来来，看看360的大神是怎么玩的！
 
-4、[]()
+4、[HorizontalWheelView：横向的滚轮自定义View](https://github.com/shchurov/HorizontalWheelView)
 
-![]()
+![](https://camo.githubusercontent.com/ee6124cc259de10d4a4f6bfbc06ff3c06728803b/687474703a2f2f692e67697068792e636f6d2f764831715378637742424f69512e676966)
 
-啦啦啦
+小编想说，城会玩！哈哈哈哈哈！
 
-## 线下活动
+## 课外话题
 
-[]()
+[自学编程这几点非常重要](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661865&idx=1&sn=085e2be66714763b5550c54e9253883a&scene=1&srcid=0608n05z9DtT3zHuSoeOM3YR#wechat_redirect)
 
-啦啦啦
+自学编程的开发者们注意了，看看stormzhang的建议。注意哦，方法论再多，不落实也是没有用的！
 
 
 ## 邮箱订阅
