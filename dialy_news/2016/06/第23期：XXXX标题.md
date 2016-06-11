@@ -8,29 +8,25 @@
 
 ## Android开发
 
-1、[Better Android Intents with Dart & Henson](https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b#.5llfonskk)
+1、[英：Better Android Intents with Dart & Henson（需科学上网）](https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b)
 
 在android开发中，intent组件是最常用的组件之一，通常被我们用来进行activity之间的通信，但是你知道android自带的intent有哪些缺陷吗？快来学习写优雅而健壮的intent的办法吧！
+
+顺便献上该篇的译文：[【译】使用 Dart & Henson 改进 Android Intents](http://www.jianshu.com/p/b50a8aaeb81a)
 
 2、[利用 Android Annotations 来玩玩契约编程](http://blog.csdn.net/feelang/article/details/49000203)
 
 也许你已经听说过契约编程的概念，也许你还没有在代码中实践过契约编程，现在，给你一个机会，利用android annotations来践行契约编程的理念吧！
 
-3、[]()
+3、[HTTPS理论基础及其在Android中的最佳实践](http://blog.csdn.net/iispring/article/details/51615631)
 
-啦啦啦
+很形象的告诉你 Android 上的 HTTPS 要怎么玩？
 
-4、[]()
+4、[Google Agera Wiki 中文版](https://github.com/captain-miao/AndroidAgeraTutorial/wiki)
 
-![]()
+![](https://github.com/google/agera/raw/master/doc/images/agera.png)
 
-啦啦啦
-
-## 线下活动
-
-[]()
-
-啦啦啦
+对应英文不是很好的童鞋，绝对是福利。。。。。小编也要勤练英语了！！！！
 
 
 ## 邮箱订阅
