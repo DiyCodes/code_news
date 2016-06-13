@@ -20,11 +20,14 @@
 
 啦啦啦
 
-4、[]()
+4、[Material-Movies：开源的 Material Design 风格的视频播放器](https://github.com/saulmm/Material-Movies)
 
-![]()
+这位外国的开发者童鞋，手把手教你如何创建一个具有拓展性、可维护性和测试性的Android应用，感兴趣的童鞋可以详细查看项目README.md中的文章哦！
 
-啦啦啦
+![](https://camo.githubusercontent.com/cb1a7ead648dd745e5b3e4a2600f24a8dc37bbe7/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30332f66616d696c79322e706e67)
+
+![](https://camo.githubusercontent.com/2ba10e10de55425ed5cee91c329a87902689bf21/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30332f64657461696c46616d696c792d65313432363138303035333231352e706e67)
+
 
 ## 线下活动
 
