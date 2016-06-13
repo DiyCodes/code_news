@@ -16,9 +16,9 @@
 
 啦啦啦
 
-3、[]()
+3、[Android HTTP必知必会](http://jayfeng.com/2016/01/08/Android%20HTTP%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/index.html)
 
-啦啦啦
+最最最最经常打交道的HTTP协议，你懂了么？快进来查漏补缺吧！
 
 4、[Material-Movies：开源的 Material Design 风格的视频播放器](https://github.com/saulmm/Material-Movies)
 
@@ -29,11 +29,11 @@
 ![](https://camo.githubusercontent.com/2ba10e10de55425ed5cee91c329a87902689bf21/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30332f64657461696c46616d696c792d65313432363138303035333231352e706e67)
 
 
-## 线下活动
+## 课外话题
 
-[]()
+[你是如何转行的？转行容易吗？](https://www.zhihu.com/question/28544155)
 
-啦啦啦
+隔行如隔山，想要转行真的需要莫大的勇气才行！
 
 
 ## 邮箱订阅
