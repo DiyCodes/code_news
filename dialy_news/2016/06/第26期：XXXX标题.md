@@ -20,11 +20,10 @@
 
 啦啦啦
 
-4、[]()
+4、[SineView：正弦曲线的自定义View动画效果](https://github.com/guiguegon/SineView)
 
-![]()
+![](https://github.com/guiguegon/SineView/raw/master/screenshots/animating.gif)
 
-啦啦啦
 
 ## 线下活动
 

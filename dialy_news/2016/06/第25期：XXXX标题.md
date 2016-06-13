@@ -16,21 +16,24 @@
 
 啦啦啦
 
-3、[]()
+3、[Android HTTP必知必会](http://jayfeng.com/2016/01/08/Android%20HTTP%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/index.html)
 
-啦啦啦
+最最最最经常打交道的HTTP协议，你懂了么？快进来查漏补缺吧！
 
-4、[]()
+4、[Material-Movies：开源的 Material Design 风格的视频播放器](https://github.com/saulmm/Material-Movies)
 
-![]()
+这位外国的开发者童鞋，手把手教你如何创建一个具有拓展性、可维护性和测试性的Android应用，感兴趣的童鞋可以详细查看项目README.md中的文章哦！
 
-啦啦啦
+![](https://camo.githubusercontent.com/cb1a7ead648dd745e5b3e4a2600f24a8dc37bbe7/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30332f66616d696c79322e706e67)
 
-## 线下活动
+![](https://camo.githubusercontent.com/2ba10e10de55425ed5cee91c329a87902689bf21/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30332f64657461696c46616d696c792d65313432363138303035333231352e706e67)
 
-[]()
 
-啦啦啦
+## 课外话题
+
+[你是如何转行的？转行容易吗？](https://www.zhihu.com/question/28544155)
+
+隔行如隔山，想要转行真的需要莫大的勇气才行！
 
 
 ## 邮箱订阅
