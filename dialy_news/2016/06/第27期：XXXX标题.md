@@ -20,7 +20,11 @@
 
 啦啦啦
 
-4、[]()
+4、[enjarify：Google自家出的Android apk包分析工具](https://github.com/google/enjarify)
+
+是时候使用enjarify取代dex2jar了吧，为何？请戳上方见官方说明！（Google威武，哈哈哈哈）
+
+5、[]()
 
 ![]()
 
