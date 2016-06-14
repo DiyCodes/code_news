@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[一张图读懂RxJava中的线程控制](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=509777575&idx=1&sn=9ace4885f32a1f274e4be8d839700486&scene=0&previewkey=nzeuLjmwTmgy6%2FZhzIm6qswqSljwj2bfCUaCyDofEow%3D)
 
-啦啦啦
+RXJava一大引人注目的特性就是它便捷的线程切换操作，那么当我们使用subscribeOn和observeOn切换线程时到底发生了哪些事情呢?一起来了解一下吧！
 
-2、[]()
+2、[你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
 
-啦啦啦
+ Intent解析机制主要是通过查找已注册在AndroidManifest.xml中的所有IntentFilter及其中定义的Intent，最终找到匹配的Intent，想了解匹配的具体过程和细节吗，你需要看看这篇文章～
 
 3、[]()
 
