@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Android 网络操作和优化相关](https://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261762&idx=1&sn=dd95181222f40e6818d9df26ef31fab6&scene=0&pass_ticket=9%2FMdgGNR%2BcHQFO4rm%2FVr61EvcK4BkZc9Tdb1bNWhlaRbGZLISyBuUC0YH2PdbNHd#rd)
 
-啦啦啦
+Android程序最重要的模块就是网络部分，如何从网络上下载数据，如何将处理过的数据上传至网络，往往是android程序的关键环节。所以摸清网络请求的全部过程对我们写出良好风格和健壮功能的代码有很大帮助，快来学习一下吧！
 
-2、[]()
+2、[Weex快速上手教程(Weex Tutorial)](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089966&idx=1&sn=4dd5753c1b97a15259e88ee2ee5bf092#rd)
 
-啦啦啦
+Weex是阿里无线前端的无线电商动态化解决方案，经过一段时间的内测后终于开源出来啦，趁着还没有大规模推广，不如尝尝鲜吧～
 
 3、[Android HTTP必知必会](http://jayfeng.com/2016/01/08/Android%20HTTP%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/index.html)
 
