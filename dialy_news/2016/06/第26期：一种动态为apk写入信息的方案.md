@@ -1,12 +1,16 @@
-# 第XX期：XXXX标题
+# 第26期：一种动态为apk写入信息的方案
 
-## 深度讨论
+## 推荐
 
-[]()
+[Android Developers Backstage：Google Android 团队成员录制的面向 Android 开发者的专业播客](http://diycode.cc/topics/130)
 
-王子，看你了！
+播客 (podcast) 是一种只有声音的网络传播形式，类似于录制的电台节目。Android Developers Backstage 是由 Google Android 团队成员录制的面向 Android 开发者的专业播客，从 2013 年 11 月至今已发布 50 期。
 
 ## Android开发
+
+0、[一种动态为apk写入信息的方案](http://pingguohe.net/2016/03/21/Dynimac-write-infomation-into-apk.html)
+
+Android使用的apk包的压缩方式是zip，与zip有相同的文件结构，在zip的Central directory file header中包含一个File comment区域，可以存放一些数据。File comment是zip文件如果可以正确的修改这个部分，就可以在不破坏压缩包、不用重新打包的的前提下快速的给apk文件写入自己想要的数据。
 
 1、[一张图读懂RxJava中的线程控制](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=509777575&idx=1&sn=9ace4885f32a1f274e4be8d839700486&scene=0&previewkey=nzeuLjmwTmgy6%2FZhzIm6qswqSljwj2bfCUaCyDofEow%3D)
 
@@ -30,6 +34,9 @@ RXJava一大引人注目的特性就是它便捷的线程切换操作，那么�
 [Mary Meeker 发布的《2016年互联网趋势报告》中都有哪些亮点？](https://www.zhihu.com/question/47012694)
 
 作为互联网行业从业者，关注互联网发展趋势自然必不可少！
+
+
+## 喜欢Diycode每日精选么？喜欢的话，不妨点个 **[Star](https://github.com/DiyCodes/code_news)** 吧！
 
 
 ## 邮箱订阅
