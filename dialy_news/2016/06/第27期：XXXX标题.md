@@ -16,26 +16,27 @@ gradle的构建速度是众所周知啦，这篇文章就教大家一些AS简单
 
 什么！你使用了第一条里面的所有tips，却依然不能忍受gradle的龟速？好吧，年轻人，不要着急，这里有一件利器送给你，它的名字叫“JRebel”，一个基于增量包热部署思想的AS构建增强插件~
 
-3、[]()
+3、[Android NDK Tombstone/Crash 分析](http://woshijpf.github.io/2016/06/14/Android-NDK-Tombstone-Crash-%E5%88%86%E6%9E%90/)
 
-啦啦啦
+作为程序员，调试Bug永远是最痛苦的一件事情，而在所有的Bug当中访问非法内存又是最最让人崩溃和最难发现的一个问题。
 
 4、[enjarify：Google自家出的Android apk包分析工具](https://github.com/google/enjarify)
 
 是时候使用enjarify取代dex2jar了吧，为何？请戳上方见官方说明！（Google威武，哈哈哈哈）
 
-5、[]()
+5、[Android-SlidingEmojiKeyboard：Emoji滑动键盘](https://github.com/klinker24/Android-SlidingEmojiKeyboard)
 
-![]()
+![](https://raw.githubusercontent.com/klinker24/Android-SlidingEmojiKeyboard/master/ios-emojis/Other/Promo.png)
 
-啦啦啦
+共有 800+ 的 Emoji 表情，好 niubility 的样子！
 
-## 线下活动
+## 课外话题
 
-[]()
+[注册在开曼的公司，其期权究竟能不能买？](https://zhuanlan.zhihu.com/p/21350212)
 
-啦啦啦
+[说说离职员工的期权](http://mp.weixin.qq.com/s?__biz=MzA4MzAwMjczNA==&mid=2648259570&idx=1&sn=ce04f3ac54ee9a7baea5b26cd361f012&scene=1&srcid=0615brPqQpYjPABGFADIbKHL)
 
+你对获得公司期权的了解有多少呢？
 
 ## 邮箱订阅
 
