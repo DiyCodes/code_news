@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[提高Android Studio中Gradle执行效率（需要科学上网）](https://medium.com/@erikhellman/boosting-the-performance-for-gradle-in-your-android-projects-6d5f9e4580b6#.uqq0ntvlz)
 
-啦啦啦
+gradle的构建速度是众所周知啦，这篇文章就教大家一些AS简单的技巧，从而提高构建工程的姿势水平！
 
-2、[]()
+2、[怎样用 JRebel 启动 Android（需要科学上网）](https://medium.com/@shelajev/getting-started-with-jrebel-for-android-426633cde736#.omwuuqggn)
 
-啦啦啦
+什么！你使用了第一条里面的所有tips，却依然不能忍受gradle的龟速？好吧，年轻人，不要着急，这里有一件利器送给你，它的名字叫“JRebel”，一个基于增量包热部署思想的AS构建增强插件~
 
 3、[]()
 
