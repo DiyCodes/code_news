@@ -16,7 +16,7 @@
 
 啦啦啦
 
-3、[]()
+3、[腾讯：以Tencent OS录音机波形动画为实例的 Android 自绘动画实现与优化实战](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577211&idx=1&sn=2619c7df79f675e45e87891b7eb17669&scene=0)
 
 啦啦啦
 
@@ -26,11 +26,11 @@
 
 啦啦啦
 
-## 线下活动
+## 课外话题
 
-[]()
+[程序员必知的七个图形工具](https://github.com/phodal/toolbox/blob/master/graphics.md)
 
-啦啦啦
+看看有没有你一直苦苦寻觅的工具在里面。
 
 
 ## 邮箱订阅
