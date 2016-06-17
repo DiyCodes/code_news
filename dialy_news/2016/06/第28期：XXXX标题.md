@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[自定义View：推翻自己和过往](http://blog.csdn.net/lfdfhl/article/details/51671038)
 
-啦啦啦
+不打鸡血，不喝鸡汤；不念过往，不畏将来。
 
-2、[]()
+2、[The Powerful Android Studio](http://saulmm.github.io/the-powerful-android-studio)
 
-啦啦啦
+Android Studio 一些快捷键的整理，提高效率怎么能少得了这篇
 
 3、[安卓Secret Codes大全](https://www.figotan.org/2016/06/15/android-secret-codes-all/)
 
