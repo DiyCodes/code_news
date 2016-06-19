@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[React Native: It’s not all sugar and spice(需要科学翻墙)](https://blog.addjam.com/react-native-its-not-all-sugar-and-spice-cb5d6b25eae9#.qd7pt0cqb)
 
-啦啦啦
+一位RN深度用户告诉你关于我们追捧的react native那些并不美好的地方，当然没有任何东西是十全十美的，作者也在期待未来的时间里RN变得更加强大和美好！
 
-2、[]()
+2、[Fragments … too complex ? Google IO, N, etc.(需要科学翻墙)](https://medium.com/@jacquesgiraudel/fragments-too-complex-google-io-android-n-etc-75e6a7310b6d#.kl9afac7r)
 
-啦啦啦
+你的fragment太复杂了？你已经被fragment的生命周期搞得头昏脑胀了？也许你可以考虑另一种思路，快来学习一下吧～
 
 3、[腾讯：以Tencent OS录音机波形动画为实例的 Android 自绘动画实现与优化实战](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577211&idx=1&sn=2619c7df79f675e45e87891b7eb17669&scene=0)
 
