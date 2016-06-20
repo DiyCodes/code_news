@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Android Themes — An in-depth guide（需要科学上网）](https://medium.com/@Sserra90/android-themes-an-in-depth-guide-f71f9db6e5bf#.81glcjk89)
 
-啦啦啦
+平时开发application时对于theme接触还是很少的，如果你好奇那么多的theme都有什么区别的话，不要错过这篇短小精炼的文章哦~
 
-2、[]()
+2、[Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool)
 
-啦啦啦
+关于app加载图片造成的内存频繁分配和回收带来的性能问题是Android开发一个老话题了，这里给大家推荐一个Android内存管理框架Glide Bitmap Pool，喜欢尝鲜的小伙伴可以尝试一下，或许会有不一样的体验呢
 
 3、[LoadingDrawable前言](http://www.jianshu.com/p/6e0ac5af4e8b)
 
