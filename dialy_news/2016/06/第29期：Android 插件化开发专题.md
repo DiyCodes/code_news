@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第29期：Android 插件化开发专题(androidblog整理)
 
 ## 深度讨论
 
-[]()
+[Android 插件化开发专题](http://diycode.cc/news/301)
 
-王子，看你了！
+[androidblog](http://www.androidblog.cn/)整理的Android插件化开发专题，内容覆盖基础进阶高端，非常值得推荐
 
 ## Android开发
 
@@ -34,6 +34,9 @@ Android Studio 一些快捷键的整理，提高效率怎么能少得了这篇
 
 看看有没有你一直苦苦寻觅的工具在里面。
 
+[Facebook 围棋引擎 DarkForest 开源了](https://github.com/facebookresearch/darkforestGo)
+
+耐基梅隆大学机器人系博士，Facebook人工智能组研究员田渊栋 今天在知乎专栏大概说了 DarkForest 开发始末https://zhuanlan.zhihu.com/p/21381527
 
 ## 邮箱订阅
 
