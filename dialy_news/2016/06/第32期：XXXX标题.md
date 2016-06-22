@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Auto-initialize your android library](https://medium.com/@andretietz/auto-initialize-your-android-library-2349daf06920#.6tvhkl203)
 
-啦啦啦
+如果你厌倦了每次都要初始化一堆Android库函数，这里可以教你优雅地自动初始化它们~
 
-2、[]()
+2、[Android WebView automation testing](https://medium.com/azimolabs/android-webview-automation-testing-6311df8fe42e#.3ejbfvp90)
 
-啦啦啦
+之前我们提到了关于Android测试的内容，那么今天再带给大家一篇关于Android开发中webview的自动化测试的方式~
 
 3、[]()
 
