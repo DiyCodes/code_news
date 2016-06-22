@@ -16,22 +16,24 @@
 
 如果你在寻找一种方式又快又好地实现UI测试，如果你在想办法提高你的app测试性能，来看看 Mockito 和 Dagger2 会不会帮到你~
 
-3、[]()
+3、[Android应用坐标系统全面详解](http://blog.csdn.net/yanbober/article/details/50419117)
 
-啦啦啦
+你是否对Android的各种坐标系弄得头昏脑胀，这篇图文并茂的文章可以解救你。
 
-4、[]()
+4、[数据结构：九大基础排序总结与对比](http://blog.csdn.net/amazing7/article/details/51603682)
 
-![]()
+有多久没有复习算法和数据结构了呢？是时候回去Review一下了吧。
 
-啦啦啦
+5、[Spotlight：一个不错的App使用指引开源库](https://github.com/wooplr/Spotlight)
 
-## 线下活动
+![](https://raw.githubusercontent.com/wooplr/Spotlight/master/art/intro.gif?token=AA5ZAHdvAspW6Zj8YyyKamkV7jWXFtMHks5XaQovwA%3D%3D)
 
-[]()
 
-啦啦啦
+## 课外话题
 
+[共享经济改变性价比](http://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg==&mid=2650004569&idx=1&sn=928bfee38d46dc601e7a255198f37c1c&scene=1&srcid=0621ASP8rYE8vwdKilLAxAEk)
+
+共享经济的发展，在盘活资源利用率的同时，也在改变着传统的“性价比”计算方式，大家已经不再计算售价（所有权）的性价比，而是租价（使用权）的性价比。
 
 ## 邮箱订阅
 
