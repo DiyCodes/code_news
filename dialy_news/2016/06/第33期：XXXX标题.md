@@ -20,11 +20,10 @@
 
 啦啦啦
 
-4、[]()
+4、[BlurView：类似ios的动态模糊效果，效果相当赞！](https://github.com/Dimezis/BlurView)
 
-![]()
+![](https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png)
 
-啦啦啦
 
 ## 线下活动
 

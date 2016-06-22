@@ -16,20 +16,23 @@
 
 之前我们提到了关于Android测试的内容，那么今天再带给大家一篇关于Android开发中webview的自动化测试的方式~
 
-3、[]()
+3、[Android水波纹特效的简单实现](http://www.jianshu.com/p/cba46422de67)
 
-啦啦啦
+想必大家看完这篇文章会觉得原来插值器还可以这么用。
 
-4、[RecyclerViewUndoSwipe：轻松支持RecyclerView的滑动和拖曳](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)
+4、[QQ空间直播秒开优化实践](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796799&idx=1&sn=42061b7d021b8d8fba00202286cd9372&scene=1&srcid=0623GSte1FRN6mTgBt3yH7jP#wechat_redirect)
+
+QQ空间直播秒开优化实践，直播井喷的年代，值得借鉴。
+
+5、[RecyclerViewUndoSwipe：轻松支持RecyclerView的滑动和拖曳](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)
 
 ![](https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966)
 
-## 线下活动
+## 课外话题
 
-[]()
+[这381所大学千万别报](http://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2658946935&idx=1&sn=3b3961b897456fd60ff6018f4dd7ea1d&scene=1&srcid=06233kUSM9wyV0e80PDEc95Y#wechat_redirect)
 
-啦啦啦
-
+高考分数放榜，填报志愿的童鞋要悠着点了。
 
 ## 邮箱订阅
 
