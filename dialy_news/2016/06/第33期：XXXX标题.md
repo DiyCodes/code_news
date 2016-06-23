@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Android Instant Apps: What You Need to Know](https://medium.com/fuzz/android-instant-apps-what-you-need-to-know-aff546f968f8#.gfq1n0b66)
 
-啦啦啦
+关于android Instant Apps你应该知道的那些事情，这里都有～
 
-2、[]()
+2、[Android Lint工作原理剖析](http://www.carrotsight.com/2016/06/21/Android%20Lint%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90.html)
 
-啦啦啦
+Android Lint是Android SDK提供的一项静态代码分析工具，对于提高代码质量具有重要作用，而如果你还希望了解到它的内部工作原理，就不要错过这篇文章啦
 
 3、[微信：Android拆分与加载Dex的多种方案对比](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
