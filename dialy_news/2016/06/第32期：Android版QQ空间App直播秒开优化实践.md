@@ -1,10 +1,13 @@
-# 第XX期：XXXX标题
+# 第32期：Android版QQ空间App直播秒开优化实践
 
-## 深度讨论
+## Interesting
 
-[]()
+[谷歌Project Soli深入解析](https://zhuanlan.zhihu.com/p/21384539)
 
-王子，看你了！
+Soli是一项运用微型雷达监测空中手势动作的新型传感技术。这种特殊设计的雷达传感器可以追踪亚毫米精准度的高速运动，然后将雷达信号进行各种处理之后，识别成一系列通用的交互手势，方便控制各种可穿戴和微型设备。
+
+关于作者
+陈哲，现谷歌眼镜部门高级软件工程师，关注智能传感，VR/AR,可穿戴设备等领域。曾任加拿大黑莓软件工程师，从事无线通信和传感器软件方面的设计与开发。加拿大McGill大学电子工程专业荣誉学士，滑铁卢大学电子工程硕士。
 
 ## Android开发
 
@@ -33,6 +36,9 @@ QQ空间直播秒开优化实践，直播井喷的年代，值得借鉴。
 [这381所大学千万别报](http://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2658946935&idx=1&sn=3b3961b897456fd60ff6018f4dd7ea1d&scene=1&srcid=06233kUSM9wyV0e80PDEc95Y#wechat_redirect)
 
 高考分数放榜，填报志愿的童鞋要悠着点了。
+
+
+ 喜欢Diycode每日精选么？喜欢的话，不妨点个 **[Star](https://github.com/DiyCodes/code_news)** 吧！
 
 ## 邮箱订阅
 

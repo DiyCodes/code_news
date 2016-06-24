@@ -8,29 +8,32 @@
 
 ## Android开发
 
-1、[]()
+1、[Android Instant Apps: What You Need to Know](https://medium.com/fuzz/android-instant-apps-what-you-need-to-know-aff546f968f8#.gfq1n0b66)
 
-啦啦啦
+关于android Instant Apps你应该知道的那些事情，这里都有～
 
-2、[]()
+2、[Android Lint工作原理剖析](http://www.carrotsight.com/2016/06/21/Android%20Lint%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90.html)
 
-啦啦啦
+Android Lint是Android SDK提供的一项静态代码分析工具，对于提高代码质量具有重要作用，而如果你还希望了解到它的内部工作原理，就不要错过这篇文章啦
 
-3、[]()
+3、[微信：Android拆分与加载Dex的多种方案对比](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
-啦啦啦
+对于Android大型程序来说，64k方法数与线性内存的限制都是必须要考虑的问题。这篇文章对Android官方、微信/手Q、以及Facebook的处理方案进行分析对比，如果你开发的App已经或即将面临64K方法数的问题，那么这篇文章非常值得一读。
 
-4、[BlurView：类似ios的动态模糊效果，效果相当赞！](https://github.com/Dimezis/BlurView)
+4、[一步步教你写StepView（流程指示器）](http://www.jianshu.com/p/df03c1276121)
+
+作者一步一步教你如何写一个自定义View，嗯，效果怎样，看下图
+
+![](https://github.com/baoyachi/StepView/raw/master/art/snapshot.png)
+
+5、[BlurView：类似ios的动态模糊效果，效果相当赞！](https://github.com/Dimezis/BlurView)
 
 ![](https://github.com/Dimezis/BlurView/raw/master/BlurScreenshot.png)
 
 
-## 线下活动
+## 酷工作
 
-[]()
-
-啦啦啦
-
+[Hover Camera 寻资深安卓工程师 (硅谷文化，项目好玩)](http://diycode.cc/topics/143)
 
 ## 邮箱订阅
 
