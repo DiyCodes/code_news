@@ -16,9 +16,9 @@
 
 啦啦啦
 
-3、[]()
+3、[倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 
-啦啦啦
+记住这些提高开发效率的 Android Studio 快捷键操作，效率杠杠的就上去了。
 
 4、[]()
 
