@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Is Retrofit faster than Volley? The answer may surprise you!](https://medium.com/@ali.muzaffar/is-retrofit-faster-than-volley-the-answer-may-surprise-you-4379bc589d7c#.8i8r30qxv)
 
-啦啦啦
+Retrofit和Volley谁更快？实际开发中应该使用Retrofit还是Volley？想知道答案就看看这个吧～
 
-2、[]()
+2、[How I organize Android project structure](https://medium.com/@rey5137/how-i-organize-android-project-structure-5ed9b849dc30#.fwcreiojs)
 
-啦啦啦
+关于设计android项目代码的结构问题，仁者见仁，智者见智，这里给大家提供一种思路以供参考～
 
 3、[No More findViewById（需科学上网）](https://medium.com/google-developers/no-more-findviewbyid-457457644885#.hrx11x80q)
 
