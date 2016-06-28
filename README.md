@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第35期：API接口规范完整版本](dialy_news/2016/06/第35期：API接口规范完整版本.md) 	|
 |[第34期：Android热修复技术专题：来自微信、淘宝、支付宝、QQ空间的热修复方案](dialy_news/2016/06/第34期：Android热修复技术专题：来自微信、淘宝、支付宝、QQ空间的热修复方案.md) 	|
 |[第33期：Google 推出了首个针对无基础初学者的Android 开发微课程](dialy_news/2016/06/第33期：Google 推出了首个针对无基础初学者的Android 开发微课程.md) 	|
 |[第32期：Android版QQ空间App直播秒开优化实践](dialy_news/2016/06/第32期：Android版QQ空间App直播秒开优化实践.md) 	|
@@ -42,25 +43,24 @@
 
 如果你想查看往期内容，[请戳这里](dialy_news/)
 
-## 找到我们
-
-如何找到我们呢？可以通过下面的新浪微博
+## 官方微博
 
 - [优雅的程序员D](http://weibo.com/u/5891258264?topnav=1&wvr=6&topsug=1&is_all=1)
+
+## 管理员微博
+
 - [D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 - [YasicYu](http://weibo.com/3917305697/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
 
-也可以来到 [diycode](http://diycode.cc/)
-
-- [jixiaohua](http://diycode.cc/jixiaohua)
-- [d_clock](http://diycode.cc/d_clock)
-- [yasic](http://diycode.cc/yasic)
-
-**如果你是一个爱写技术博客的童鞋，欢迎发稿时在微博@上小编哦，优秀的文章能让更多童鞋们看到！小编：**[D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
-
 ## 邮箱订阅
 
-目前有 **12K+** 小伙伴订阅了日报，想要订阅我们么，来[猛戳这里](http://list.qq.com/cgi-bin/qf_invite?id=d469993d2c888e971c0fbb2309c4d84256968386b126b967)
+目前有 **12K+** 小伙伴订阅了日报，想要订阅我们么，[猛戳这里](http://list.qq.com/cgi-bin/qf_invite?id=d469993d2c888e971c0fbb2309c4d84256968386b126b967)
+
+## 微信公众号
+
+**优雅的程序员**微信号：diycodes，目前关注人数 700+ 人；
+
+![](http://diycode.b0.upaiyun.com/photo/2016/f031fc25263f7294711038efa72ae579.jpg)
 
 ## 更多
 
