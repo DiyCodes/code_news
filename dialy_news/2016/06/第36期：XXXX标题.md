@@ -20,11 +20,13 @@
 
 啦啦啦
 
-4、[]()
+4、[MagicaSakura：B站Android 开源多主题框架多主题切换框架MagicaSakura](https://github.com/Bilibili/MagicaSakura)
 
-![]()
+![](https://github.com/xyczero/MagicaSakura/raw/master/screenshot/magicasakura.gif)
 
-啦啦啦
+5、[B站Android多主题框架开源：MagicaSakura](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418916&idx=1&sn=18792983f1c86d999004eccadf0a42f9&scene=1&srcid=0628W4oFnmdRguEvi3AUijpo#wechat_redirect)
+
+承接上一条，附上B站童鞋写的关于MagicaSakura的文章。
 
 ## 线下活动
 
