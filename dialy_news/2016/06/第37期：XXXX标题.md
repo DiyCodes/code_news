@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Why Android developers should consider FlatBuffers over JSON](https://medium.freecodecamp.com/why-consider-flatbuffer-over-json-2e4aa8d4ed07#.67y9h5cig)
 
-啦啦啦
+作为android开发者，JSON，GSON，Jackson这些肯定不会陌生，但是你听说过FlatBuffers吗？这是一个高效的跨平台序列化框架，支持C，C#，JAVA等多种常见语言，不妨试一试～
 
-2、[]()
+2、[Getting started with Firebase on Android](http://zeroturnaround.com/rebellabs/getting-started-with-firebase-on-android/)
 
-啦啦啦
+Google为开发者贴心准备的云服务“大餐”Firebase是众多移动端和前端开发者的福音，如果你想摆脱繁琐的服务器逻辑，简洁高效地获得实时性后端服务，就不能错过Firebase～
 
 3、[灵活且强大的RecyclerViewAdapter源码分析](http://www.jianshu.com/p/b1ad50633732#)
 
