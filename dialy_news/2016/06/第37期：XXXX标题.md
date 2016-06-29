@@ -28,12 +28,11 @@ Google为开发者贴心准备的云服务“大餐”Firebase是众多移动端
 
 可能是最好的 Android Binder 解析的资料了，Youtube诗篇 + 中英文版本的Keynote 一并献上。
 
-## 线下活动
+## 课外话题
 
-[]()
+[六月书单](http://mp.weixin.qq.com/s?__biz=MzA5ODc5OTI1NQ==&mid=2653425319&idx=1&sn=c6142fa13d34ea9dc2408ccdd2a4fda4&scene=23&srcid=0630DwitTJyKB9F7TYFOXfiv#rd)
 
-啦啦啦
-
+偶尔和上面这篇文章作者聊过几句，很不错的一位童鞋，上面的是他6月读书的书单，棒棒哒！
 
 ## 邮箱订阅
 
