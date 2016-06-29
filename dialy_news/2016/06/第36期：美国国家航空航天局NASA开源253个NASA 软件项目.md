@@ -8,11 +8,11 @@
 
 ## Android开发
 
-1、[Memory leaks in Android — identify, treat and avoid](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.x30aeimt7)
+1、[Memory leaks in Android — identify, treat and avoid（需要科学上网）](https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.x30aeimt7)
 
 作为一名android开发者，在开发中我们最怕的事情之一莫过于OOM了，而OOM大多数情况下都是由于不当的程序操作造成的内存泄漏导致的，如何定位并避免这一问题的发生呢，来看看这篇文章吧～
 
-2、[Layout Once, Layout Twice — Sold!](https://medium.com/@britt.barak/layout-once-layout-twice-sold-aef156ff16a4#.qmewhmsyu)
+2、[Layout Once, Layout Twice — Sold!（需要科学上网）](https://medium.com/@britt.barak/layout-once-layout-twice-sold-aef156ff16a4#.qmewhmsyu)
 
 视图布局是anroid开发中的重要组成部分，各种layout的协同合作最终形成了每一个可视化界面的基础，想知道layout是如何在系统中运行的，有哪些操作会带来布局绘制的浪费，不如看看这位作者的总结吧！
 
