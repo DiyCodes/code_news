@@ -24,11 +24,9 @@
 
 用用Android官方提供的夜间模式切换功能吧。
 
-5、[]()
+5、[Deep Dive into Android IPC/Binder Framework](http://diycode.cc/news/394)
 
-![]()
-
-啦啦啦
+可能是最好的 Android Binder 解析的资料了，Youtube诗篇 + 中英文版本的Keynote 一并献上。
 
 ## 线下活动
 
