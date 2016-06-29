@@ -16,11 +16,15 @@
 
 啦啦啦
 
-3、[]()
+3、[灵活且强大的RecyclerViewAdapter源码分析](http://www.jianshu.com/p/b1ad50633732#)
 
-啦啦啦
+对于一直在用或者正打算用 RecyclerView 的童鞋们，这篇文章不容错过喔，可以省下你不少时间呢。
 
-4、[]()
+4、[AppCompat v23.2 — DayNight（需科学上网）](https://medium.com/@chrisbanes/appcompat-v23-2-daynight-d10f90c83e94#.4fpke6ktd)
+
+用用Android官方提供的夜间模式切换功能吧。
+
+5、[]()
 
 ![]()
 
