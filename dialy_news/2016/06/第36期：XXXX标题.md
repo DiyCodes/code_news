@@ -16,9 +16,9 @@
 
 视图布局是anroid开发中的重要组成部分，各种layout的协同合作最终形成了每一个可视化界面的基础，想知道layout是如何在系统中运行的，有哪些操作会带来布局绘制的浪费，不如看看这位作者的总结吧！
 
-3、[]()
+3、[从Android代码中来记忆23种设计模式](http://www.jianshu.com/p/1a9f571ad7c0)
 
-啦啦啦
+设计模式，从Android中来，到Android中去。
 
 4、[MagicaSakura：B站Android 开源多主题框架多主题切换框架MagicaSakura](https://github.com/Bilibili/MagicaSakura)
 
@@ -28,11 +28,11 @@
 
 承接上一条，附上B站童鞋写的关于MagicaSakura的文章。
 
-## 线下活动
+## 课外话题
 
-[]()
+[开发者常用的十款Chrome插件](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418938&idx=1&sn=2fa6de36c3e07a8b9e767d9e7984b740&scene=1&srcid=0628bA8Tt5QVD6Uye2keWKOO#wechat_redirect)
 
-啦啦啦
+有了它们可以省事很多呢！
 
 
 ## 邮箱订阅
