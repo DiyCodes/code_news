@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第36期：美国国家航空航天局NASA开源253个NASA 软件项目
 
 ## 深度讨论
 
-[]()
+[美国国家航空航天局NASA开源253个NASA 软件项目](http://diycode.cc/topics/150)
 
-王子，看你了！
+美国宇航局即 NASA 将 253 个软件项目开源目前托管在Gitithub上(https://github.com/nasaNASA)， 希望可以通过开源收获更多项目改进的建议，同时NASA也希望用户可以给NASA提交项目，为此专门开通了官方的开源网站 Code NASA。
 
 ## Android开发
 
@@ -35,8 +35,31 @@
 有了它们可以省事很多呢！
 
 
-## 邮箱订阅
+## 关注我们
 
-想要订阅我们的日报么，来[猛戳这里](http://list.qq.com/cgi-bin/qf_invite?id=d469993d2c888e971c0fbb2309c4d84256968386b126b967)
+目前已经有**12K+**同学订阅了我们的日报，想要订阅[猛戳这里](http://list.qq.com/cgi-bin/qf_invite?id=d469993d2c888e971c0fbb2309c4d84256968386b126b967)
+
+
+**Github ：**
+
+[code_news](https://github.com/DiyCodes/code_news)：目前Watch 21，Star 178，Fork 39；
+
+**官方微博：**
+
+[优雅的程序员D](http://weibo.com/u/5891258264?topnav=1&wvr=6&topsug=1&is_all=1) ：关注人数 549 人；
+
+**管理员微博：**
+[D_clock爱吃葱花](http://weibo.com/u/2480694892) ：关注人数 934 ；
+[YasicYu](http://weibo.com/3917305697/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+[安卓大王子](http://weibo.com/apkbus/) ：关注人数 32141 人；
+
+**微信公众号：**
+
+“优雅的程序员”微信号：diycodes，目前关注人数 723 人；
+
+![](http://diycode.b0.upaiyun.com/photo/2016/f031fc25263f7294711038efa72ae579.jpg)
+
+
 
 **如果你是一个爱写技术博客的童鞋，欢迎发稿时在微博@上小编哦，优秀的文章能让更多童鞋们看到！小编：**[D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
+
