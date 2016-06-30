@@ -34,7 +34,7 @@
 
 2、[腾讯手Q：Hybrid H5跨平台性思考](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=3&sn=96c9ec407e937132595c29b0584cdd5c&scene=0#wechat_redirect)
 
-手Q红包打赏项目的前端开发的负责人，因项目涉及到多 app 跨平台兼容，对 hybrid H5 的跨平台性有了一定的感悟和思考。做下的总结分享，希望能对大家有所帮助。
+手Q红包打赏项目的前端开发的负责人，因项目涉及到多 app 跨平台兼容，对 hybrid H5 的跨平台性有了一定的感悟和思考。做下总结分享，希望能对大家有所帮助。
 
 ## 线下活动
 
