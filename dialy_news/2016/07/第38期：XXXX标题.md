@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[如何构建 Android MVVM 应用程序](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261777&idx=1&sn=e9904d65d108a8146ec1aae88e3806de&scene=0#wechat_redirect)
 
-啦啦啦
+很少有博文告诉你在Android中如何通过Data Binding去构建MVVM的应用框架，这也就是本篇文章的重点，接下来，我们先来看看看什么是MVVM，然后再一步一步来设计整个应用程序框架。
 
-2、[]()
+2、[你造么,Android中程序的停止状态](http://mp.weixin.qq.com/s?__biz=MzA3ODkzNzM3NQ==&mid=2651149587&idx=1&sn=b0dc3622da5dc8968b56b4af077a4256&scene=0#wechat_redirect)
 
-啦啦啦
+很多人遇到过广播接收不到的问题，从Android3.1也就是API12开始，Android引入了一套新的启动控制，也就是程序的停止状态，那让我们来看看停止状态到底是什么吧。
 
 3、[鹅厂专家详解Android N适配要点](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332192&idx=1&sn=963420cb4ac8b9b86838fc9dc066cb73&scene=0#wechat_redirect)
 
