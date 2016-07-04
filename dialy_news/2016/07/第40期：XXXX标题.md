@@ -24,7 +24,7 @@
 
 虽然我不大看好阿里的 Weex，但是童鞋们不妨也玩玩。 顺便问个问题，有谁用阿里云手机么？233333！！
 
-5、[JieCaoVideoPlayer：真正实现 Android 的全屏功能开源播放器]()
+5、[JieCaoVideoPlayer：真正实现 Android 的全屏功能开源播放器](https://github.com/lipangit/JieCaoVideoPlayer/)
 
 ![](https://raw.githubusercontent.com/lipangit/JieCaoVideoPlayer/develop/screenshots/logo2x.png)
 
