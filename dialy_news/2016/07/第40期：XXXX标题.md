@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Design of Android application for developers, what is your favorite approach?](https://medium.com/@lolevsky/design-of-android-application-for-developers-what-is-your-favorite-approach-d16e23cf2ce3#.s8x247trb)
 
-啦啦啦
+你有一个很棒的idea，现在你想实现它，如何设计你的app，如何设计你的架构，如何让项目可持续测试？这些问题都可以在这里获得解答～
 
-2、[]()
+2、[Fast Mocked UI Tests on Android Kotlin](https://medium.com/@elye.project/fast-mocked-ui-tests-on-android-kotlin-89ed0a8a351a#.6gpcjx1wk)
 
-啦啦啦
+在java开发的android项目中已经有很多测试框架来实现快捷的UI测试，但是如果你使用的是酷酷的kotlin，那么你应该看看这篇文章～
 
 3、[]()
 
