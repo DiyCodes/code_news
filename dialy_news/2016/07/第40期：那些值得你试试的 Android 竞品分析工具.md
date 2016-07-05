@@ -1,10 +1,12 @@
-# 第XX期：XXXX标题
+# 第40期：那些值得你试试的 Android 竞品分析工具
 
 ## 深度讨论
 
-[]()
+[那些值得你试试的 Android 竞品分析工具](http://diycode.cc/topics/159)
 
-王子，看你了！
+文章详解析了Apktool、dex2jar、jd-gui、enjarify、Procyon、ClassyShark、TcpDump、WireShark、Fiddler等Android反编译工具，尤其是详解了Apktool的用法，值得推荐！
+
+
 
 ## Android开发
 
@@ -31,6 +33,18 @@
 ![](https://github.com/lipangit/JieCaoVideoPlayer/raw/develop/screenshots/j6.jpg)
 
 真正实现Android的全屏功能，立志成为Android平台使用最广泛的视频播放控件
+
+## iOS开发
+
+1、[Iconic：Auto-generated icon font library for iOS ](https://github.com/dzenbot/Iconic)
+
+一个让iOS开发者更加容易在App里面集成图标和字体的库
+
+2、[iOS 组件化方案探索](http://wereadteam.github.io/2016/03/19/iOS-Component/)
+
+3、[iOS 热修复开源框架 JSPatch 的成长之路](https://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545005&idx=1&sn=5da8510afc267870c9e879ec49f09808&scene=0&key=77421cf58af4a653612fae1d290d1d01a4579e5fbf98bc4a5cfc3b6b362507d34197793ca999442394ff3c9cee9de3c4&ascene=0&uin=NDU1NzA2MTk1&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=bd1o7JgOeZChcvGnoiVVu6ssDtJTqZ1hfLR49RC1uL2hHfNcq4WceHvZ1kON6dRh)
+
+
 
 ## 课外话题
 
