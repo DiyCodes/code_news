@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Navigation in the context of MVP](https://medium.com/@nikita.kozlov/navigation-in-the-context-of-mvp-f474ed313901#.z95130nel)
 
-啦啦啦
+MVP的实践策略真是百家争鸣，关于应用中导航模块的MVP实现，这里提供一种特别的思路～
 
-2、[]()
+2、[Overcoming slow NDK builds](https://medium.com/@andreworobator/overcoming-slow-ndk-builds-7642916f227b#.fzt424v9c)
 
-啦啦啦
+战胜龟速的NDK构建，你应该看看这个！
 
 3、[]()
 
