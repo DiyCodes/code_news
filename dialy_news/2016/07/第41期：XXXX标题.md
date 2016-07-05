@@ -26,12 +26,15 @@
 
 啦啦啦
 
-## 线下活动
+## 课外话题
 
-[]()
+1、[白帽黑客：别TMD再给我发短信！！！](https://zhuanlan.zhihu.com/p/21477119)
 
-啦啦啦
+钓鱼网站套路多。
 
+2、[程序员该如何找合租室友？](http://mp.weixin.qq.com/s?__biz=MzAxMzMxNDIyOA==&mid=2655543632&idx=1&sn=f12662a8ef75945023f8bd0cf1a974be&scene=1&srcid=0705lcruBIVlBDhJuZq0ENys#wechat_redirect)
+
+哈哈哈哈哈哈哈哈，大家自己看！
 
 ## 邮箱订阅
 
