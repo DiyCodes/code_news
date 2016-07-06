@@ -16,22 +16,25 @@
 
 啦啦啦
 
-3、[]()
+3、[教你一步一步实现图标无缝变形切换](http://blog.csdn.net/huachao1001/article/details/51702255)
 
-啦啦啦
+![](http://img.blog.csdn.net/20160620201254338) 
 
-4、[]()
+像上面这样的无缝变形切换动画效果，你知道如何实现么？
 
-![]()
+4、[Data Binding入门篇](http://blog.zhaiyifan.cn/2016/06/16/android-new-project-from-0-p7/)
 
-啦啦啦
+Data Binding可以提升开发效率、性能高、功能强。难道还不值得学习一下么？
 
-## 线下活动
+5、[CarouselLayoutManager：给 RecyclerView 做的传送带效果 LayoutManager ](https://github.com/Azoft/CarouselLayoutManager)
 
-[]()
+![](https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_work_small.gif) ![](https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_double_work_small.gif)
 
-啦啦啦
+## 课外话题
 
+[一家中国广告公司，如何利用恶意软件感染全球8500万台手机](http://www.freebuf.com/news/108366.html)
+
+国人再一次在全世界名声大噪。。。。。。好牛逼的手法，你怕了吗？
 
 ## 邮箱订阅
 
