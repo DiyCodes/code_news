@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Android Decompile-Deepdive: Medium](https://medium.com/@scottmeschke/android-decompile-deepdive-b3ab52194eb6#.i65o5qw5f)
 
-啦啦啦
+每天都在用medium，却不知道它是怎么开发出来的，幸好已经有团队帮我们做了反编译工作，来看看里面暗藏什么玄机吧～
 
-2、[]()
+2、[Ways to communicate between activity and service](https://medium.com/@ankit_aggarwal/ways-to-communicate-between-activity-and-service-6a8f07275297#.6emsmzdhb)
 
-啦啦啦
+关于android中activity和service通信你都知道多少呢～
 
 3、[React Native 你该了解的 Hello World](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=2654472590&idx=1&sn=6a0cb6d768b4bbb572cfc8d2577be980&scene=1&srcid=0707R59oLIPuI55KGEwAMow2#wechat_redirect)
 
