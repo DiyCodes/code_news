@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第43期：一个五年Android开发者百度、阿里、聚美、映客的面试心经
 
 ## 深度讨论
 
-[]()
+[一个Android五年开发者的面试心经](http://diycode.cc/topics/165)
 
-王子，看你了！
+百度阿里聚美映客等公司的面试过程和经历，相信可以帮助不少同学！
 
 ## Android开发
 
@@ -26,7 +26,7 @@
 
 5、[tooltips：给特定 View 增加浮动的 Tip 效果](https://github.com/tomergoldst/tooltips)
 
-<img src="https://cloud.githubusercontent.com/assets/19874536/16546659/485f29ba-415a-11e6-898d-c880e4b643b6.gif" width="200" height="350"/> <img src="https://cloud.githubusercontent.com/assets/19874536/16546707/9b891816-415b-11e6-9be6-735a5649f1d7.gif" width="200" height="350"/>
+![](https://cloud.githubusercontent.com/assets/19874536/16546659/485f29ba-415a-11e6-898d-c880e4b643b6.gif)
 
 ## 课外话题
 
