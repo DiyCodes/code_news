@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Android Nougat — What’s New In The Newest Member Of Google’s Android Family](https://medium.com/@ninehertz/android-nougat-whats-new-in-the-newest-member-of-google-s-android-family-31d963ec9a3b#.ej1j8w7hi)
 
-啦啦啦
+近日，Android N的开发者预览第4版推出了，其中包括API和Android应用开发者SDK，快来看看Android N的新特性和相关信息吧～
 
-2、[]()
+2、[Hard Earned Android Programming Experiences](https://medium.com/@arunsasidharan/hard-earned-android-programming-experiences-361fbaaecd07#.daoehw1c6)
 
-啦啦啦
+如何重构你的代码、如何把一个没有健壮性、耦合性高的项目整理为一个扩展性强、高内聚、低耦合的项目，作者以自己的开发经历向我们展示了code clean的艺术～
 
 3、[]()
 
