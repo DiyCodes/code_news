@@ -16,22 +16,25 @@
 
 如何重构你的代码、如何把一个没有健壮性、耦合性高的项目整理为一个扩展性强、高内聚、低耦合的项目，作者以自己的开发经历向我们展示了code clean的艺术～
 
-3、[]()
+3、[Android Vector曲折的兼容之路](http://www.jianshu.com/p/e3614e7abc03)
 
-啦啦啦
+Android L 上开始推出的 Vector Drawable，有多少童鞋用上了的？
 
-4、[]()
+4、[Google I/O 2016 笔记：APK 瘦身的正确姿势](https://zhuanlan.zhihu.com/p/21543787)
 
-![]()
+业务逻辑不断累积、引入的第三方 SDK 不断增加以及图片资源不变变大，APK 瘦身已经是每个 Android 应用开发者不得不考虑的问题了。坊间流传的各种瘦身方法有些切实可行，有的却流毒甚广。不妨结合这届 I/O 的两个相关 topic 来学习下 APK 瘦身的正确姿势。
 
-啦啦啦
+5、[Music-Player：从设计师的灵感到具体代码实现](https://github.com/andremion/Music-Player)
 
-## 线下活动
+![](https://raw.githubusercontent.com/andremion/Music-Player/master/art/music_player_concept_cropped.gif)
 
-[]()
+感兴趣实现过程的，可以看看 README 中的文章哦！
 
-啦啦啦
+## 课外话题
 
+[养老金 16 年 8 月入市会带来哪些影响？国外有哪些可以借鉴的养老金投资策略？](https://www.zhihu.com/question/46993685)
+
+打理好财务经济是我们每个人的必修课。
 
 ## 邮箱订阅
 
