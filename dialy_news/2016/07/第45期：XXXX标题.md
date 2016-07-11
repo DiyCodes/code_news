@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Using ThreadPoolExecutor in Android](https://medium.com/@amitshekhar/threadpoolexecutor-in-android-8e9d22330ee3#.xr5ikco85)
 
-啦啦啦
+线程池在Android中是一个不可低估的利器，而ThreadPoolExecutor则是执行线程池中一个个线程的真正执行者，那么如何使用它呢~
 
-2、[]()
+2、[Overlap issue with Snackbar](https://medium.com/@phaniraja/overlap-issue-with-snackbar-df49e25be407#.ost4sydwd)
 
-啦啦啦
+snackbar是一个好用又好看的Android新组件，但是想要它和其他组件完美协调配合则需要一番手段，来学习一下吧！
 
 3、[]()
 
