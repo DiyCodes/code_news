@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第45期：VirtualApp：一个高二学生开源的App虚拟引擎
 
 ## 深度讨论
 
-[]()
+[Hacker News：分享与发现新技术](http://www.diycode.cc/news)
 
-王子，看你了！
+diycode news已经上线了一个月有余了，如果你对深度的技术文章比较有兴趣，希望可以分享更多美好的产品给大家，欢迎申请checker（管理员）。有兴趣的同学加我微信jixiaohua888。
 
 ## Android开发
 
