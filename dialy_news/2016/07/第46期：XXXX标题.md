@@ -16,21 +16,23 @@
 
 啦啦啦
 
-3、[]()
+3、[【译】如何给变量取个简短且无歧义的名字](http://yemengying.com/2016/06/25/cleanCode4naming/)
 
-啦啦啦
+命名确实是个非常非常头疼的问题，记得曾经对开发者调查过，最头大的问题就是给变量和方法命名了。
 
-4、[]()
+4、[你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 
-![]()
+从内容上可以看出，作者写得很认真，I like it。提高调试技能从它开始。
 
-啦啦啦
+5、[FocusResize：滚动 RecyclerView Item 大小变化的动画效果](https://github.com/borjabravo10/FocusResize)
 
-## 线下活动
+![](https://github.com/borjabravo10/FocusResize/raw/master/resources/focusResize.gif)
 
-[]()
+## 课外话题
 
-啦啦啦
+[火爆全球的《Pokémon GO》需优化的8个部分](http://geek.csdn.net/news/detail/87940)
+
+最近红透整个地球的一款游戏《Pokémon GO》，票圈，微博，各大社交网站都被刷屏了。一大波宅男终于愿意踏出家门了。。。。。
 
 
 ## 邮箱订阅
