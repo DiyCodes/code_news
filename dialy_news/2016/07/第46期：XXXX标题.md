@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[FirebaseRecyclerAdapter with multiple ViewType（需要科学上网）](https://medium.com/chanse-games-developers/firebaserecycleradapter-with-multiple-viewtype-31b622d9ef5a#.e28wo7ngo)
 
-啦啦啦
+现在我们可以用Firebase库里的RecyclerviewAdapter来优雅地实现recyclerview啦，但是如何实现多种item视图的显示呢，看看这个吧
 
-2、[]()
+2、[Testing legacy code — Singletons（需要科学上网）](https://medium.com/@corneliu/testing-legacy-code-singletons-d5a4741a2e4c#.e10hq6awd)
 
-啦啦啦
+单例模式由于其独特的成员变量和成员函数特性，在某些测试环境下会出现各种状况，来学习一下如何对单例模式进行高效的测试吧！
 
 3、[【译】如何给变量取个简短且无歧义的名字](http://yemengying.com/2016/06/25/cleanCode4naming/)
 
