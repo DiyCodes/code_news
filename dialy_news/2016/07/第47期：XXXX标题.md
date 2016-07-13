@@ -20,13 +20,17 @@
 
 啦啦啦
 
-4、[]()
+4、[ShineButton：点赞也能做得这么美](https://github.com/ChadCSong/ShineButton)
 
-![]()
+![](https://github.com/ChadCSong/ShineButton/raw/master/demo_shine_others.gif)
 
-啦啦啦
+![](https://github.com/ChadCSong/ShineButton/raw/master/demo_small.gif)
 
-## 线下活动
+![](https://github.com/ChadCSong/ShineButton/raw/master/demo_shine_others.gif)
+
+一眼爱上有木有？
+
+## 课外话题
 
 []()
 
