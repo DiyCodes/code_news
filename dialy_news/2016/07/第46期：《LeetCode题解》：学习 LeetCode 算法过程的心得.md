@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第46期：《LeetCode题解》：学习 LeetCode 算法过程的心得
 
 ## 深度讨论
 
-[]()
+[《LeetCode题解》：学习 LeetCode 算法过程的心得](https://siddontang.gitbooks.io/leetcode-solution/content/)
 
-王子，看你了！
+“《LeetCode题解》，用来记录我们刷LeetCode题目时候的心酸历史。我们保证，书中的代码一定通过了当时LeetCode的测试，虽然后续可能因为LeetCode测试条件的改变导致某些解题无法通过，但我们会实时的跟进”想去湾区写代码，赶紧刷刷LeetCode吧，这份LeetCode算法学习的心得，值得一看。
 
 ## Android开发
 
