@@ -12,25 +12,27 @@
 
 关于酷炫又便捷的Coodinatorlatoyout和Behavior你都掌握了吗，不如来瞧瞧吧
 
-2、[]()
+2、[ViewFlipper for State Transitioning（需要科学上网）](https://medium.com/@elye.project/viewflipper-for-state-transitioning-9baea6bcbd5#.af1hkjshn)
 
-啦啦啦
+当系统提供的轮子不能满足我们的需求时，只能操起家伙就重写一番了。
 
-3、[]()
+3、[腾讯：深入理解 ButterKnife，让你的程序学会写代码](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577446&idx=1&sn=e1c12a2dc3d45babf66f86f4840bed2c&scene=1&srcid=0714X6k9l918Vp41kRS8dHnU#wechat_redirect)
 
-啦啦啦
+深入了解 ButterKnife 的工作原理，优秀的开发者怎能局限在调用 API 的层次。
 
-4、[]()
+4、[腾讯：浅谈Android自定义锁屏页的发车姿势](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577446&idx=2&sn=940cfe45f8da91277d1046d90368d440&scene=1&srcid=0714t8UwdRXyYEgmU9RyY1tn#wechat_redirect)
 
-![]()
+锁屏界面这块平时研究甚少，感兴趣的童鞋不妨亲身实践一下。
 
-啦啦啦
+5、[腾讯：Android5.0-6.0双卡适配指南](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332309&idx=1&sn=f9e7270b1610ebf88488c06615bb6ed6&scene=1&srcid=0715Jg2XCASora9IvQMrkSXe#wechat_redirect)
 
-## 线下活动
+极具中国特色的双卡双待问题，不少同学肯定踩过这个巨坑。
 
-[]()
+## 课外话题
 
-啦啦啦
+[如果人民币一次性贬值到位，会对国内外资产价格产生什么影响？](https://www.zhihu.com/question/39288165)
+
+来个跟我们生活息息相关的话题，人名币贬值了怎么破？好了，转眼又到了令人振奋的周五，祝大家周末愉快！
 
 ## 关注我们
 
