@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Getting the most out of Crashlytics（需要科学上网）](https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.44t2mjq7k)
 
-啦啦啦
+如果你的app经常崩溃或者异常退出，你一定不会对Crash reporting陌生，但是你知道通过配置还可以获得更多有用的日志信息吗~
 
-2、[]()
+2、[Exploring the Google Awareness API（需要科学上网）](https://medium.com/exploring-android/exploring-the-new-google-awareness-api-bf45f8060bba#.jyppneei4)
 
-啦啦啦
+Google放出Awareness API啦，这些API可以帮助我们的app根据用户设备环境使用作出更加智能化的反馈，快来一睹为快吧
 
 3、[]()
 
