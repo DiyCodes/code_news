@@ -16,11 +16,15 @@
 
 Google放出Awareness API啦，这些API可以帮助我们的app根据用户设备环境使用作出更加智能化的反馈，快来一睹为快吧
 
-3、[]()
+3、[拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 
-啦啦啦
+Piasy童鞋拆轮子系列文章之一，拆解 OKHTTP 框架，值得玩味！
 
-4、[ShineButton：点赞也能做得这么美](https://github.com/ChadCSong/ShineButton)
+4、[android studio中的单元测试](http://blog.csdn.net/qq_23547831/article/details/51868451)
+
+作者一系列的产品研发文章都可以一看。
+
+5、[ShineButton：点赞也能做得这么美](https://github.com/ChadCSong/ShineButton)
 
 ![](https://github.com/ChadCSong/ShineButton/raw/master/demo_shine_others.gif)
 
@@ -30,12 +34,12 @@ Google放出Awareness API啦，这些API可以帮助我们的app根据用户设�
 
 一眼爱上有木有？
 
+
 ## 课外话题
 
-[]()
+[有哪些「道高一尺魔高一丈」的现实事件？](https://www.zhihu.com/question/48134257)
 
-啦啦啦
-
+好多答案看来笑喷！！！！！！
 
 ## 邮箱订阅
 
