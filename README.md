@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第48期：HermesEventBus-饿了么开源的Android跨进程事件分发框架](dialy_news/2016/07/第48期：HermesEventBus-饿了么开源的Android跨进程事件分发框架.md) 	|
 |[第47期：作为一个有追求的 Android Developer，你是如何保证你的代码质量的？](dialy_news/2016/07/第47期：作为一个有追求的 Android Developer，你是如何保证你的代码质量的？.md) 	|
 |[第46期：《LeetCode题解》：学习 LeetCode 算法过程的心得](dialy_news/2016/07/第46期：《LeetCode题解》：学习 LeetCode 算法过程的心得.md) 	|
 |[第45期：VirtualApp：一个高二学生开源的App虚拟引擎](dialy_news/2016/07/第45期：VirtualApp：一个高二学生开源的App虚拟引擎.md) 	|
