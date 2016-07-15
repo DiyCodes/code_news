@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第48期：HermesEventBus-饿了么开源的Android跨进程事件分发框架
 
-## 深度讨论
+## 开源介绍
 
-[]()
+[HermesEventBus-饿了么开源的Android跨进程事件分发框架](http://www.diycode.cc/news/538)
 
-王子，看你了！
+Hermes-EventBus是一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用。它底层基于EventBus，并且和EventBus有相同API。
 
 ## Android开发
 
