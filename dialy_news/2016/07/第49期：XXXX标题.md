@@ -16,21 +16,17 @@
 
 啦啦啦
 
-3、[]()
+3、[反射技术在android中的应用](http://blog.csdn.net/tiefeng0606/article/details/51700866)
 
-啦啦啦
+带你深入了解反射技术在 Android 平台的应用，受益匪浅。
 
-4、[]()
+4、[Android自定义view详解](http://shaohui.xyz/2016/07/08/Android%E8%87%AA%E5%AE%9A%E4%B9%89view%E8%AF%A6%E8%A7%A3/)
 
-![]()
+一篇关于自定义控件不错的文章，废话不多说，直接看文！
 
-啦啦啦
+5、[反射、注解与依赖注入总结](http://sunfusheng.com/java/2016/04/12/reflection-annotation-injection.html)
 
-## 线下活动
-
-[]()
-
-啦啦啦
+关于反射、注解与依赖注入原理总结的文章，同样受益匪浅，推荐！
 
 
 ## 关注我们
