@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Android strings.xml — things to remember（需科学上网）](https://medium.com/@dmytrodanylyk/android-strings-xml-things-to-remember-c155025bb8bb)
 
-啦啦啦
+关于使用 string.xml 文件的一些 Tips！
 
-2、[]()
+2、[Scroll while scrolling（需科学上网）](https://medium.com/@ozodrukh/scroll-while-scrolling-d2a39e6468d)
 
-啦啦啦
+关于嵌套滑动那些事二！
 
 3、[反射技术在android中的应用](http://blog.csdn.net/tiefeng0606/article/details/51700866)
 
@@ -28,6 +28,12 @@
 
 关于反射、注解与依赖注入原理总结的文章，同样受益匪浅，推荐！
 
+
+## 课外话题
+
+[钢铁侠45代战衣全盘点，土豪烧钱跟咱们就是不一样](https://zhuanlan.zhihu.com/p/21605233)
+
+土豪靠科技，屌丝靠变异!
 
 ## 关注我们
 
