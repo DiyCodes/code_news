@@ -8,39 +8,35 @@
 
 ## Android开发
 
-1、[]()
+[]()
 
 啦啦啦
 
-2、[]()
+[]()
 
 啦啦啦
 
-3、[Android引导页根据滑动渐变改变背景色](http://www.jianshu.com/p/c795ad5bf6f4)
+[]()
 
-![](http://upload-images.jianshu.io/upload_images/2454085-60c25e7b5c9451bb.gif?imageMogr2/auto-orient/strip)
+啦啦啦
 
-作者按照自己的思路，实现了上面的效果，你有更好的实现方式么？
+[]()
 
-4、[小议安卓定位伪造-实战足不出户畅玩 Pokemon Go](http://drops.wooyun.org/tips/17840)
+啦啦啦
 
-最近很火的一款游戏 Pokemon Go ，由于众所周知的原因，天朝玩不了。结果本文的作者......
+[]()
 
-5、[GiftCard：开源的 Android 礼物卡控件](https://github.com/ldoublem/GiftCard)
+![]()
 
-![](https://github.com/ldoublem/GiftCard/raw/master/screenshot/shot.gif)
-
+啦啦啦
 
 ## 课外话题
 
-[时间管理之番茄工作法](http://www.jianshu.com/p/0057d268d4d3)
+[]()
 
-小编也对这套打理时间的方式灰常感冒，很想试试！
+啦啦啦
 
-[是什么原因让你选择离开中国？](https://www.zhihu.com/question/32037241)
-
-确实很想知道什么原因啊！！！！！
-
+> 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
 ## 关注我们
 
