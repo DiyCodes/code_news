@@ -8,13 +8,13 @@
 
 ## Android开发
 
-1、[]()
+1、[Android图片下载"不容易"](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236477&idx=1&sn=fd883f5b6ebb4ac8249de50ad3249793&scene=0#wechat_redirect)
 
-啦啦啦
+想自己写个图片下载的小轮子吗？那可一定要看看这篇文章~
 
-2、[]()
+2、[Building Mobile Apps — Bringing Home the Bacon（需科学上网）](https://medium.com/@cesarmcferreira/building-mobile-apps-bringing-home-the-bacon-f23e35be4a74#.wv55g6zi4)
 
-啦啦啦
+如何开发高效的应用，这里有一些宝贵的经验
 
 3、[Android引导页根据滑动渐变改变背景色](http://www.jianshu.com/p/c795ad5bf6f4)
 
