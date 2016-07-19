@@ -1,10 +1,24 @@
-# 第XX期：XXXX标题
+# 第50期：《Android 开发工程师面试指南 LearningNotes 》
 
 ## 深度讨论
 
-[]()
+[《Android 开发工程师面试指南 LearningNotes 》](http://www.diycode.cc/wiki/androidinterview)
 
-王子，看你了！
+《Android 开发工程师面试指南 LearningNotes》这份指南包含了大部分Android开发的基础、进阶知识，不仅可以帮助准备面试的同学，也可以帮助正在学习和工作的同学梳理自己的知识点。
+
+[Appstore 美国区排行榜前200名都用了哪些SDK？ ](http://www.diycode.cc/news/573)
+
+比如最近 Pokemon Go 用到了9个SDK:
+CrittercismSDK
+Google-AdMob-Ads-SDK
+GoogleNetworkingUtilities
+Nianticproject
+PLCrashReporter
+Unity3d
+Upsight
+Company
+JSQWebViewController
+使用最高的居然还是Facebook 的SDK！
 
 ## Android开发
 
