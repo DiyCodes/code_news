@@ -8,13 +8,15 @@
 
 ## Android开发
 
-1、[]()
+1、[Annotation Processing in Android Studio
+](https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.rjd50n8cc)
 
-啦啦啦
+在androidstudio中使用注解，让代码补全更加智能～
 
-2、[]()
+2、[SortedList — write your RecycleView without an index, Part 1
+](https://medium.com/@jszczygiel/sortedlist-write-your-recycleview-without-an-index-c00ca92c0ca6#.elm3j5tiq)
 
-啦啦啦
+Sortedist在处理有序元素的实现上效果很不错，通过SortedListAdapterCallback跟recycleiew配合使用效果更佳哦～
 
 3、[]()
 
