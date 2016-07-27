@@ -8,9 +8,9 @@
 
 ## Android开发
 
-[]()
+[How to do TDD in Android ?](https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.8ox9mnwf7)
 
-啦啦啦
+TDD即测试驱动开发，是近年来软件开发领域比较先进的思想，那么如何在我们的Android开发中也使用TDD思想呢，你需要看看这个～
 
 []()
 
