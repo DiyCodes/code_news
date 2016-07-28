@@ -8,32 +8,35 @@
 
 ## Android开发
 
-1、[Annotation Processing in Android Studio
-](https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.rjd50n8cc)
+1、[Annotation Processing in Android Studio（需科学上网）](https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.rjd50n8cc)
 
 在androidstudio中使用注解，让代码补全更加智能～
 
-2、[SortedList — write your RecycleView without an index, Part 1
-](https://medium.com/@jszczygiel/sortedlist-write-your-recycleview-without-an-index-c00ca92c0ca6#.elm3j5tiq)
+2、[SortedList — write your RecycleView without an index, Part 1（需科学上网）](https://medium.com/@jszczygiel/sortedlist-write-your-recycleview-without-an-index-c00ca92c0ca6#.elm3j5tiq)
 
 Sortedist在处理有序元素的实现上效果很不错，通过SortedListAdapterCallback跟recycleiew配合使用效果更佳哦～
 
-3、[]()
+3、[一步一步实现Android的MVP框架](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=1&srcid=07289Nbf5unjDpiRXxvw1G90#wechat_redirect)
 
-啦啦啦
+那么多人在谈 MVP，看看鹅厂是如何实现 Android 上的 MVP 框架搭建的！
 
-4、[]()
+4、[分享两个 Android 开源项目和一个 Doc](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=2654472607&idx=1&sn=7676b1993b326183a2b4d135c6ddce00&scene=0#wechat_redirect)
 
-![]()
+Trinea 特地整理出来的 Android 资料， 走过路过千万不要错过！
 
-啦啦啦
+5、[CircularAnim：Android水波动画帮助类，轻松实现View显示/隐藏/startActivity特效](https://github.com/XunMengWinter/CircularAnim)
 
-## 线下活动
+![](https://camo.githubusercontent.com/895f0065aa1d9c993569619853c81180c5d2658e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
 
-[]()
+## 课外话题
 
-啦啦啦
+[如何发现优秀的开源项目？](https://zhuanlan.zhihu.com/p/21773544)
 
+大帅比良心张新出的作品！
+
+[没文化有多可怕？](https://www.zhihu.com/question/26192324)
+
+如题！哈哈哈！
 
 ## 关注我们
 
