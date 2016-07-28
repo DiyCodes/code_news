@@ -8,9 +8,9 @@
 
 ## Android开发
 
-[]()
+[Break your circular dependency with RxJava](https://medium.com/@ferhatparmak/break-your-circular-dependency-with-rxjava-8a487345061#.zgfy7bq43)
 
-啦啦啦
+当我们的项目架构改变时，依赖的安全处理至关重要，而很多时候我们会陷入到环形依赖的陷阱中，那么RxJava就可以帮助我们解决这个问题！
 
 []()
 
