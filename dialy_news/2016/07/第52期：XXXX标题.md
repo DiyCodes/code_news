@@ -12,9 +12,9 @@
 
 TDD即测试驱动开发，是近年来软件开发领域比较先进的思想，那么如何在我们的Android开发中也使用TDD思想呢，你需要看看这个～
 
-[]()
+[Android CI & CD](https://medium.com/@maheshwar.ligade/android-ci-cd-38f8cfc7e5b9#.wpy23eimq)
 
-啦啦啦
+CI即持续集成，CD即持续开发或交付，都是软件开发领域的常见开发策略，如何在android项目里使用呢，看看这个吧～
 
 []()
 
