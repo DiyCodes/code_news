@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第51期：Android程序架构工具及架构设计模式集合（Google官方版）](dialy_news/2016/07/第51期：Android程序架构工具及架构设计模式集合（Google官方版） .md) 	|
 |[第50期：《Android 开发工程师面试指南 LearningNotes 》](dialy_news/2016/07/第50期：《Android 开发工程师面试指南 LearningNotes 》.md) 	|
 |[第49期：Android开发的同学迷茫的你是不是应该先做好目标规划](dialy_news/2016/07/第49期：Android开发的同学迷茫的你是不是应该先做好目标规划.md) 	|
 |[第48期：HermesEventBus-饿了么开源的Android跨进程事件分发框架](dialy_news/2016/07/第48期：HermesEventBus-饿了么开源的Android跨进程事件分发框架.md) 	|
