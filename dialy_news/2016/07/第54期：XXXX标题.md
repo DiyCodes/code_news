@@ -8,13 +8,14 @@
 
 ## Android开发
 
-[]()
+[Using Fastlane Tools and Android
+](https://medium.com/@kmlong1183/using-fastlane-tools-and-android-2e8d76bb138b#.mk6fe1586)
 
-啦啦啦
+Fastlane之前是iOS上常见的持续集成工具，现在Android也可以使用上这个利器啦
 
-[]()
+[Best Practices for Android Developer Productivity](https://medium.com/@sergii/best-practices-for-android-developer-productivity-cfd6ffba804c#.ah52vcs92)
 
-啦啦啦
+这里有一些很有用的Android开发实战经验和开发理念，值得收藏～
 
 []()
 

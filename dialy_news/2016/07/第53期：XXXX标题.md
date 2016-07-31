@@ -12,9 +12,9 @@
 
 当我们的项目架构改变时，依赖的安全处理至关重要，而很多时候我们会陷入到环形依赖的陷阱中，那么RxJava就可以帮助我们解决这个问题！
 
-[]()
+[Creating a Widget for your Android App](https://medium.com/@daggerdwivedi/creating-a-widget-for-your-android-app-1ee915e6af3e#.u4etzj71p)
 
-啦啦啦
+在AndroidStudio中创建Widget已经非常简单了，快来了解一下吧
 
 []()
 
