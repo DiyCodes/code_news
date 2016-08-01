@@ -1,10 +1,10 @@
-# 第52期：XXXX标题
+# 第52期：你是为何走上 Android 开发这条路？
 
 ## 深度讨论
 
-[]()
+[你是为何走上 Android 开发这条路？](http://www.diycode.cc/topics/210)
 
-王子，看你了！
+最近大家一直讨论[Android 开发岗位是不是真的饱和了？](http://www.diycode.cc/topics/209),从初学者到5鸟老鸟，大家都是如何走上Android开发这条路呢？当年我们真的是因为泡妹子而不是因为薪水高才走入这条路的！
 
 ## Android开发
 
