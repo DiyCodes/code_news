@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第53期：XXXX标题
 
 ## 深度讨论
 
@@ -14,27 +14,35 @@
 
 [Creating a Widget for your Android App](https://medium.com/@daggerdwivedi/creating-a-widget-for-your-android-app-1ee915e6af3e#.u4etzj71p)
 
-在AndroidStudio中创建Widget已经非常简单了，快来了解一下吧
+在AndroidStudio中创建Widget已经非常简单了，快来了解一下吧。
 
-[]()
+[详解 Android 是如何启动的](http://www.woaitqs.cc/android/2016/06/15/how-android-launch-itself.html)
 
-啦啦啦
+有多少童鞋知道 Android 系统整个完整的启动流程。
 
-[]()
+[Android中Canvas绘图基础详解](http://blog.csdn.net/iispring/article/details/49770651)
 
-啦啦啦
+这篇文章讲解的是关于 Android 中 Canvas 的基本用法，图文并茂，清晰易懂，荐阅！
 
-[]()
+[AndroidPdfViewer：读取显示PDF文件的Android开源控件](https://github.com/barteksc/AndroidPdfViewer)
 
-![]()
-
-啦啦啦
+关于 Android 平台上读取显示 PDF 的开源资源并不多见，有需要或者感兴趣的童鞋不妨一试。
 
 ## 课外话题
 
-[]()
+[当前移动行业之拙见](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484549&idx=1&sn=1002b3b91ab8559affb23a3fc3b46cf5&scene=1&srcid=0801NeewPxFROHlOve7MonZW#wechat_redirect)
 
-啦啦啦
+《Android群英传》作者对当前移动行业发展的看法，个人觉得很是赞同！身处在这个行业的你或者关注着这个行业的你不妨看看！
+
+[Android开发之感想](http://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649492289&idx=1&sn=1993befdd0f5b2f9a5f84dfe4024b568&scene=1&srcid=0801jg4QCLVfUrQjNcYqKvdi#wechat_redirect)
+
+《Android开发艺术探索》作者分享他对Android开发之路的看法，开头那段话我觉得很好，特地摘抄出来。
+
+```
+对于程序员来说，技术就是饭碗，但是如果你真把技术当成饭碗，那我认为你不会特别开心。一定要去热爱技术，最好技术，然后技术刚好养活了你，
+那么这时候才是最开心的。很多时候，刻意去做一件事，反而不容易做好。如果你以赚钱为目的而编程，那么就注定失去了编程的乐趣，结果也很可能
+赚不了太多的钱。
+```
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
@@ -49,9 +57,7 @@
 |[YasicYu](http://weibo.com/3917305697/profile? rightmod=1&wvr=6&mod=personinfo&is_all=1)  |   微博  | 100+ | 日报发起人  |
 |[安卓大王子](http://weibo.com/apkbus/)   |   微博  | 32141+ | 日报发起人  |
 
-
-
-**微信公众号：**“优雅的程序员”，微信号：diycodes，目前关注人数 970 人；
+**微信公众号：**“优雅的程序员”，微信号：diycodes，目前关注人数 1200+ 人；
 
 ![](http://upload-images.jianshu.io/upload_images/1846413-b42abfa70f909099.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
