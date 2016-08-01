@@ -10,11 +10,11 @@
 
 [How to do TDD in Android ?（需科学上网）](https://medium.com/@nileshjarad/how-to-do-tdd-in-android-90f013d91d7f#.8ox9mnwf7)
 
-TDD即测试驱动开发，是近年来软件开发领域比较先进的思想，那么如何在我们的Android开发中也使用TDD思想呢，你需要看看这个～
+TDD即测试驱动开发，是近年来软件开发领域比较先进的思想，那么如何在我们的Android开发中也使用TDD思想呢，你需要看看这个。
 
 [Android CI & CD（需科学上网）](https://medium.com/@maheshwar.ligade/android-ci-cd-38f8cfc7e5b9#.wpy23eimq)
 
-CI即持续集成，CD即持续开发或交付，都是软件开发领域的常见开发策略，如何在android项目里使用呢，看看这个吧～
+CI即持续集成，CD即持续开发或交付，都是软件开发领域的常见开发策略，如何在android项目里使用呢，看看这个吧。
 
 [Android闹钟设置的解决方案](http://www.jianshu.com/p/1f919c6eeff6)
 
@@ -32,7 +32,7 @@ Android设置闹钟并不像IOS那样这么简单，做过Android设置闹钟的
 
 [巴西里约奥运会会成为一次失败的奥运会吗？](https://www.zhihu.com/question/42012299)
 
-再过几天里约奥运会就要开始了，据说现在巴西满是幺蛾子，被吐槽得不要不要的，话说这届奥运会还能看下去么。。。。。。。。。。。
+再过几天里约奥运会就要开始了，据说现在巴西满是幺蛾子，被吐槽得不要不要的，话说这届奥运会还能看下去么?
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
