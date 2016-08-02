@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第53期：Android 工具整合，让你的 Android 开发更高效](dialy_news/2016/08/第53期：Android 工具整合，让你的 Android 开发更高效.md) 	|
 |[第52期：你是为何走上 Android 开发这条路？](dialy_news/2016/08/第52期：你是为何走上 Android 开发这条路？.md) 	|
 |[第51期：Android程序架构工具及架构设计模式集合（Google官方版）](dialy_news/2016/07/第51期：Android程序架构工具及架构设计模式集合（Google官方版） .md) 	|
 |[第50期：《Android 开发工程师面试指南 LearningNotes 》](dialy_news/2016/07/第50期：《Android 开发工程师面试指南 LearningNotes 》.md) 	|
