@@ -1,12 +1,15 @@
-# 第53期：XXXX标题
+# 第53期：Android 工具整合，让你的 Android 开发更高效
 
 ## 深度讨论
 
-[]()
+[Android 工具整合，让你的 Android 开发更高效](http://www.diycode.cc/wiki/androidtool)
 
-王子，看你了！
+配合[《Android开发书籍推荐：从入门到精通系列学习路线书籍介绍》](http://www.diycode.cc/wiki/androidbook)、[《Android 开发工程师面试指南》](http://www.diycode.cc/wiki/androidinterview)一起使用会更有感觉，大家可以访问http://www.diycode.cc/wiki 查看到很多基础点总结。
 
 ## Android开发
+
+[Android 多线程编程的总结](http://www.diycode.cc/topics/213)
+我们为什么需要多线程机制？什么时候需要到多线程？这个文章总结得不错。
 
 [Break your circular dependency with RxJava](https://medium.com/@ferhatparmak/break-your-circular-dependency-with-rxjava-8a487345061#.zgfy7bq43)
 
