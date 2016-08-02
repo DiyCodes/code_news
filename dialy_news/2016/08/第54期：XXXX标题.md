@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第54期：XXXX标题
 
 ## 深度讨论
 
@@ -8,34 +8,35 @@
 
 ## Android开发
 
-[Using Fastlane Tools and Android
-](https://medium.com/@kmlong1183/using-fastlane-tools-and-android-2e8d76bb138b#.mk6fe1586)
+[Using Fastlane Tools and Android](https://medium.com/@kmlong1183/using-fastlane-tools-and-android-2e8d76bb138b#.mk6fe1586)
 
-Fastlane之前是iOS上常见的持续集成工具，现在Android也可以使用上这个利器啦
+Fastlane之前是iOS上常见的持续集成工具，现在Android也可以使用上这个利器啦!
 
 [Best Practices for Android Developer Productivity](https://medium.com/@sergii/best-practices-for-android-developer-productivity-cfd6ffba804c#.ah52vcs92)
 
-这里有一些很有用的Android开发实战经验和开发理念，值得收藏～
+这里有一些很有用的Android开发实战经验和开发理念，值得收藏。
 
-[]()
+[Matrix原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B09%5DMatrix_Basic.md)
 
-啦啦啦
+图文并茂的告诉你 Matrix 的操作原理，很值得学习的一篇文章。
 
-[]()
+[Android5.1.1 - APK签名校验分析和修改源码绕过签名校验](http://mp.weixin.qq.com/s?__biz=MzIwMTI4Nzk5Ng==&mid=2650219313&idx=1&sn=61ae9dba3c25b07e651c4213863ac0cc&scene=0#wechat_redirect)
 
-啦啦啦
+很简单的一篇源码分析文章，带你了解 APK 签名校验机制。
 
-[]()
+[DayNightToggleButton：一个有趣的 ToggleButton](https://github.com/SilenceDut/DayNightToggleButton)
 
-![]()
-
-啦啦啦
+![](https://github.com/SilenceDut/DayNightToggleButton/raw/master/media/day_night_toggle_button.gif)
 
 ## 课外话题
 
-[]()
+[APP初期上线，有哪些比较靠谱的推广渠道、方式？](https://www.zhihu.com/question/27539055)
 
-啦啦啦
+APP初期上线，没有多少资金，推广费用受限，有哪些比较靠谱的推广渠道、方式？
+
+[关于滴滴+Uber的思考](https://zhuanlan.zhihu.com/p/21827416)
+
+我还记得滴滴的柳青讲的一句话：“2016，干掉所有竞争对手！”
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
@@ -52,7 +53,7 @@ Fastlane之前是iOS上常见的持续集成工具，现在Android也可以使�
 
 
 
-**微信公众号：**“优雅的程序员”，微信号：diycodes，目前关注人数 970 人；
+**微信公众号：**“优雅的程序员”，微信号：diycodes，目前关注人数 1000+ 人；
 
 ![](http://upload-images.jianshu.io/upload_images/1846413-b42abfa70f909099.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
