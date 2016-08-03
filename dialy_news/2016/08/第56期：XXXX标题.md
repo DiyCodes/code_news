@@ -5,16 +5,15 @@
 []()
 
 王子，看你了！
-
 ## Android开发
 
-[]()
+[Android Fragment Navigation Simplified (Not Really..)](https://medium.com/@sharathpro/android-fragment-navigation-simplified-not-really-a732bd39891e#.i0rjsnpk2)
 
-啦啦啦
+在应用中使用Fragment会带来很多灵活的变化，但是同时fragment导航也变得有些失控，这篇文章教你如何解决这个尴尬的问题～
 
-[]()
+[Android Studio Log Colours](https://medium.com/do-androids-dream-of-electric-sheep/android-studio-log-colours-39b9310d9b64#.iiy2c81rz)
 
-啦啦啦
+一种醒目的AS log 颜色设置方案，快去使用一下吧！
 
 []()
 
