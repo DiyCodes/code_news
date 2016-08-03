@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第55期：XXXX标题
 
 ## 深度讨论
 
@@ -20,21 +20,23 @@
 
 从synchronized与volatile这两个关键字说起，进而分析了一种不常见的单例写法。
 
-[]()
+[PorterDuffXfermode使用及工作原理详解](http://blog.csdn.net/iispring/article/details/50472485)
 
-啦啦啦
+在用Android中的Canvas进行绘图时，可以通过使用PorterDuffXfermode将所绘制的图形的像素与Canvas中对应位置的像素按照一定规则进行混合，形成新的像素值，从而更新Canvas中最终的像素颜色值，这样会创建很多有趣的效果。
 
-[]()
+[AndroidPhotoshopColorPicker：像Photoshop一样的Android颜色选择器](https://github.com/AzeeSoft/AndroidPhotoshopColorPicker)
 
-![]()
-
-啦啦啦
+![](https://github.com/AzeeSoft/AndroidPhotoshopColorPicker/blob/master/raw/screen_1.jpg?raw=true)
 
 ## 课外话题
 
-[]()
+[紧急扩散！今天在再大的媒体上看到这条大新闻，也不要信！](http://weibo.com/ttarticle/p/show?id=2309404004498552023211)
 
-啦啦啦
+相信我们大家每个人都已经听说过“e租宝”事件。这个当年被各大主流媒体热捧的融资平台，打着年收益平均14%的惊人数字，成功忽悠了大量普通的中国人给他投资，结果血本无归！其中90%的受害者，都是老年人，损失的都是他们的养老金！可今天，我们却看到很多媒体并没有吸取教训，又在吹捧一个极有可能成为下一个“e租宝”的产品。这个产品，就是所谓的“巴铁一号”。小编想告诉大家**投资需谨慎，不要盲目跟风**
+
+[你是如何强迫自己不断学习提升的？](https://www.zhihu.com/question/23475328)
+
+最喜欢点赞数最多的答案，**看过更大的世界后，就再也不甘心留在原地。不甘心就是动力。**
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
