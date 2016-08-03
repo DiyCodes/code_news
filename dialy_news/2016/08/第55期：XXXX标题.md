@@ -8,9 +8,9 @@
 
 ## Android开发
 
-[]()
+[React Native Animations Using the Animated API](https://medium.com/@dabit3/react-native-animations-using-the-animated-api-ebe8e0669fae#.4fcvnbu3i)
 
-啦啦啦
+React Native怎样实现动画呢，当然是Animated API啦～
 
 []()
 
