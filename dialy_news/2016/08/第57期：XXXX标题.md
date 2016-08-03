@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[Shared element transitions on Android 21+](https://medium.com/@goofyahead/shared-element-transitions-on-android-21-7d694658e112#.1tdrmwxiz)
 
-啦啦啦
+分享一些在Android 21+实现的流畅的动画效果，让你的app更加酷炫～
 
-[]()
+[RxJava + Fast Android Networking](https://medium.freecodecamp.com/rxjava-fast-android-networking-6e3d90ee4387#.xrqv2mg1k)
 
-啦啦啦
+RxJava大家都很熟悉啦，而Fast Android Nestworking则是又一款android网络框架，现在，它也支持RxJava啦～
 
 []()
 
