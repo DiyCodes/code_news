@@ -16,9 +16,9 @@ React Native怎样实现动画呢，当然是Animated API啦～
 
 啦啦啦
 
-[]()
+[你见过这样的单例模式吗？](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236548&idx=1&sn=b6c2e406b0b67874cd55a5638ef3c3c0&scene=1&srcid=0802DVnCp2PMe1pSKoFYu4ay#wechat_redirect)
 
-啦啦啦
+从synchronized与volatile这两个关键字说起，进而分析了一种不常见的单例写法。
 
 []()
 
