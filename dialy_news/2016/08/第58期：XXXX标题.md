@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[Android: Bottom sheet](https://medium.com/@emrullahluleci/android-bottom-sheet-30284293f066#.tel4r6z03)
 
-啦啦啦
+又一个新控件跟大家见面啦，那就是google前段时间提出的bottom sheet，来看看怎么使用吧～
 
-[]()
+[How to survive as a Designer-beginner in a World of Android Developers](https://medium.com/@nickstorchay/how-to-survive-as-a-designer-beginner-in-a-world-of-android-developers-954305cc0e6b#.xmgj5vfea)
 
-啦啦啦
+针对android平台如何进行合理高效的UI设计呢，看看这个吧！
 
 []()
 
