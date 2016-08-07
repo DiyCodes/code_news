@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第57期：湾区求职分享：三个月努力拿到 Google offer，欢迎踊跃提问
 
 ## 深度讨论
 
-[]()
+[湾区求职分享：三个月刷题拿 Google offer，欢迎踊跃提问](http://www.diycode.cc/topics/220)
 
-王子，看你了！
+作者 diycode 发起人之一 p0is0nsteve，曾经在特斯拉、亚马逊实习，现在为Google Software Engineer。如果你是应届生欢迎讨论经验，如果你希望内推，可以直接发送邮件就 OK。
 
 ## Android开发
 
