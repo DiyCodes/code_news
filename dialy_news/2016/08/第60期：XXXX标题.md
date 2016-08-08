@@ -8,9 +8,9 @@
 
 ## Android开发
 
-[]()
+[Gadget + Lewis = Android Lint CI](http://inaka.net/blog/2016/08/04/gadget-lewis-android-lint-ci/)
 
-啦啦啦
+使用Gadget + Lewis实现android项目的代码审核与预览
 
 []()
 
