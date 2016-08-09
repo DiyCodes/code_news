@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[How to Create a Gradient TextView in Android](https://blog.upcurvelabs.com/how-to-create-a-gradient-textview-in-android-c21331da86ab#.ygb3dp6wt)
 
-啦啦啦
+TextView还可以做出梯度颜色的效果哦，快来学习一下吧～
 
-[]()
+[How to create backend using AWS in 3 easy steps (For android developers)](https://medium.com/@jitesh.lalwani/how-to-create-backend-using-aws-in-3-easy-steps-for-android-developers-24c32ed20717#.j13pb3lwu)
 
-啦啦啦
+作为android开发者，有时候也需要开发自己的后台服务，那么不如试试AWS～
 
 []()
 
