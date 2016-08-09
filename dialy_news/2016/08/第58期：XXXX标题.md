@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第58：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,53 @@
 
 ## Android开发
 
-[Android: Bottom sheet](https://medium.com/@emrullahluleci/android-bottom-sheet-30284293f066#.tel4r6z03)
+[Android: Bottom sheet（需要科学上网）](https://medium.com/@emrullahluleci/android-bottom-sheet-30284293f066#.tel4r6z03)
 
-又一个新控件跟大家见面啦，那就是google前段时间提出的bottom sheet，来看看怎么使用吧～
+又一个新控件跟大家见面啦，那就是 Google 前段时间提出的 BottomSheet，来看看怎么使用吧！
 
-[How to survive as a Designer-beginner in a World of Android Developers](https://medium.com/@nickstorchay/how-to-survive-as-a-designer-beginner-in-a-world-of-android-developers-954305cc0e6b#.xmgj5vfea)
+[How to survive as a Designer-beginner in a World of Android Developers（需要科学上网）](https://medium.com/@nickstorchay/how-to-survive-as-a-designer-beginner-in-a-world-of-android-developers-954305cc0e6b#.xmgj5vfea)
 
-针对android平台如何进行合理高效的UI设计呢，看看这个吧！
+针对 Android 平台如何进行合理高效的 UI 设计呢，看看这个吧！
 
-[]()
+[Android 复杂的多类型列表视图新写法：MultiType](http://www.diycode.cc/topics/224)
 
-啦啦啦
+来自于 Drakeet 童鞋抽离出来的开源库，让 ListView、RecyclerView 轻松支持多种 Item 类型。
 
-[]()
+[小红书Android客户端演进之路](http://blog.isming.me/2016/08/08/red-android-evolution/)
 
-啦啦啦
+小红书Android客户端演进之路，大家自己看文章吧！
 
-[]()
+[CameraFilter：开源的 Android 滤镜效果](https://github.com/WeLikeVis/CameraFilter)
 
-![]()
+大家自己感受下！
 
-啦啦啦
+| Title | Live Demo | Preview |
+| :---- | :-------- | :------ |
+| Edge Detection | https://www.shadertoy.com/view/Xtd3W7# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/1.png)|
+| Pixelize | https://www.shadertoy.com/view/4lXXDH# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/2.png)|
+| EM Interference | https://www.shadertoy.com/view/lsXSWl# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/3.png)|
+| Triangles Mosaic | https://www.shadertoy.com/view/4d2SWy | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/4.png) |
+| Legofied | https://www.shadertoy.com/view/XtBSzy# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/5.png) |
+| Tile Mosaic | https://www.shadertoy.com/view/MtfXRN | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/6.png) |
+| Blueorange | https://www.shadertoy.com/view/MslGzr | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/7.png) |
+| Chromatic Aberration | https://www.shadertoy.com/view/Mds3zn | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/8.png) |
+| Basic Deform | https://www.shadertoy.com/view/XdsGzH | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/9.png) |
+| Contrast | https://www.shadertoy.com/view/Xdf3RN | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/10.png) |
+| NoiseWarp | https://www.shadertoy.com/view/4sX3RN | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/11.png) |
+| Refraction | https://www.shadertoy.com/view/MsX3zN# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/12.png) |
+| Mapping | https://www.shadertoy.com/view/XsX3R7# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/13.png) |
+| Crosshatch | https://www.shadertoy.com/view/MdX3Dr | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/14.png) |
+| Lichtenstein-esque | https://www.shadertoy.com/view/Mdf3zS | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/15.png) |
+| Ascii Art | https://www.shadertoy.com/view/lssGDj# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/16.png) |
+| Money Filter | https://www.shadertoy.com/view/XlsXDN | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/17.png) |
+| Cracked | https://www.shadertoy.com/view/XdBSzW | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/18.png) |
+| Polygonization | https://www.shadertoy.com/view/4lsXR7# | ![](https://github.com/WeLikeVis/CameraFilter/raw/master/art/19.png) |
 
 ## 课外话题
 
-[]()
+[如何评价傅园慧 2016 里约奥运会女子 100 米仰泳半决赛结束后的采访？](https://www.zhihu.com/question/49374162)
 
-啦啦啦
+傅园慧欢乐多，我已经使出了洪荒之力。采访视频[戳这里](http://m.v.qq.com/play/play.html?coverid=be93ca7ryou5uf5&vid=a002170phjn)！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
