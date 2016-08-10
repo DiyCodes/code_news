@@ -10,31 +10,37 @@
 
 [How to Create a Gradient TextView in Android](https://blog.upcurvelabs.com/how-to-create-a-gradient-textview-in-android-c21331da86ab#.ygb3dp6wt)
 
-TextView还可以做出梯度颜色的效果哦，快来学习一下吧～
+TextView还可以做出梯度颜色的效果哦，快来学习一下吧！
 
 [How to create backend using AWS in 3 easy steps (For android developers)](https://medium.com/@jitesh.lalwani/how-to-create-backend-using-aws-in-3-easy-steps-for-android-developers-24c32ed20717#.j13pb3lwu)
 
-作为android开发者，有时候也需要开发自己的后台服务，那么不如试试AWS～
+作为android开发者，有时候也需要开发自己的后台服务，那么不如试试AWS。
 
-[]()
+[利用Camera和Matrix实现有趣的卡片效果](http://www.jianshu.com/p/8b3639e2aaa5)
 
-啦啦啦
+效果长下面这样，大家喵喵
 
-[]()
+![](http://upload-images.jianshu.io/upload_images/2157910-ee03919445444da5.gif?imageMogr2/auto-orient/strip)
 
-啦啦啦
+[Android权限机制，你真的了解吗？](http://mp.weixin.qq.com/s?__biz=MzIxNzEyMzIzOA==&mid=2652313851&idx=1&sn=a15519b65e7bedefbb566fe6d01935cb&scene=4#wechat_redirect)
 
-[]()
+腾讯移动品质中心 TMQ 出品，带你了解 Android 系统的权限机制。
 
-![]()
+[JikeGallery：仿即刻App的垂直滚动效果](http://www.diycode.cc/topics/222)
 
-啦啦啦
+![](https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966)
+
+源代码地址戳[这里](https://github.com/JeasonWong/JikeGallery)
 
 ## 课外话题
 
-[]()
+[十年来，编程领域有什么重要进展？](https://www.zhihu.com/question/36615008)
 
-啦啦啦
+太多啦，编程语言层出不穷。
+
+[有了社保还用买商业保险么？](https://www.zhihu.com/question/21545340)
+
+带你了解社保和商保的区别，涨涨知识！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
