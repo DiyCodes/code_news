@@ -26,11 +26,11 @@ TextView还可以做出梯度颜色的效果哦，快来学习一下吧！
 
 腾讯移动品质中心 TMQ 出品，带你了解 Android 系统的权限机制。
 
-[JikeGallery：仿即刻App的垂直滚动效果](https://github.com/JeasonWong/JikeGallery)
+[JikeGallery：仿即刻App的垂直滚动效果](http://www.diycode.cc/topics/222)
 
 ![](https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966)
 
-实现思路参见文章，戳[这里](http://www.wangyuwei.me/2016/08/07/%E6%89%8B%E6%91%B8%E6%89%8B%E6%95%99%E4%BD%A0%E5%86%99%E7%82%AB%E9%85%B7%E6%8E%A7%E4%BB%B6/)
+源代码地址戳[这里](https://github.com/JeasonWong/JikeGallery)
 
 ## 课外话题
 
