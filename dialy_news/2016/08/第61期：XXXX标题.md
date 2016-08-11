@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第61期：XXXX标题
 
 ## 深度讨论
 
@@ -16,25 +16,29 @@
 
 啦啦啦
 
-[]()
+[我们为什么要使用RecyclerView](http://zjutkz.net/2016/08/10/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BD%BF%E7%94%A8RecyclerView/)
 
-啦啦啦
+很赞的分析文章，从源代码的角度告诉你，为什么我们要使用 RecyclerView。
 
-[]()
+[Android 进程保活招式大全](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8&scene=0#wechat_redirect)
 
-啦啦啦
+各种保活的奇技淫巧都在这里了，大家见识就好。
 
-[]()
+[Android无缝切换主题方案实现](http://www.jianshu.com/p/af7c0585dd5b)
 
-![]()
+Android的主题换肤，可插件化提供皮肤包，无需Activity的重启直接实现无缝切换。文章很详细，值得阅读。
 
-啦啦啦
+[nougat-boot-animation：Android N 开机启动动画效果](https://github.com/ybq/nougat-boot-animation)
+
+![](https://raw.githubusercontent.com/ybq/nougat-boot-animation/master/art/effect.gif)
 
 ## 课外话题
 
-[]()
+[如何评价支付宝 9.9 的新版首页？](https://www.zhihu.com/question/49241684)
 
-啦啦啦
+支付宝社交之心不死，最新版貌似又推上了风口浪尖。小编觉得，不管支付宝怎么变，只要还是个很方便的支付工具，用户就可以接受。这是[我的看法](https://www.zhihu.com/question/49241684/answer/116254845)，大家觉得认同的可以顺手进去点个赞。
+
+又到了令人兴奋的星期五，周末愉快哦！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
