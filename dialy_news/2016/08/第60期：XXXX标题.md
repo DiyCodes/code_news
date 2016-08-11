@@ -12,29 +12,31 @@
 
 使用Gadget + Lewis实现android项目的代码审核与预览
 
-[]()
+[Android 中线程间通信原理分析：Looper, MessageQueue, Handler](https://segmentfault.com/a/1190000006171396)
 
-啦啦啦
+在我们学习了解一个新的技术之前，最好是先能回答这两个问题，这样你才能对你正在学习的东西有更深刻的认识。看看作者是如何自问自答的吧！
 
-[]()
+[Android Studio 掌握这些调试技巧，Debug能力不能再高啦](http://www.jianshu.com/p/985f788fae2c)
 
-啦啦啦
+Android Studio 调试必备技巧，你知道打断点能怎么玩吗？
 
-[]()
+[Android开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode)
 
-啦啦啦
+一个开源项目，整理了很多常用的 Android 代码，助你提高开发效率。
 
-[]()
+[QArt4J：生成二维码到图片上](https://github.com/dieforfree/qart4j)
 
-![]()
-
-啦啦啦
+![](https://github.com/dieforfree/qart4j/raw/master/sample-output.png)
 
 ## 课外话题
 
-[]()
+[技术的正宗与野路子](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261357&idx=1&sn=ebb11a1623e00ca8e6ad55c9ad6b2547&scene=1&srcid=0810MsKfVt1u31peJrzQQpQb#rd)
 
-啦啦啦
+为什么有的人可以很快上手一门技术，有些人却迟迟不得其精要？
+
+[如何应对网站反爬虫策略和高效地爬大量数据?](https://www.zhihu.com/question/28168585)
+
+你有张良计，我又过墙梯，技术总是个博弈的过程，有爬虫技术自然也有反爬虫技术。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
