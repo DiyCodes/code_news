@@ -8,6 +8,10 @@
 
 ## Android开发
 
+[APK瘦身的价值、从哪方面入手、需要用到的工具：APK瘦身看这一篇文章就够了](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483757&idx=1&sn=174e4248b56440b0415fd6301d8a7437&scene=1&srcid=0812n44VXMAtMMbonRYBP6xN#wechat_redirect)
+
+OPPO软件负责人张明云总结的关于APK瘦身的文章，值得品读。
+
 [Android动态加载插件APK](https://segmentfault.com/a/1190000006132827)
 
 作者我曾经在开发Android Application的过程中遇到过那个有名的65k方法数的问题。如果你开发的应用程序变得非常庞大，你八成会遇到这个问题。看看人家的解决思路吧！
