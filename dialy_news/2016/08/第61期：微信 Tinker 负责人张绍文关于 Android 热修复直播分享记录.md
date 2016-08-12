@@ -1,10 +1,10 @@
-# 第61期：XXXX标题
+# 第61期：微信 Tinker 负责人张绍文关于 Android 热修复直播分享记录
 
 ## 深度讨论
 
-[]()
+[微信 Tinker 负责人张绍文关于 Android 热修复直播分享记录](http://www.diycode.cc/topics/231)
 
-王子，看你了！
+可能是目前最完整的 Android 热修复分享文章，绍文同学说，如果大家有问题可以直接在diycode提问的。
 
 ## Android开发
 
