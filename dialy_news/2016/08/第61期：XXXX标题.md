@@ -8,13 +8,9 @@
 
 ## Android开发
 
-[]()
+[Android动态加载插件APK](https://segmentfault.com/a/1190000006132827)
 
-啦啦啦
-
-[]()
-
-啦啦啦
+作者我曾经在开发Android Application的过程中遇到过那个有名的65k方法数的问题。如果你开发的应用程序变得非常庞大，你八成会遇到这个问题。看看人家的解决思路吧！
 
 [我们为什么要使用RecyclerView](http://zjutkz.net/2016/08/10/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BD%BF%E7%94%A8RecyclerView/)
 
