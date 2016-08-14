@@ -16,25 +16,29 @@
 
 啦啦啦
 
-[]()
+[手摸手教你写 Slack 的 Loading 动画（代码开源）](http://www.diycode.cc/topics/240)
 
-啦啦啦
+![](https://camo.githubusercontent.com/f8e66102a3782e6b1bd6116bc2fee0179c375a5e/687474703a2f2f69322e7069696d672e636f6d2f313037302f306133626265623762373363366638372e676966)
 
-[]()
+推荐大家学习此文的实现思路，看似复杂的效果，都是经过一步步分解得出来的。
 
-啦啦啦
+[Facebook 如何用React Native做他们的第一个跨平台app（需科学上网）](https://code.facebook.com/posts/1189117404435352/)
 
-[]()
+React Native 的亲爸爸来教你如何如何使用它。
 
-![]()
+[Android DataBinding最佳实践](http://www.jianshu.com/p/1fcda521fcda)
 
-啦啦啦
+作者根据了自己开发经验和实际业务进行的实践总结，很值得一读。尤其是最后的总结。
+
+[Android换肤技术总结](http://blog.zhaiyifan.cn/2015/09/10/Android%E6%8D%A2%E8%82%A4%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
+
+这是一篇关于 Android 换肤技术实现原理的总结文章，文中涵盖了当下所有的技术方案，同样是一篇难得的佳作。
 
 ## 课外话题
 
-[]()
+[大公司和创业公司怎么选？](https://www.zhihu.com/question/23357108)
 
-啦啦啦
+身处职场的你，是否也曾在这十字路口徘徊！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
