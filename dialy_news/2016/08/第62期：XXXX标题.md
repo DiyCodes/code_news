@@ -8,23 +8,19 @@
 
 ## Android开发
 
-[]()
+[Facebook 如何用React Native做他们的第一个跨平台app（需科学上网）](https://code.facebook.com/posts/1189117404435352/)
 
-啦啦啦
+看 React Native 的亲爸爸怎么玩。
 
-[]()
+[贝贝 App 的组件化之路：实现业务快速迭代、提升产品的质量、解决代码依赖和构建速度慢的问题](http://mp.weixin.qq.com/s?__biz=MzIxNjMyNjg3Mg==&mid=2247483661&idx=1&sn=284b925b8dc6a2bb98d3487eeea2a13b&scene=1&srcid=0812t1bNDWM31sD6QIUlZfUc#wechat_redirect)
 
-啦啦啦
+如题！
 
 [手摸手教你写 Slack 的 Loading 动画（代码开源）](http://www.diycode.cc/topics/240)
 
 ![](https://camo.githubusercontent.com/f8e66102a3782e6b1bd6116bc2fee0179c375a5e/687474703a2f2f69322e7069696d672e636f6d2f313037302f306133626265623762373363366638372e676966)
 
 推荐大家学习此文的实现思路，看似复杂的效果，都是经过一步步分解得出来的。
-
-[Facebook 如何用React Native做他们的第一个跨平台app（需科学上网）](https://code.facebook.com/posts/1189117404435352/)
-
-React Native 的亲爸爸来教你如何如何使用它。
 
 [Android DataBinding最佳实践](http://www.jianshu.com/p/1fcda521fcda)
 
