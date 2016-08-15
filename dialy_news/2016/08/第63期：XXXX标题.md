@@ -8,10 +8,6 @@
 
 ## Android开发
 
-[Gadget + Lewis = Android Lint CI](http://inaka.net/blog/2016/08/04/gadget-lewis-android-lint-ci/)
-
-使用Gadget + Lewis实现android项目的代码审核与预览
-
 []()
 
 啦啦啦
@@ -19,6 +15,10 @@
 []()
 
 啦啦啦
+
+[Android apk动态加载机制的研究](http://blog.csdn.net/singwhatiwanna/article/details/22597587)
+
+来自于任玉刚大神的一篇旧文章，如果你对 apk 动态加载机制还不了解，那更应该阅读此文。
 
 []()
 
