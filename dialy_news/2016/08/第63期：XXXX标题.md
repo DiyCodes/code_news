@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[The 5 Modern Rules Of Mobile App](http://www.tentronixnz.com/blogs/technology-and-services/mobile-app-design-rules/)
 
-啦啦啦
+这里总结了五条关于app开发和设计的准则，来看看你是否都做到了吧～
 
-[]()
+[Lint > Correctness > This should probably be a plural rather than a string](https://medium.com/chanse-games-developers/lint-correctness-this-should-probably-be-a-plural-rather-than-a-string-a1c7298f4996#.u8fol26ud)
 
-啦啦啦
+在android开发中，对于一些动态变化的字符串资源，用plural可能更好一些！
 
 [Android apk动态加载机制的研究](http://blog.csdn.net/singwhatiwanna/article/details/22597587)
 
