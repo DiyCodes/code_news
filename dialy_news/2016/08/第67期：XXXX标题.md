@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[Android without Lifecycle: MPVsV approach with Moxy](https://medium.com/@xanderblinov/android-without-lifecycle-mpvsv-approach-with-moxy-6a3ae33521e#.s2xz3eeuj)
 
-啦啦啦
+MVP在android项目中难以实现的一大阻碍是Activity和Fragment复杂的生命周期，这里介绍另一种独特思路，Model——Presenter——ViewState——View approach
 
-[]()
+[How we reduced our Android app size by 65%](https://medium.com/pregbuddy-engineering/how-we-reduced-our-android-app-size-by-65-54b17ae9a3c6#.dglpba8ah)
 
-啦啦啦
+这里总结了一些关于如何压缩apk文件大小的经验，收藏一下吧～
 
 []()
 
