@@ -32,9 +32,9 @@
 
 ## 课外话题
 
-[]()
+[说说 Code Review](http://mp.weixin.qq.com/s?__biz=MzA4ODgwNjk1MQ==&mid=2653788392&idx=1&sn=e84f8546dff32030cef89fc29680db80&scene=1&srcid=0814C5XutS2BHCkAbFEppq1s#rd)
 
-啦啦啦
+话说，有多少童鞋正儿八经的 Code Review 过。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
