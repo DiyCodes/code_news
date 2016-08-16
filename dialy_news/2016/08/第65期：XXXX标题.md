@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[Inject Firebase into your Android project](https://medium.com/@lolevsky/inject-firebase-into-your-android-project-58b5d77744e9#.y7tt81e38)
 
-啦啦啦
+Firebase可是Google推出的一大利器，来看看怎样在自己的项目中使用上它吧～
 
-[]()
+[Creating Highly Modular Android Apps](https://medium.com/stories-from-eyeem/creating-highly-modular-android-apps-933271fbdb7d#.qyyj7g622)
 
-啦啦啦
+如何在android开发中实现高度模块化的app项目，你需要看看这个～
 
 []()
 

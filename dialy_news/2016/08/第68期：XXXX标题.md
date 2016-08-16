@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[Flag Attributes in Android — How to Use Them](https://medium.com/@JakobUlbrich/flag-attributes-in-android-how-to-use-them-ac4ec8aee7d1#.6yvvn1r2z)
 
-啦啦啦
+什么是位标志，什么是位标志运算符，如何创建自己的xml标志属性并在项目中引用它们，你可以看看这里～
 
-[]()
+[Smooth Signatures](https://medium.com/square-corner-blog/smooth-signatures-9d92df119ff8#.g3v0jbxwv)
 
-啦啦啦
+想知道如何在android屏幕上捕捉漂亮的签名效果，来学习一下吧！
 
 []()
 

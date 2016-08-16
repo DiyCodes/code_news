@@ -8,13 +8,13 @@
 
 ## Android开发
 
-[]()
+[Update a view’s background correctly in Android](https://medium.com/@william.liu/update-a-views-background-correctly-in-android-a4ec84d757f4#.13l0gauis)
 
-啦啦啦
+在android中修改view的背景颜色是经常需要做的事情，但是你知道Ice Cream Sandwich版本中修改view背景颜色的方法其实存在一个bug吗？
 
-[]()
+[Android: Anchoring Views to Bottom Sheet](https://medium.com/@emrullahluleci/android-anchoring-views-to-bottom-sheet-9c9069caf7d4#.bmszpm55k)
 
-啦啦啦
+Bottom Sheet移动的时候，其它view可能也需要做相应的运动以达到一致和用户友好的视觉效果，这时候我们就需要将view的锚点定位到Bottom Sheet上，来看看如何实现吧
 
 []()
 
