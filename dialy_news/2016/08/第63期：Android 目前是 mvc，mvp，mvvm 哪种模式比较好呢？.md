@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第63期：Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？
 
 ## 深度讨论
 
-[]()
+[Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？](http://www.diycode.cc/topics/242)
 
-王子，看你了！
+这个话题欢迎大家一起来讨论分享。
 
 ## Android开发
 
