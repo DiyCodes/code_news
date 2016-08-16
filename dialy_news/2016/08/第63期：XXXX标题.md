@@ -10,7 +10,7 @@
 
 [The 5 Modern Rules Of Mobile App](http://www.tentronixnz.com/blogs/technology-and-services/mobile-app-design-rules/)
 
-这里总结了五条关于app开发和设计的准则，来看看你是否都做到了吧～
+这里总结了五条关于app开发和设计的准则，来看看你是否都做到了吧！
 
 [Lint > Correctness > This should probably be a plural rather than a string](https://medium.com/chanse-games-developers/lint-correctness-this-should-probably-be-a-plural-rather-than-a-string-a1c7298f4996#.u8fol26ud)
 
