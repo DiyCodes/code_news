@@ -8,33 +8,39 @@
 
 ## Android开发
 
-[10 Superb Tools for Android Developers!](https://medium.com/@juleebombata/10-superb-tools-for-android-developers-3ef5fe535ba5#.vh14qzj35)
+[10 Superb Tools for Android Developers!（需科学上网）](https://medium.com/@juleebombata/10-superb-tools-for-android-developers-3ef5fe535ba5#.vh14qzj35)
 
-这里总结了当前android开发中非常好用的10个工具，收藏一下吧～
+这里总结了当前android开发中非常好用的10个工具，收藏一下吧。
 
-[Garbage Collection](https://medium.com/@prachipatil/garbage-collection-2400c06ddccf#.to8xe3dj5)
+[Garbage Collection（需科学上网）](https://medium.com/@prachipatil/garbage-collection-2400c06ddccf#.to8xe3dj5)
 
 Java中的垃圾回收机制都搞清楚了吗，不如复习一下吧！
 
-[]()
+[Android Activity 生命周期是如何实现的](http://www.woaitqs.cc/android/2016/07/19/how-activity-lifecircle-work.html)
 
-啦啦啦
+四大组件，谁都离不开 Binder。你知道 Activity 生命周期的各个函数是如何被调用的么？
 
-[]()
+[从源码的角度理解四大组件的工作过程](http://sparkyuan.me/2016/03/14/%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6%E7%9A%84%E5%B7%A5%E4%BD%9C%E8%BF%87%E7%A8%8B/index.html)
 
-啦啦啦
+如题，文中的 UML 图画得很详细，内容注释也很详细，推荐细读。
 
-[]()
+[Android 中 WebView 与 JavaScript 的交互,各种 JsBridge 调用效率的对比](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)
 
-![]()
+如题，现在 Android 越来越不止原生开发了，这种 JS 调本地代码的方式也是越来越多见了。 
 
-啦啦啦
+[BlurredView：基于 RenderScript 实现的高斯模糊开源效果](https://github.com/wl9739/BlurredView)
+
+![](https://github.com/wl9739/BlurredView/raw/master/Gif/demo.gif)
 
 ## 课外话题
 
 [说说 Code Review](http://mp.weixin.qq.com/s?__biz=MzA4ODgwNjk1MQ==&mid=2653788392&idx=1&sn=e84f8546dff32030cef89fc29680db80&scene=1&srcid=0814C5XutS2BHCkAbFEppq1s#rd)
 
 话说，有多少童鞋正儿八经的 Code Review 过。
+
+[Android入坑一年后的反思](http://www.jianshu.com/p/b5da5752d532)
+
+有思考才有进步，加油！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
