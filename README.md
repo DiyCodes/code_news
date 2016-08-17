@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱](dialy_news/2016/08/第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱.md) 	|
 |[第63期：Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？](dialy_news/2016/08/第63期：Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？.md) 	|
 |[第62期：大家开发的 Android App 都用了哪些开源类库呢？围观网易云音乐、微博、微信都用了哪些开源框架](dialy_news/2016/08/第62期：大家开发的 Android App 都用了哪些开源类库呢？围观网易云音乐、微博、微信都用了哪些开源框架。.md) 	|
 |[第61期：微信 Tinker 负责人张绍文关于 Android 热修复直播分享记录](dialy_news/2016/08/第61期：微信 Tinker 负责人张绍文关于 Android 热修复直播分享记录.md) 	|
