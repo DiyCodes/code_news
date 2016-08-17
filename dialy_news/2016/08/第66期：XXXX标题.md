@@ -8,17 +8,17 @@
 
 ## Android开发
 
-[Update a view’s background correctly in Android](https://medium.com/@william.liu/update-a-views-background-correctly-in-android-a4ec84d757f4#.13l0gauis)
+[Update a view’s background correctly in Android（需科学上网）](https://medium.com/@william.liu/update-a-views-background-correctly-in-android-a4ec84d757f4#.13l0gauis)
 
 在android中修改view的背景颜色是经常需要做的事情，但是你知道Ice Cream Sandwich版本中修改view背景颜色的方法其实存在一个bug吗？
 
-[Android: Anchoring Views to Bottom Sheet](https://medium.com/@emrullahluleci/android-anchoring-views-to-bottom-sheet-9c9069caf7d4#.bmszpm55k)
+[Android: Anchoring Views to Bottom Sheet（需科学上网）](https://medium.com/@emrullahluleci/android-anchoring-views-to-bottom-sheet-9c9069caf7d4#.bmszpm55k)
 
-Bottom Sheet移动的时候，其它view可能也需要做相应的运动以达到一致和用户友好的视觉效果，这时候我们就需要将view的锚点定位到Bottom Sheet上，来看看如何实现吧
+Bottom Sheet移动的时候，其它view可能也需要做相应的运动以达到一致和用户友好的视觉效果，这时候我们就需要将view的锚点定位到Bottom Sheet上，来看看如何实现吧!
 
-[]()
+[Android Doze Mode 适配之坑](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484660&idx=1&sn=97b56a6d0c976f6c82503272eee3dacb&scene=1&srcid=0817o3kkY7G4o7bAMJvRt56C#rd)
 
-啦啦啦
+Android 系统好不容易多了个 Doze Mode，结果国产 ROM 做了各种定制，又成一个天坑。
 
 []()
 
@@ -32,9 +32,11 @@ Bottom Sheet移动的时候，其它view可能也需要做相应的运动以达�
 
 ## 课外话题
 
-[]()
+[关于学习和成为专家的方法](https://zi.com/w/a/7152HU?_=1471449428923)
 
-啦啦啦
+很受启发的一篇文章，荐阅！
+
+**又是到了令人振奋的周五，祝各位童鞋周末愉快，带着妹纸出去浪吧！**
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
