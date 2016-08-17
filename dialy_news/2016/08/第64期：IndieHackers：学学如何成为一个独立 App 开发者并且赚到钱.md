@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱
 
 ## 深度讨论
 
-[]()
+[IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱](http://www.diycode.cc/topics/247)
 
-王子，看你了！
+大家可以看看国外的App 独立开发者是如何赚钱的
 
 ## Android开发
 
