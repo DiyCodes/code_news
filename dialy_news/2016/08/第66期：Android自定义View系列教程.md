@@ -1,10 +1,10 @@
-# 第XX期：XXXX标题
+# 第66期：Android自定义View系列教程
 
-## 深度讨论
+## Android最新消息
 
-[]()
+[Android 7 在 8 月 22 日要正式发布了](http://www.diycode.cc/topics/254)
 
-王子，看你了！
+Huawei Nexus 6P、LG Nexus 5X系统将获得更新
 
 ## Android开发
 
