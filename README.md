@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第66期：Android自定义View系列教程](dialy_news/2016/08/第66期：Android自定义View系列教程.md) 	|
 |[第65期：QQ空间终端开发团队：RxJava && Agera从源码简要分析基本调用流程](dialy_news/2016/08/第65期：QQ空间终端开发团队：RxJava && Agera从源码简要分析基本调用流程.md) 	|
 |[第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱](dialy_news/2016/08/第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱.md) 	|
 |[第63期：Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？](dialy_news/2016/08/第63期：Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？.md) 	|
