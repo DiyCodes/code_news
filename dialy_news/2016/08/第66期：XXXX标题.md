@@ -20,21 +20,23 @@ Bottom Sheet移动的时候，其它view可能也需要做相应的运动以达�
 
 Android 系统好不容易多了个 Doze Mode，结果国产 ROM 做了各种定制，又成一个天坑。
 
-[]()
+[PPT分享：Android 老司机在实际项目中是如何做性能优化的](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483791&idx=1&sn=e89655613e19262036b659cba04f54f9&scene=1&srcid=0818vZyVqodLcQspghgIfT5T#rd)
 
-啦啦啦
+很齐全的性能优化资料分析，需要原PPT下载的请戳[下载地址（需要梯子）](https://drive.google.com/file/d/0B0y21wtdkKK7U0ZGWk9JakJubTg/view?usp=sharing)
 
-[]()
+[Android自定义View系列教程目录](http://www.gcssloop.com/1970/01/CustomViewIndex/)
 
-![]()
+一个开发者的心血总结。
 
-啦啦啦
+[Pro Git（中文版）](http://git.oschina.net/progit/index.html)
+
+Git 手册中文版，拿走不谢！
 
 ## 课外话题
 
 [关于学习和成为专家的方法](https://zi.com/w/a/7152HU?_=1471449428923)
 
-很受启发的一篇文章，荐阅！
+想成为技术专家，那么你可能要在头几年舍弃社交，娱乐活动，感情生活，来入门许许多多的东西，并攻坚这些领域。所以仔细看来，如何成为专家呢？就是有了正确的方法后，能够管住自己吧。
 
 **又是到了令人振奋的周五，祝各位童鞋周末愉快，带着妹纸出去浪吧！**
 
