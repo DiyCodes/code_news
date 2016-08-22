@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第67期：App 程序员泡沫-那些冲着高薪去培训做技术的同学，你们可以转行了](dialy_news/2016/08/第67期：App 程序员泡沫-那些冲着高薪去培训做技术的同学，你们可以转行了.md) 	|
 |[第66期：Android自定义View系列教程](dialy_news/2016/08/第66期：Android自定义View系列教程.md) 	|
 |[第65期：QQ空间终端开发团队：RxJava && Agera从源码简要分析基本调用流程](dialy_news/2016/08/第65期：QQ空间终端开发团队：RxJava && Agera从源码简要分析基本调用流程.md) 	|
 |[第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱](dialy_news/2016/08/第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱.md) 	|
