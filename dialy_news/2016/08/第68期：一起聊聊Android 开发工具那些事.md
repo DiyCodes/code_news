@@ -1,10 +1,10 @@
-# 第68期：XXXX标题
+# 第68期：一起聊聊Android 开发工具那些事
 
 ## 深度讨论
 
-[]()
+[《Android 群英传:神兵利器》上市，想跟大家聊一聊 Android 开发工具那些事](http://www.diycode.cc/topics/260)
 
-王子，看你了！
+徐宜生，那个炒菜的Android工程师开贴和大家一起胡聊啦。
 
 ## Android开发
 
