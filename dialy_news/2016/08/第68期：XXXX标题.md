@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第68期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[Flag Attributes in Android — How to Use Them](https://medium.com/@JakobUlbrich/flag-attributes-in-android-how-to-use-them-ac4ec8aee7d1#.6yvvn1r2z)
+[Android 7.0 Nougat 正式发布！](http://mp.weixin.qq.com/s?__biz=MzA5MDg3MjczMg==&mid=2652003553&idx=1&sn=2ec1d9941b74172524fdb9f6d1e8d158&scene=1&srcid=0823U8iNcnj5QfPhSo0xCKcI#rd)
 
-什么是位标志，什么是位标志运算符，如何创建自己的xml标志属性并在项目中引用它们，你可以看看这里～
+正式版的 Android N 包含 250 多项主要特性，说好的夜间模式终于在正式版现身了。
 
-[Smooth Signatures](https://medium.com/square-corner-blog/smooth-signatures-9d92df119ff8#.g3v0jbxwv)
+[Flag Attributes in Android — How to Use Them（需要科学上网）](https://medium.com/@JakobUlbrich/flag-attributes-in-android-how-to-use-them-ac4ec8aee7d1#.6yvvn1r2z)
+
+什么是位标志，什么是位标志运算符，如何创建自己的xml标志属性并在项目中引用它们，你可以看看这篇文章。
+
+[Smooth Signatures（需要科学上网）](https://medium.com/square-corner-blog/smooth-signatures-9d92df119ff8#.g3v0jbxwv)
 
 想知道如何在android屏幕上捕捉漂亮的签名效果，来学习一下吧！
 
-[]()
+[[Android技术专题]应用开发进阶必经之路之性能优化（上）](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483802&idx=1&sn=baaf65910acfa1aebe20a727daeb9877&scene=1&srcid=0822oIn14PFsJUmUA4YaI5PQ#rd)
 
-啦啦啦
+[[Android技术专题]应用开发进阶必经之路之性能优化（下）](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483803&idx=1&sn=4cdb4ba55401bdf80cc1e41dbcbb5fb1&scene=1&srcid=0823BixP6gl4mGiQodSX09Py#rd)
 
-[]()
+应用开发性能优化干货文章，分为上下两篇，全部拿去。
 
-啦啦啦
+[Android卡顿性能监测方案对比](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332439&idx=1&sn=ba542ffeb494d827b9009d4e2128ed5c&scene=1&srcid=0818JKA6GPfCmjaI6yi0EL4O#rd)
 
-[]()
+腾讯测试工程师教你如何监测应用卡顿。
 
-![]()
+[ViewPagerCards：漂亮的 ViewPager](https://github.com/rubensousa/ViewPagerCards)
 
-啦啦啦
+![](https://camo.githubusercontent.com/169da1a6017dc2c13ffd4594cb53536e1c581ce2/68747470733a2f2f727562656e736f7573612e6769746875622e696f2f696d672f64756f6c696e676f5f7669657770616765722e676966)
 
 ## 课外话题
 
-[]()
+[历史上有哪些打脸的故事？](https://www.zhihu.com/question/28057213)
 
-啦啦啦
+娱乐一下，打脸打脸，痛并快乐着！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
