@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第70期：XXXX标题
 
 ## 深度讨论
 
@@ -16,25 +16,33 @@
 
 啦啦啦
 
-[]()
+[纯手工打造一个炫酷的菜单 View](http://www.diycode.cc/topics/262)
 
-啦啦啦
+作者在materialup中看到的一个效果，觉得很不错，就用代码撸了一下，基本还原了UI的效果，大家学习一下他的编码思路可好？
 
-[]()
+[手摸手带你用 VideoView 实现英语流利说炫酷引导页](http://www.diycode.cc/topics/264)
 
-啦啦啦
+Diycode社区一位活跃的童鞋的的新作品，欢迎大家看看，有更好的实现思路的，可以给他提提意见啊！
 
-[]()
+[PuzzleView：开源的Android拼图支持库](https://github.com/wuapnjie/PuzzleView)
 
-![]()
+![](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
 
-啦啦啦
+|                     |                      |                       | 
+| -----------------  | ------------------ | ------------------ | 
+| ![](https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif)| ![](https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo2.gif)   |![](https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/screen1.png)
+
+[InfiniteCycleViewPager：这样的ViewPager有点Q](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
+
+|                     |                      |                       | 
+| -----------------  | ------------------ | ------------------ | 
+| ![](https://lh5.googleusercontent.com/-DpQ9a_kxOhg/V7sDRu6BFlI/AAAAAAAADEM/NLIYoehpbq41sx6qTd5JZ3rrkE6xHQ4RQCL0B/w241-h381-no/hicvp.gif)| ![](https://lh6.googleusercontent.com/-eojSc_l1OLs/V7sDRvJYKWI/AAAAAAAADEM/ZrWnluueFjsKw9vLrrcLaYS1P-DMgcoEQCL0B/w241-h382-no/vicvp.gif)   |![](https://lh3.googleusercontent.com/-qRRmP-bR-fg/V7sDRjviAYI/AAAAAAAADEM/jMhU4PR4ZqAsScoMz-k8ECCAlGgrY2phQCL0B/w241-h381-no/twicvp.gif)
 
 ## 课外话题
 
-[]()
+[几个朋友合伙创业，如何分配股权？](https://www.zhihu.com/question/19551070)
 
-啦啦啦
+献给正在创业，或者有打算创业的童鞋们。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
