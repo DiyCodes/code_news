@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第69期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[BAT Android工程师面试流程解析+还原最真实最完整的一线公司面试题](http://blog.csdn.net/sk719887916/article/details/47040931)
 
-啦啦啦
+需要的童鞋，可以好好的看看。
 
-[]()
+[使用DiffUtil高效更新RecyclerView](http://mp.weixin.qq.com/s?__biz=MzA5ODc5OTI1NQ==&mid=2653425352&idx=1&sn=4828368f722bfb3ea25e9dbc604de7b4&scene=1&srcid=0823gtc36JRwsprGtfo1Ah1Z#rd)
 
-啦啦啦
+DiffUtil是recyclerview support library v7 24.2.0版本中新增的类，有什么用呢？看文章吧。
 
-[]()
+[结合友盟统计的 Android 多渠道快速打包方案](http://blog.csdn.net/u013022222/article/details/52034767)
 
-啦啦啦
+另辟蹊径的打包方案。
 
-[]()
+[使用ViewPager动画来做出不一样的引导页](http://blog.csdn.net/wei_smile/article/details/51167220)
 
-啦啦啦
+下面这种效果有木有耳目一新的感觉。
 
-[]()
+![](http://img.my.csdn.net/uploads/201604/16/1460774609_1329.gif)
 
-![]()
+[ShapeRipple：开源出来的各式各样的波纹效果实现](https://github.com/poldz123/ShapeRipple)
 
-啦啦啦
+![](https://camo.githubusercontent.com/e9ee670a477ec2d0444664cf1d505b0521593fb2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31346a6865724449314b325977772f67697068792e676966)
+
+城里人，真会玩。
 
 ## 课外话题
 
-[]()
+[暗时间：学会正确思考](http://mp.weixin.qq.com/s?__biz=MzAxMjM0OTA3Nw==&mid=2650203640&idx=1&sn=55992406aaf5d3a6c0d26bbd2e5acde9&scene=0)
 
-啦啦啦
+学会时间管理，是每个人的必须课！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
