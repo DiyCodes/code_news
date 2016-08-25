@@ -8,14 +8,6 @@
 
 ## Android开发
 
-[]()
-
-啦啦啦
-
-[]()
-
-啦啦啦
-
 [纯手工打造一个炫酷的菜单 View](http://www.diycode.cc/topics/262)
 
 作者在materialup中看到的一个效果，觉得很不错，就用代码撸了一下，基本还原了UI的效果，大家学习一下他的编码思路可好？
@@ -24,9 +16,16 @@
 
 Diycode社区一位活跃的童鞋的的新作品，欢迎大家看看，有更好的实现思路的，可以给他提提意见啊！
 
-[PuzzleView：开源的Android拼图支持库](https://github.com/wuapnjie/PuzzleView)
 
-![](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
+[自定义LayoutManager 实现弧形以及滑动放大效果RecyclerView](http://www.jianshu.com/p/7bb7556bbe10)
+
+一种 LayoutManager 的实现效果！
+
+[ViewPageerTransform 深入理解,给Viewpager添加切换动画](http://blog.csdn.net/qq_21793463/article/details/52225502)
+
+如题，你会使用 ViewPageerTransform 给你的 ViewPager 加动画么？
+
+[PuzzleView：开源的Android拼图支持库](https://github.com/wuapnjie/PuzzleView)
 
 |                     |                      |                       | 
 | -----------------  | ------------------ | ------------------ | 
