@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第71期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[Android 动态链接库加载原理及 HotFix 方案介绍](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577702&idx=1&sn=1288c77cd8fc2db68dc92cf18d675ace&scene=1&srcid=0825KdKbSSFlTLc8heeIECqv#rd)
 
-啦啦啦
+如题，腾讯开发者带你了解一发。
 
-[]()
+[移动 APP 自动化测试框架对比](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332446&idx=1&sn=64b3c6f032791e3eaf1cacbcf7a038d0&scene=1&srcid=0825PQi8VQWwFAsP21rmtoEL#rd)
 
-啦啦啦
+移动端测试框架真多，你家的产品用哪个框架呢？
 
-[]()
+[Android中的睡与不睡](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484680&idx=1&sn=bd9086a95b769af8d8644cf681ce66ec&scene=1&srcid=0826pauFc0qmPfuxxEmDPq7W#rd)
 
-啦啦啦
+你了解 Android 系统中的睡眠是咋回事吗？不懂的话，看这篇就够了，言简意赅！
 
-[]()
+[Android 开发各类常见错误解决方案](http://www.jianshu.com/p/c5db81cbc438)
 
-啦啦啦
+一些 Android 开发常见的错误解决方案，可以帮你节省不少时间呢，还不进来看看？
 
-[]()
+[你还在为 Android 写麻烦的 Adapter 么？](https://zhuanlan.zhihu.com/p/22146783)
 
-![]()
+学会这个姿势，你可以少些很多 Adapter，荐阅！
 
-啦啦啦
+[Space-Navigation-View：仿 Google Spaces 应用的底部导航栏效果](https://github.com/armcha/Space-Navigation-View)
+
+![](https://github.com/armcha/Space-Navigation-View/raw/master/screens/mainGif.gif)
 
 ## 课外话题
 
-[]()
+[国外有哪些非常有设计感的 App？](http://cellier.me/blog/2015/2/08)
 
-啦啦啦
+有多少你用过呢？
+
+**祝大家周末愉快，么么哒！**
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
