@@ -1,10 +1,9 @@
-# 第71期：XXXX标题
-
+# 第71期：Android 动态链接库加载原理及 HotFix 方案介绍
 ## 深度讨论
 
-[]()
+忍不住要分享一个回帖。[http://www.diycode.cc/topics/219](http://www.diycode.cc/topics/219) 最近一个朋友在硅谷结束创业后，然后去Google， Facebook， Linkedin或者 Amazon面试以及对学习方法的一些总结回帖。 在回帖13楼。 然后不出意外这朋友很可能也是会去Amazon吧。
 
-王子，看你了！
+
 
 ## Android开发
 
