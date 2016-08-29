@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第72期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,39 @@
 
 ## Android开发
 
-[]()
+[知乎和简书的夜间模式实现套路](http://www.diycode.cc/topics/269)
 
-啦啦啦
+逆向分析知乎简书的源代码，分析获得的实现套路。你有更好的解决方案吗？
 
-[]()
+[Android APT（编译时代码生成）最佳实践](https://joyrun.github.io/2016/07/19/AptHelloWorld/)
 
-啦啦啦
+越来越多第三方库使用apt技术，在编译时根据Annotation生成了相关的代码，可以给开发带来了很大的便利。
 
-[]()
+[基于RxJava的一种MVP实现](http://dev.qq.com/topic/57bfef673c1174283d60bac0)
 
-啦啦啦
+腾讯 Dev Club 一周分享整理，欢迎阅读实践。
 
-[]()
+[使用 Android N 的多窗口支持特性！](http://blog.csdn.net/qibin0506/article/details/52270674)
 
-啦啦啦
+Android N 来了，准备怎么玩多窗口这个新特性呢？（问题是，国内什么时候有 N 可以更新）
 
-[]()
+[awesome-adb：adb 命令使用大全](https://github.com/mzlogin/awesome-adb)
 
-![]()
+超级详细的 adb 命令使用文档。
 
-啦啦啦
+[大牛们是怎么阅读 Android 系统源码的？](https://www.zhihu.com/question/19759722)
 
-## 课外话题
+非常好的阅读  Android 系统源码姿势，荐阅！
 
-[]()
+[Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589)
 
-啦啦啦
+如题，在不看这篇文章前，你知道答案么？
+
+## 人物专访
+
+[专访任玉刚：Android 开发艺术探索之路](http://mp.weixin.qq.com/s?__biz=MzI4NzQyODEzNQ==&mid=2247483662&idx=1&sn=d2370d9efd7f78f1f53f71ea68eea6e9&scene=1&srcid=0829cryCJnRgbVPYBzkqYVv9#wechat_redirect)
+
+小编第一次正儿八经的做采访，希望玉刚老师的经验能给在 Android 路上的小伙伴带去一些启示。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
