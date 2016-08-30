@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第72期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[手摸手教你用 Canvas 实现简单粒子动画](http://www.diycode.cc/topics/273)
 
-啦啦啦
+Diycode社区 jeasonwong 童鞋最新作品，大家自己感受下！
 
-[]()
+![](https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif)
 
-啦啦啦
+[自定义View之Matrix详解](http://www.gcssloop.com/2015/02/Matrix_Method/)
 
-[]()
+来自 GcsSloop 童鞋的最新文章，关于 Matrix 使用的详细指南。（GcsSloop 童鞋也是一会自定义控件的达人哦）
 
-啦啦啦
+[Android CoordinatorLayout 与 Behavior 使用指南](http://www.jianshu.com/p/488283f74e69)
 
-[]()
+CoordinatorLayout 与 Behavior 的使用，看上面这位玩家怎么玩的。
 
-啦啦啦
+[Android插件化原理解析——ContentProvider的插件化](http://weishu.me/2016/07/12/understand-plugin-framework-content-provider/)
 
-[]()
+360 大神的插件化文章。
 
-![]()
+[StyleImageView：可操作ImageView/View Background/Drawable/Bitmap的Android滤镜库](https://github.com/chengdazhi/StyleImageView)
 
-啦啦啦
+![](https://github.com/chengdazhi/StyleImageView/raw/master/images/style_sample.gif)
+
+该库的作者是一位 97 年的少年，目前刚上大一，后生可畏啊！
 
 ## 课外话题
 
-[]()
+[李大学：CTO，应该像CEO一样思考](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993906&idx=1&sn=af06ec6930f7822f542a4594eb71011f&scene=1&srcid=0830ZEyIybq7sTNmuNv2pbGY#wechat_redirect)
 
-啦啦啦
+希望能引起大家共鸣。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
