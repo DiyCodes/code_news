@@ -1,10 +1,12 @@
-# 第74期：XXXX标题
+# 第74期：Dropbox、Google、FB、Microsoft、Snapchat、VMWare 等公司面试经验，并提供 Google 内推
 
 ## 深度讨论
 
-[]()
+[Dropbox、Google、FB、Microsoft、Snapchat、VMWare 等公司面试经验，并提供 Google 内推](http://www.diycode.cc/topics/276)
+RT，diycode 湾区工程师群开启啦，以后会有更多关于海外coding 生活经验的分享。
 
-王子，看你了！
+[关于程序猿童鞋和产品童鞋之间的那些撕逼的事儿，你想吐槽些什么？](http://www.diycode.cc/topics/277)
+程序员和产品一堆好伙计一对老冤家，大家有什么要吐槽的么？
 
 ## Android开发
 
