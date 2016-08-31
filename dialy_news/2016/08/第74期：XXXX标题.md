@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第74期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[Android消息机制的原理剖析—闭环总结](http://blog.csdn.net/u012164786/article/details/51638753)
 
-啦啦啦
+里面画的图好棒，全文短小精炼，推荐阅读。
 
-[]()
+[Android N 开发者预览指南](http://www.jianshu.com/p/a269f06433b3)
 
-啦啦啦
+Android N 正式版都已经出了，可以开始好好捣腾了！
 
-[]()
+[Java常考面试题](http://www.jianshu.com/p/bfbe2858c21f)
 
-啦啦啦
+需要面试的孩纸，得好好复习啦！
 
-[]()
+[国内一线互联网公司 Android 面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
 
-啦啦啦
+很齐全的整理，可以复习复习。
 
-[]()
+[你真的理解AIDL中的in，out，inout么？](http://blog.csdn.net/luoyanglizi/article/details/51958091)
 
-![]()
+用过 AIDL 但还不知道其实现原理的童鞋可以好好看看。
 
-啦啦啦
+[RingProgress：漂亮的环形进度条](https://github.com/ldoublem/RingProgress)
+
+![](https://github.com/ldoublem/RingProgress/raw/master/shot/shot3.gif)
 
 ## 课外话题
 
-[]()
+[父母千方百计想控制你的生活和决定，怎么办？](https://www.zhihu.com/question/31534594)
 
-啦啦啦
+如题！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
