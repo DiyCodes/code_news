@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第74期：Dropbox、Google、FB、Microsoft、Snapchat、VMWare 等公司面试经验，并提供 Google 内推](dialy_news/2016/08/第74期：Dropbox、Google、FB、Microsoft、Snapchat、VMWare 等公司面试经验，并提供 Google 内推.md) 	|
 |[第73期：李大学：CTO，应该像CEO一样思考](dialy_news/2016/08/第73期：李大学：CTO，应该像CEO一样思考.md) 	|
 |[第72期：致创业公司创始人：请不要再拿期权忽悠程序员了](dialy_news/2016/08/第72期：致创业公司创始人：请不要再拿期权忽悠程序员了.md) 	|
 |[第71期：Android 动态链接库加载原理及 HotFix 方案介绍](dialy_news/2016/08/第71期：Android 动态链接库加载原理及 HotFix 方案介绍.md) 	|
