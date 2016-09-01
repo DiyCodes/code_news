@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第76期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[自动检测性能问题 - BlockCanary 原理解析](http://www.woaitqs.cc/android/2016/09/01/check-performance.html)
 
-啦啦啦
+从原理上分析 BlockCanary （已经更名叫 AndroidPerformanceMonitor ）是如何实现自动检测性能卡顿的。
 
-[]()
+[Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122)
 
-啦啦啦
+Freeline是蚂蚁金服旗下一站式理财平台蚂蚁聚宝团队在Android平台上的量身定做的一个基于动态替换的编译方案，稳定性方面：完善的基线对齐，进程级别异常隔离机制。性能方面：内部采用了类似Facebook的开源工具buck的多工程多任务并发思想, 并对代码及资源编译流程做了深入的性能优化。
 
-[]()
+[腾讯SNG质量部：Android 专项测试之GPU测试探索](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332483&idx=1&sn=ad50119ddc79aebe7de262f5b8978be1&scene=1&srcid=0901lPEVy0BynaJh29GPPBn3#wechat_redirect)
 
-啦啦啦
+罗列了一些性能分析工具，教你如何做GPU测试。 
 
-[]()
+[Tiger：Google新作，号称最快速的Java依赖注入框架](https://github.com/google/tiger)
 
-啦啦啦
+没错，就是最快速，不服去战。
 
-[]()
+[Android WebView·开车指南](https://jiandanxinli.github.io/2016-08-31.html)
 
-![]()
-
-啦啦啦
+超级好的一份 WebView 开车指南，力荐！
 
 ## 课外话题
 
-[]()
+[和程序猿谈恋爱是一种怎样的体验？](https://www.zhihu.com/question/27653728)
 
-啦啦啦
+程序猿也有萌萌哒的时候。
+
+[哪些 App 改变了你的坏习惯？](https://www.zhihu.com/question/21182063)
+
+你呢？
+
+**又到了令人愉快的周五，预祝童鞋们周末愉快，么么哒！**
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
