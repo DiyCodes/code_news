@@ -2,14 +2,14 @@
 
 ## 深度讨论
 
-[Android Hotfix 新方案——Amigo 源码解读](http://www.diycode.cc/topics/280)
+[1、Android Hotfix 新方案——Amigo 源码解读](http://www.diycode.cc/topics/280)
 
 作者初衷：现在 hotfix 框架有很多，原理大同小异，基本上是基于qq空间这篇文章 或者微信的方案。可惜的是微信的 Tinker 以及 QZone 都没有将其具体实现开源出来，只是在文章中分析了现有各个 hotfix 框架的优缺点以及他们的实现方案。Amigo 原理与 Tinker 基本相同，但是在 Tinker 的基础上，进一步实现了 so 文件、资源文件、Activity、BroadcastReceiver 的修复，几乎可以号称全面修复，不愧 Amigo（朋友）这个称号，能在危急时刻送来全面的帮助。
 
-[知乎上有哪些好的程序员可以关注？](https://www.zhihu.com/question/22576739/answer/120068239?from=profile_answer_card)
-别忘了顺别关注下我啦啦啦啦，App小公主
+[2、知乎上有哪些好的程序员可以关注？](https://www.zhihu.com/question/22576739/answer/120068239?from=profile_answer_card)
 
-王子，看你了！
+
+
 
 ## Android开发
 
