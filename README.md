@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第76期：Android Hotfix 新方案——Amigo 源码解读](dialy_news/2016/09/第76期：Android Hotfix 新方案——Amigo 源码解读.md) 	|
 |[第75期：想写框架的看过来：天才程序员去创造工具，大众程序员去使用工具](dialy_news/2016/08/第75期：想写框架的看过来：天才程序员去创造工具，大众程序员去使用工具.md) 	|
 |[第74期：Dropbox、Google、FB、Microsoft、Snapchat、VMWare 等公司面试经验，并提供 Google 内推](dialy_news/2016/08/第74期：Dropbox、Google、FB、Microsoft、Snapchat、VMWare 等公司面试经验，并提供 Google 内推.md) 	|
 |[第73期：李大学：CTO，应该像CEO一样思考](dialy_news/2016/08/第73期：李大学：CTO，应该像CEO一样思考.md) 	|
