@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第77期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,41 @@
 
 ## Android开发
 
-[]()
+[从源码角度认识ArrayList，LinkedList 与 HashMap](http://www.jianshu.com/p/f174d49b391c)
 
-啦啦啦
+基于 JDK 1.8 ，带你从源码角度认识这些数据结构。
 
-[]()
+[ScratchView：一步步打造万能的 Android 刮奖效果控件](http://www.diycode.cc/topics/287)
 
-啦啦啦
+小编第一次写关于自定义控件的文章，请轻喷！
 
-[]()
+[ 【Android】 DataBinding库（MVVM设计模式）](http://www.jianshu.com/p/5dcdc5798d85)
 
-啦啦啦
+不吹不黑的介绍了 Android DataBinding ，荐阅。
 
-[]()
+[Android高级攻城狮－阅读源码的经验总结](http://www.jianshu.com/p/be86e5678252)
 
-啦啦啦
+老司机的经验之谈。
 
-[]()
+[Android屏幕录制并转换Gif](https://segmentfault.com/a/1190000006794884)
 
-![]()
+AndroidStudio 提供的录屏操作，方便好用。
 
-啦啦啦
+[loaderviewlibrary：漂亮的加载过渡效果](https://github.com/elye/loaderviewlibrary)
+
+![](https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966)
+
+好多大厂的应用都有这种效果，体验很好。
 
 ## 课外话题
 
-[]()
+[不装逼地说，在 Google 到底能学到啥？](http://mp.weixin.qq.com/s?__biz=MzA5NjM1MDI5Mg==&mid=2652283494&idx=1&sn=5674d47f906ed13dae8b1508e82d1861&scene=1&srcid=0902FlvPKYT2vOccsjSjUWp5&from=singlemessage&isappinstalled=0#wechat_redirect)
 
-啦啦啦
+这个问题是作者提给自己的，算是对他 Google 十年的一个小结。
+
+[996是资本寒冬的表现，还是移动互联网进入了下半场？](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058053&idx=1&sn=04cc0020270253fe203ec75b844aa001&scene=2&srcid=0903r6KOUJhNkpEzmsKhazhG&from=timeline&isappinstalled=0#wechat_redirect)
+
+王健林给自己制定了一个小目标之后，58同城也给自己制定了一个小目标，比如说先干它个996。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
