@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第79期：XXXX标题
 
 ## 深度讨论
 
@@ -8,9 +8,9 @@
 
 ## Android开发
 
-[]()
+[关于 Android 自定义控件，你想谈一些什么？](http://www.diycode.cc/topics/81)
 
-啦啦啦
+这是我早前在 Diycode 上提的一个帖子，上面如今已经有了很多超级 nice 的答案。前些天[idtk童鞋](http://www.diycode.cc/idtkma)在这个帖子下分享了自己造轮子的心得，大家可以看看[idtk的回答](http://www.diycode.cc/idtkma/replies)，idtk也是一个自定义控件的达人哦，大家感兴趣可以关注他写的文章。
 
 []()
 
