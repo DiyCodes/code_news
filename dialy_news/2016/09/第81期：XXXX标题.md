@@ -24,17 +24,17 @@
 
 啦啦啦
 
-[]()
+[ThumbUp：点赞都能玩出各种花样](https://github.com/ldoublem/ThumbUp)
 
-![]()
+![](https://github.com/ldoublem/ThumbUp/raw/master/screenShot/shot.gif)
 
-啦啦啦
+大写的服。
 
 ## 课外话题
 
-[]()
+[分享一些自己的学习方法](https://paper.dropbox.com/doc/ViVmfES5n0eGv5DhvzJHH?t=277428713177851)
 
-啦啦啦
+一个大神的学习之道。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
