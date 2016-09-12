@@ -1,10 +1,13 @@
-# 第79期：XXXX标题
+# 第79期：Xairbnb工程师朱赟：也谈代码重构
 
 ## 深度讨论
 
-[]()
+[	airbnb工程师朱赟：也谈代码重构 ](http://www.diycode.cc/news/1134)
 
-王子，看你了！
+
+[AndroidStudio 从基本到高级使用技巧](http://www.diycode.cc/topics/294)
+
+小技巧，熟悉了长远来看还是能够节省时间的，欢迎大家补充。
 
 ## Android开发
 
