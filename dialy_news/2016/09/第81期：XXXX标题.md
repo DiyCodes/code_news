@@ -8,21 +8,21 @@
 
 ## Android开发
 
-[]()
+[2年的Android开发教会了我什么（需科学上网）](https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51#.bzmas3mnc)
 
-啦啦啦
+如题！
 
-[]()
+[业余时间写了一个第三方微博（不使用官方SDK）](http://www.jianshu.com/p/43aac6daca85)
 
-啦啦啦
+很不错的学习例子，就是这么6。
 
-[]()
+[聊聊Android N开始支持的Lambda](http://blog.isming.me/2016/09/13/android-lambda/)
 
-啦啦啦
+Android N 正式版已经发布了。对于开发者来说一个重大的更新是对于Java支持到了Java8，其中一点就是支持Lambda。我们就来聊聊什么是lambda，怎么在Android中使用。
 
-[]()
+[Android WebView：性能优化不得不说的事](http://motalks.cn/2016/09/11/Android-WebView-JavaScript-3/)
 
-啦啦啦
+现在 App 嵌入 H5 页面已经是稀松平常的事情了，开发者要面对 WebView 也越来越多的爆发出来，比如页面加载慢，内存泄露，不同 Android 系统版本采用了不同内核的兼容问题等等。 所以当我们使用了 WebView 这个组件的时候，性能优化的事情就不能不提上议程了。这篇文章我们就针对上述问题来总结下 Android WebView 性能优化的常见方法。
 
 [ThumbUp：点赞都能玩出各种花样](https://github.com/ldoublem/ThumbUp)
 
