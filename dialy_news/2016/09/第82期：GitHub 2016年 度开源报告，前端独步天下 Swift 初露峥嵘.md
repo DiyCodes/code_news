@@ -1,10 +1,10 @@
-# 第82期：XXXX标题
+# 第82期：GitHub 2016年 度开源报告，前端独步天下 Swift 初露峥嵘
 
 ## 深度讨论
 
-[]()
+[GitHub 2016年 度开源报告，前端独步天下 Swift 初露峥嵘](http://www.diycode.cc/topics/299)
 
-王子，看你了！
+GitHub的报告，大家可以看看，了解了解
 
 ## Android开发
 
