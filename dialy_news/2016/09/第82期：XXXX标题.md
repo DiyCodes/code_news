@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第82期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,39 @@
 
 ## Android开发
 
-[]()
+[Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
 
-啦啦啦
+在热更新搞得如火如荼的时代，美团也来谈谈自己的一套方案实现。
 
-[]()
+[FlipShare 分享控件](http://www.diycode.cc/topics/290)
 
-啦啦啦
+![](https://raw.githubusercontent.com/jeasonwong/FlipShare/master/screenshots/flipshare.gif)
 
-[]()
+效果略浮夸，但是用来学习Camera和Matrix也是可以的。
 
-啦啦啦
+[Android面试之线程同步问题](http://mp.weixin.qq.com/s?__biz=MzIxNjM4NDM2NA==&mid=2247483698&idx=1&sn=dce88d98447a978b53015c6d93668e2e&scene=4#wechat_redirect)
 
-[]()
+遇到面试题：如何处理线程同步的问题？你会怎么回答呢？
 
-啦啦啦
+[Java8新特性之Lambda表达式](http://www.jianshu.com/p/6e400da4a239)
 
-[]()
+简单的先过一遍Lamda表达式吧！
 
-![]()
+[代理模式 vs. 装饰模式](http://www.jasongj.com/design_pattern/proxy_decorator/)
 
-啦啦啦
+两大设计模式的对比。
+
+[GoogleClock：Google闹钟动画效果](https://github.com/lypeer/GoogleClock)
+
+![](https://github.com/lypeer/GoogleClock/raw/master/gif/smallclock.gif)
+
+就是这么狂拽酷炫屌炸天！
 
 ## 课外话题
 
-[]()
+[有哪些看起来让人尴尬到脸酸的电影或电视剧片段？](https://www.zhihu.com/question/50084453)
 
-啦啦啦
+多图高能预警！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
