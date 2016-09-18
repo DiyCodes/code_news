@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第83期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[Android LowMemoryKiller原理分析](http://gityuan.com/2016/09/17/android-lowmemorykiller/)
 
-啦啦啦
+一步步带你认识 Low Memory Killer，你知道你的 App 进程是怎么被杀死的么？
 
-[]()
+[【译】Android开发中的MVP架构](http://www.jianshu.com/p/7567ed0d1853)
 
-啦啦啦
+关于 MVP 的一篇译文，言简意赅的告诉你关于 MVP 你需要知道的一切。
 
-[]()
+[使用Retrofit2.0+OkHttp3.0实现缓存处理](http://werb.github.io/2016/07/29/%E4%BD%BF%E7%94%A8Retrofit2+OkHttp3%E5%AE%9E%E7%8E%B0%E7%BC%93%E5%AD%98%E5%A4%84%E7%90%86/)
 
-啦啦啦
+如题！
 
-[]()
+[拆轮子系列：拆 RxJava](http://blog.piasy.com/2016/09/15/Understand-RxJava/)
 
-啦啦啦
+用完轮子拆轮子，拆完轮子造轮子。
 
-[]()
+[Android面试题：如何解决ScrollView嵌套中一个ListView的滑动冲突？](http://mp.weixin.qq.com/s?__biz=MzIxNjM4NDM2NA==&mid=2247483788&idx=1&sn=bbc4442ea49b369b6bc2fd2ac3144815&scene=1&srcid=0918TOhWNz9QIV7C6QEtSgCg#rd)
 
-![]()
+你能从原理上说清楚，解决滑动冲突的原理么？
 
-啦啦啦
+[StylishMusicPlayer：别致的开源音乐播放器](https://github.com/ryanhoo/StylishMusicPlayer)
+
+![](https://github.com/ryanhoo/StylishMusicPlayer/raw/develop/materials/Artboard.png)
+
+没错，就是这么帅！
 
 ## 课外话题
 
-[]()
+[如何有效地进行资料整理？](https://www.zhihu.com/question/21929143)
 
-啦啦啦
+你可能需要提高一下你的效率，不是么？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
