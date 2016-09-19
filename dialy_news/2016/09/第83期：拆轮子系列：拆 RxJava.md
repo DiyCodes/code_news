@@ -1,10 +1,10 @@
-# 第83期：XXXX标题
+# 第83期：拆轮子系列：拆 RxJava
 
 ## 深度讨论
 
-[]()
+[拆轮子系列：拆 RxJava](http://www.diycode.cc/topics/300)
 
-王子，看你了！
+用完轮子拆轮子，拆完轮子造轮子。欢迎更多写出精品文章的同学同时发布到diycode社区，让更多同学看到你的文章。
 
 ## Android开发
 
@@ -20,9 +20,6 @@
 
 如题！
 
-[拆轮子系列：拆 RxJava](http://blog.piasy.com/2016/09/15/Understand-RxJava/)
-
-用完轮子拆轮子，拆完轮子造轮子。
 
 [Android面试题：如何解决ScrollView嵌套中一个ListView的滑动冲突？](http://mp.weixin.qq.com/s?__biz=MzIxNjM4NDM2NA==&mid=2247483788&idx=1&sn=bbc4442ea49b369b6bc2fd2ac3144815&scene=1&srcid=0918TOhWNz9QIV7C6QEtSgCg#rd)
 
@@ -55,7 +52,7 @@
 
 
 
-**微信公众号：**“优雅的程序员”，微信号：diycodes，目前关注人数 970 人；
+**微信公众号：**“优雅的程序员”，微信号：diycodes，目前关注人数 11976 人；
 
 ![](http://upload-images.jianshu.io/upload_images/1846413-b42abfa70f909099.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
