@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第85期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[热修复实现：ClassLoader 方式的实现](http://jaeger.itscoder.com/android/2016/09/20/nuva-source-code-analysis.html)
 
-啦啦啦
+结合 Nuva 项目，来讲讲基于 ClassLoader 方式如何具体实现热修复。
 
-[]()
+[细数令人惊讶的开源Android Apps（需科学上网）](https://medium.freecodecamp.com/android-amazing-open-source-apps-e44f520593cc#.dkyysfn5l)
 
-啦啦啦
+开源对于我们就是福利。
 
-[]()
+[Java 异常捕捉 ( try catch finally ) 你真的掌握了吗？](http://www.blogjava.net/fancydeepin/archive/2012/07/08/382508.html)
 
-啦啦啦
+还有不了解 Java 异常捕捉机制的童鞋么，只看这篇就够了。
 
-[]()
+[Android单元测试 - 如何开始？](http://www.jianshu.com/p/bc99678b1d6e)
 
-啦啦啦
+有多少童鞋在企业开发中写过单元测试代码的？可以来[这里](http://www.diycode.cc/topics/267)吐槽。
 
-[]()
+[Android常用开源框架的源码解读套路](http://silencedut.com/2016/09/09/Android%E5%B8%B8%E7%94%A8%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6%E7%9A%84%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB%E5%A5%97%E8%B7%AF/)
 
-![]()
+相信你也有自己解读源代码的套路。
 
-啦啦啦
+[CircleRecyclerView：无限循环的 RecyclerView 实现](https://github.com/kHRYSTAL/CircleRecyclerView)
+
+![](https://github.com/kHRYSTAL/CircleRecyclerView/raw/master/screenshot/screenshot1.gif)
+
+RecyclerView 被玩出了各种花样。
 
 ## 课外话题
 
-[]()
+[计算机专业大一大二该怎样提升自己的专业技能？](https://www.zhihu.com/question/31072723)
 
-啦啦啦
+从学生时代做起，不是更好么？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
