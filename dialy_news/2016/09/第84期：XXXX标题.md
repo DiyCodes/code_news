@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第84期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[Android子线程真的不能更新UI么](http://www.cnblogs.com/lao-liang/p/5108745.html)
 
-啦啦啦
+从 Framework 的源码角度上告诉你，Android子线程到底能不能更新UI。
 
-[]()
+[Android ColorMatrix详解](http://www.idtkm.com/customview/cutomview13/)
 
-啦啦啦
+ColorMatrix ，一个给你造出各种图片效果的类。
 
-[]()
+[教你实现一个具备展开折叠功能的TextView](http://www.jianshu.com/p/317b118dd2d7)
 
-啦啦啦
+相信大家都在微信朋友圈体验过这种场景：朋友发的笑话都只有半截，下面是一片白色，你要展开全文之后才能知道最后结果。
 
-[]()
+[把RecyclerView撸成马蜂窝](http://www.jianshu.com/p/6c78a5a07db5)
 
-啦啦啦
+好酷，你见过下面这样的 RecyclerView 吗？
 
-[]()
+![](http://upload-images.jianshu.io/upload_images/2096079-1c111174cc276888.gif?imageMogr2/auto-orient/strip)
 
-![]()
+[MaterialColdStart：冷启动效果开源库](https://github.com/DreaminginCodeZH/MaterialColdStart)
 
-啦啦啦
+|	优化前	|	优化后	|
+|-------|-------|
+|	![](https://github.com/DreaminginCodeZH/MaterialColdStart/raw/master/preview/blank_cold_start.gif)	|	![](https://github.com/DreaminginCodeZH/MaterialColdStart/raw/master/preview/material_cold_start.gif)	|
+
+大家自行对比一下，优化前后的效果!
 
 ## 课外话题
 
-[]()
+[Medium 上有哪些优秀的分享 Android 开发技术的作者？](https://www.zhihu.com/question/40992645)
 
-啦啦啦
+如题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
