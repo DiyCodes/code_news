@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第84期：Android Studio 2.2 发布，速度、智能和 Android 平台支持三个方面是新版本亮点](dialy_news/2016/09/第84期：Android Studio 2.2 发布，速度、智能和 Android 平台支持三个方面是新版本亮点.md) 	|
 |[第83期：拆轮子系列：拆 RxJava](dialy_news/2016/09/第83期：拆轮子系列：拆 RxJava.md) 	|
 |[第82期：GitHub 2016年 度开源报告，前端独步天下 Swift 初露峥嵘](dialy_news/2016/09/第82期：GitHub 2016年 度开源报告，前端独步天下 Swift 初露峥嵘.md) 	|
 |[第81期：给 GitHub 开源项目做一个分类，帮你更好发现和寻找到你所需的开源项目](dialy_news/2016/09/第81期：给 GitHub 开源项目做一个分类，帮你更好发现和寻找到你所需的开源项目.md) 	|
