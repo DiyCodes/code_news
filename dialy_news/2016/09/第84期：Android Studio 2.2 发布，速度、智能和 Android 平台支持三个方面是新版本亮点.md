@@ -1,10 +1,10 @@
-# 第84期：XXXX标题
+# 第84期：Android Studio 2.2 发布，速度、智能和 Android 平台支持三个方面是新版本亮点
 
 ## 深度讨论
 
-[]()
+[Android Studio 2.2 发布，速度、智能和 Android 平台支持三个方面是新版本亮点](http://www.diycode.cc/topics/304)
 
-王子，看你了！
+Android产品经理Jamal Eason在开发者博客文章中总结了本次更新的内容，主要集中在速度、智能和Android平台支持三个方面。
 
 ## Android开发
 
