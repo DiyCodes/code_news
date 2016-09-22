@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第86期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[亲爱的面试官，这个我可没看过！（Android部分）](http://www.jianshu.com/p/89f19d67b348)
 
-啦啦啦
+Android面试中高频率出现的题都在这。
 
-[]()
+[自律给你自由——Android设计布局的新姿势](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484731&idx=1&sn=0305af8d0519ea5c8e64d96a94a9c4f5&chksm=83f824bbb48fadadbef805b384330994d74fcf42747f9e61f962cf506aa33a6c0489581916ba&scene=1&srcid=0922ULc4F2XKVqWOxL1V1WRt#rd)
 
-啦啦啦
+ConstraintLayout ，满足你动动手指拖控件的欲望。
 
-[]()
+[Android Studio编译慢、卡死和狂占内存怎么破？](https://www.zhihu.com/question/27953288/answer/118031242)
 
-啦啦啦
+了解 AS 编译过程到底发生了什么，从根源上解决 AS 编译慢和卡的问题。
 
-[]()
+[详解7.0带来的新工具类：DiffUtil](http://blog.csdn.net/zxt0601/article/details/52562770)
 
-啦啦啦
+DiffUtil最大的用处就是在RecyclerView刷新时，不再无脑mAdapter.notifyDataSetChanged()。 
 
-[]()
+[Bilibili：高仿哔哩哔哩动画安卓客户端 - ( ゜- ゜)つロ 乾杯~ - ](https://github.com/HotBitmapGG/bilibili)
 
-![]()
+![](https://github.com/HotBitmapGG/bilibili/raw/OhMyBiliBili/art/01.png)
 
-啦啦啦
+棒棒哒！
 
 ## 课外话题
 
-[]()
+[如何评价 9 月 21 日开始内测的「微信小程序」？](https://www.zhihu.com/question/50874500)
 
-啦啦啦
+微信的每一个举动，都受到瞩目的关注。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
