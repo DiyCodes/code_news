@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第86期：Android 和 iOS 开发者昨天被微信小程序刷屏有什么感受呢？难道写代码也要看风口了](dialy_news/2016/09/第86期：Android 和 iOS 开发者昨天被微信小程序刷屏有什么感受呢？难道写代码也要看风口了.md) 	|
 |[第85期：你用过哪些好用的 Android 开源项目呢？](dialy_news/2016/09/第85期：你用过哪些好用的 Android 开源项目呢？.md) 	|
 |[第84期：Android Studio 2.2 发布，速度、智能和 Android 平台支持三个方面是新版本亮点](dialy_news/2016/09/第84期：Android Studio 2.2 发布，速度、智能和 Android 平台支持三个方面是新版本亮点.md) 	|
 |[第83期：拆轮子系列：拆 RxJava](dialy_news/2016/09/第83期：拆轮子系列：拆 RxJava.md) 	|
