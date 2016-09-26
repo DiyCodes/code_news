@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第87期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[MDCC2016 Android专场PPT整理汇总](https://github.com/MDCC2016/Android-Session-Slides)
 
-啦啦啦
+干货十足，不要错过哦。
 
-[]()
+[沪江技术沙龙资料](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484736&idx=1&sn=9fa1c1db0139570201b011342ea76e7a&chksm=83f824c0b48fadd6523fa75fd9c71de622bf1131110a167d7f02a6790d4b353361a8e39ba4a5&scene=1&srcid=09267yhIjcwoMlE8lhmYnbsP#wechat_redirect)
 
-啦啦啦
+同样是十足的干货，推荐给大家。
 
-[]()
+[Java并发编程：Callable、Future和FutureTask](http://www.cnblogs.com/dolphin0520/p/3949310.html)
 
-啦啦啦
+如果你对Java多线程还只有Runnable的概念，那么好好看这一篇就真的很必要了。
 
-[]()
+[Glide使用大全](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 
-啦啦啦
+关于 Glide 使用非常完整的资料，推荐。
 
-[]()
+[Tinker：万众瞩目的微信热修复框架终于开源了](https://github.com/Tencent/tinker)
 
-![]()
+![](https://github.com/Tencent/tinker/raw/dev/assets/tinker.png)
 
-啦啦啦
+热修复，哪家强？
 
 ## 课外话题
 
-[]()
+[微信小程序来了，Android程序员需要紧张吗？](http://mp.weixin.qq.com/s?__biz=MzIxNjM4NDM2NA==&mid=2247483810&idx=1&sn=9a10a5495c0afa4577ee6e7b9a320ea0&chksm=978897a1a0ff1eb7e6408cd75c94843dd3f70e5c9d119b2de1239c6929b96fb41436d7b0e9b6&scene=1&srcid=0926U05yNiBPDN6sKI1J5blP#wechat_redirect)
 
-啦啦啦
+不可否认，微信的小程序确实带来了更多的机会。
+
+[微信，QQ之后，还有这么多好玩的社交App](http://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651256889&idx=1&sn=97fbeef6e62e70730fe6543449acbb3a&chksm=f37b2fecc40ca6fa320e439019d23a7a8d652d85e7028d56dfcb3ea02de07fe8545f609f02f6&scene=1&srcid=09268BFPJ6sMzOAhR2gyR1qo#wechat_redirect)
+
+有好些我都没用过，感觉自己落伍了都。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
