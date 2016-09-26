@@ -13,7 +13,7 @@
 
 懒得科学上网的同学可以直接在github 上查看https://github.com/googlevr/
 
-［刚刚获得 ProductHunt 的发布权限，有谁有好的玩意想要分享直接找我就行哈］（http://www.diycode.cc/topics/314）
+[刚刚获得 ProductHunt 的发布权限，有谁有好的玩意想要分享直接找我就行哈](http://www.diycode.cc/topics/314)
 
 Product Hunt 能够帮助新创业公司和产品快速获得全世界创业圈顶级开发者关注，如果大家谁有好的产品或者牛气的开源项目等等都可以找我帮忙发布分享。
 
