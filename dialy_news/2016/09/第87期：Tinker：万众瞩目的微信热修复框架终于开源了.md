@@ -6,6 +6,7 @@
 [Tinker：万众瞩目的微信热修复框架终于开源了](https://github.com/Tencent/tinker)
 
 微信开源 Android 热修复框架 Tinker，支持在无需升级 APK 的前提下更新 dex, library and resources 文件。[《微信 Tinker 的一切都在这里，包括源码》]( http://www.diycode.cc/topics/321)
+
 ![](https://github.com/Tencent/tinker/raw/dev/assets/tinker.png)
 
 ## Android开发
