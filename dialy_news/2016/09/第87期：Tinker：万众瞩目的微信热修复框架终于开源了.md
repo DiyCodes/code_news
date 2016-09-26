@@ -9,7 +9,16 @@
 
 ![](https://github.com/Tencent/tinker/raw/dev/assets/tinker.png)
 
+[Google VR SDK 1.0 更新，原生支持移动 VR 平台 Daydream 开发，和 Unity 、Unreal 引擎集成](https://developers.google.com/vr/concepts/overview-daydream)
+
+懒得科学上网的同学可以直接在github 上查看https://github.com/googlevr/
+
+［刚刚获得 ProductHunt 的发布权限，有谁有好的玩意想要分享直接找我就行哈］（http://www.diycode.cc/topics/314）
+
+Product Hunt 能够帮助新创业公司和产品快速获得全世界创业圈顶级开发者关注，如果大家谁有好的产品或者牛气的开源项目等等都可以找我帮忙发布分享。
+
 ## Android开发
+
 
 [MDCC2016 Android专场PPT整理汇总](https://github.com/MDCC2016/Android-Session-Slides)
 
