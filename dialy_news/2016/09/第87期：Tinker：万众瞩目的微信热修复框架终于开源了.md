@@ -1,10 +1,12 @@
-# 第87期：XXXX标题
+# 第87期：Tinker：万众瞩目的微信热修复框架终于开源了
 
 ## 深度讨论
 
-[]()
 
-王子，看你了！
+[Tinker：万众瞩目的微信热修复框架终于开源了](https://github.com/Tencent/tinker)
+
+微信开源 Android 热修复框架 Tinker，支持在无需升级 APK 的前提下更新 dex, library and resources 文件。[《微信 Tinker 的一切都在这里，包括源码》]( http://www.diycode.cc/topics/321)
+![](https://github.com/Tencent/tinker/raw/dev/assets/tinker.png)
 
 ## Android开发
 
@@ -24,11 +26,7 @@
 
 关于 Glide 使用非常完整的资料，推荐。
 
-[Tinker：万众瞩目的微信热修复框架终于开源了](https://github.com/Tencent/tinker)
 
-![](https://github.com/Tencent/tinker/raw/dev/assets/tinker.png)
-
-热修复，哪家强？
 
 ## 课外话题
 
