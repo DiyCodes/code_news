@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第88期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,39 @@
 
 ## Android开发
 
-[]()
+[Speed up your build in Android Studio](http://www.liaohuqiu.net/posts/speed-up-your-build/)
 
-啦啦啦
+是否觉得还在为你的 Android Studio 编译速度慢，而苦恼中？来学学如何为他提速吧。
 
-[]()
+[Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
-啦啦啦
+都是很实用的功能，推荐！
 
-[]()
+[ListView、RecyclerView、ScrollView里嵌套ListView 相对优雅的解决方案:NestFullListView](http://blog.csdn.net/zxt0601/article/details/52494665)
 
-啦啦啦
+如题，赶紧学习，痛击那万恶的需求吧。
 
-[]()
+[一个 Android 项目搞定所有主流架构-2.MVP+ 单元测试](http://www.diycode.cc/topics/309)
 
-啦啦啦
+项目启发来自谷歌的同类框架项目 android-architecture ，利用一个相同的项目，使用不同的框架实现之。
 
-[]()
+[AnimateVectorDrawableDEMO：不写一行代码就能实现矢量动画](https://github.com/ghuiii/AnimateVectorDrawableDEMO)
 
-![]()
+![](https://camo.githubusercontent.com/89ff93e01d180ad27db093a7ea90d6e4f831a146/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966312e676966)
+![](https://camo.githubusercontent.com/b5973bb46cd2bc5d7d89133aa2878d6f49846c7c/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966322e676966)
+![](https://camo.githubusercontent.com/ebf3dfcf38c0562fd19187eaa7d142460e0e41df/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966332e676966)
+![](https://camo.githubusercontent.com/f1c501d454122b9e9238fa4f81b30dcb1610576a/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966342e676966)
+![](https://camo.githubusercontent.com/4ff9f04fc7acf15a21e0804a442fddacd0e16fb8/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f6769665f352e676966)
+![](https://camo.githubusercontent.com/1f78bbb5eb0f619c37056ec69d0faa6326186754/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966362e676966)
+![](https://camo.githubusercontent.com/dda6ddeba8bc975510b6ef260d5abc1e257f74af/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966372e676966)
 
 啦啦啦
 
 ## 课外话题
 
-[]()
+[程序员如何做到年薪 50 万？](https://www.zhihu.com/question/25163184)
 
-啦啦啦
+是不是很有诱惑力的标题？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
