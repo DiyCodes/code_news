@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第89期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[项目采用 Dagger2+MVP 模式编写的Gank.io客户端](https://github.com/a1018875550/Gank.io)
 
-啦啦啦
+Gank应该是客户端最多的站点了，而且都开源，Diycode的API接口快完善放出了，希望到时候大家也可以写一套自己的Diycode客户端。
 
-[]()
+[Android：聊聊 MVP 中 Presenter 的生命周期](http://www.jianshu.com/p/d9f4c8219a65)
 
-啦啦啦
+Presenter 的生命周期是个值得研究的问题。
 
-[]()
+[Android CoordinatorLayout和Behavior](http://ltlovezh.com/2016/08/07/Android-CoordinatorLayout%E5%92%8CBehavior/)
 
-啦啦啦
+CoordinatorLayout和Behavior是MaterialDesign设计的一个重点，其中引入了一个很重要的机制，那就是嵌套滚动机制。
 
-[]()
+[Google工程师关于开发多窗口应用的5点建议](http://www.jianshu.com/p/e4d2a0d6bcd8)
 
-啦啦啦
+我现在关心的是，国内多少厂商发布7.0的ROM了。
 
-[]()
+[LowPoly：一个为图片产生低多边形效果的 Android 开源工具](https://github.com/CoXier/LowPoly)
 
-![]()
+![](https://github.com/CoXier/LowPoly/raw/master/art/captain.jpg)
 
-啦啦啦
+画面好有艺术感。
 
 ## 课外话题
 
-[]()
+[2016 房价疯涨的局面将如何收场？](https://www.zhihu.com/question/50867891)
 
-啦啦啦
+奋斗吧，骚年。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
