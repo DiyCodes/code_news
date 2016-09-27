@@ -1,10 +1,12 @@
-# 第88期：XXXX标题
+# 第88期：AndroidStudio 从基本到高级使用技巧
 
 ## 深度讨论
 
-[]()
+**建了个QQ交流群，Diycode Android 交流群 308252189
 
-王子，看你了！
+[AndroidStudio 从基本到高级使用技巧](http://www.diycode.cc/topics/294)
+
+技巧就是提高编程效率，懂多一点更好。
 
 ## Android开发
 
