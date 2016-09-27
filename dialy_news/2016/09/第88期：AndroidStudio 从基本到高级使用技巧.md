@@ -2,7 +2,7 @@
 
 ## 深度讨论
 
-**建了个QQ交流群，Diycode Android 交流群 308252189
+**建了个QQ交流群，Diycode Android 交流群 308252189**
 
 [AndroidStudio 从基本到高级使用技巧](http://www.diycode.cc/topics/294)
 
