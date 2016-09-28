@@ -1,10 +1,10 @@
-# 第89期：XXXX标题
+# 第89期：Google工程师关于开发多窗口应用的5点建议
 
 ## 深度讨论
 
-[]()
+[一个小调查，想听听大家对 ButterKnife 的看法](http://www.diycode.cc/topics/326)
 
-王子，看你了！
+众所周知ButterKnife库可以让我们更方便的绑定View，减少代码量，加上ButterKnife Zelezny拆件之后，更是可以一键生成；但是ButterKnife的升级以及module存在的问题却需要我们慎重考虑。所以在这里想听听大家对ButterKnife的看法，以及在什么样的情况下会使用它。
 
 ## Android开发
 
