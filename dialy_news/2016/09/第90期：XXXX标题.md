@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第90期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[安卓自定义View进阶-事件分发原理](http://www.gcssloop.com/customview/dispatch-touchevent-theory)
 
-啦啦啦
+图文并茂，通俗易懂的给你讲解事件分发机制。
 
-[]()
+[Android 组件化](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112549&idx=1&sn=a8bef153b181747296c9fed1bcdb2cb4&chksm=88a66bfbbfd1e2ed4d4f4450ea40ffd971776e419aab8c5d3d58f249b811bdd562836dd17f30&mpshare=1&scene=1&srcid=0928Nr7EJYyH8fZr9WGpqwzu#wechat_redirect)
 
-啦啦啦
+强烈推荐阅读。
 
-[]()
+[模拟自然动画的精髓——TimeInterpolator与TypeEvaluator](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484744&idx=1&sn=4400177a28f2c7542872bfb337d6d905&chksm=83f824c8b48fadde90ea80e2d90e751e7a8f712c7786ed506376e217e2e2450041bd65c42710&mpshare=1&scene=1&srcid=0929um7MDrngrLyZPwFs1qNs#wechat_redirect)
 
-啦啦啦
+Android动画全靠他们这对好搭档。
 
-[]()
+[Android7.0适配心得](http://www.cboy.me/2016/09/28/Android7.0%E9%80%82%E9%85%8D%E5%BF%83%E5%BE%97/)
 
-啦啦啦
+快来适配 Android N。
 
-[]()
+[FantasySlide：基于DrawerLayout拓展的漂亮侧滑控件](https://github.com/mzule/FantasySlide)
 
-![]()
+![](https://raw.githubusercontent.com/mzule/FantasySlide/master/sample.gif)
 
-啦啦啦
+动感十足！
 
 ## 课外话题
 
-[]()
+[如何入门微信小程序开发，有哪些学习资料？](https://www.zhihu.com/question/50907897)
 
-啦啦啦
+如题！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
