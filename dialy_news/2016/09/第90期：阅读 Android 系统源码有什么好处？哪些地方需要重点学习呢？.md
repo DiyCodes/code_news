@@ -1,12 +1,14 @@
-# 第90期：XXXX标题
+# 第90期：阅读 Android 系统源码有什么好处？哪些地方需要重点学习呢？
 
 ## 深度讨论
 
-[]()
+[每周话题讨论：阅读 Android 系统源码有什么好处？](http://www.diycode.cc/topics/331)
 
-王子，看你了！
+哪些地方需要重点学习呢？
 
 ## Android开发
+
+［TakePhoto：一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](http://www.diycode.cc/projects/crazycodeboy/TakePhoto),Github地址：https://github.com/crazycodeboy/TakePhoto
 
 [安卓自定义View进阶-事件分发原理](http://www.gcssloop.com/customview/dispatch-touchevent-theory)
 
