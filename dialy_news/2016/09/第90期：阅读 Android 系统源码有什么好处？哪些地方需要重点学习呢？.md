@@ -8,7 +8,8 @@
 
 ## Android开发
 
-［TakePhoto：一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](http://www.diycode.cc/projects/crazycodeboy/TakePhoto),Github地址：https://github.com/crazycodeboy/TakePhoto
+[TakePhoto：一款用于在Android设备上获取照片、裁剪图片、压缩图片的开源工具库](http://www.diycode.cc/projects/crazycodeboy/TakePhoto) Github地址：https://github.com/crazycodeboy/TakePhoto
+
 
 [安卓自定义View进阶-事件分发原理](http://www.gcssloop.com/customview/dispatch-touchevent-theory)
 
