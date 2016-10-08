@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第92期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[Activity到底是什么时候显示到屏幕上的呢](http://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483771&idx=1&sn=fc2a36bddd29a0bb9d6512ba7e9b71ad&chksm=9772eff6a00566e0424e3bccfcf61df5bff709739ece80c6641ca6cf742e9949c27f29bc48f0&mpshare=1&scene=1&srcid=1008ksnBumwlSEhlQl3Qe45O#wechat_redirect)
 
-啦啦啦
+由要统计App冷启动时间的需求而起，大神带你从源码的角度了解Activity何时显示在屏幕上的。
 
-[]()
+[Android Native 与 JavaScript 的交互](http://www.diycode.cc/topics/338)
 
-啦啦啦
+如题，一篇方案总结短文。
 
-[]()
+[Android开发者们一定会喜欢的 RxJava](http://boolan.com/lecture/1000001243#0-tsina-1-68759-397232819ff9a47a7b7e80a40613cfe1)
 
-啦啦啦
+阿里全栈攻城狮，带你了解RxJava！
 
-[]()
+[自定义View新手实战-一步步实现精美的钟表界面](http://www.jianshu.com/p/86e867b9bee8)
 
-啦啦啦
+内容不错，要是文章排版用心点就好了。
 
-[]()
+[AnimatorDurationTile：快速设置动画持续时间间隔的开源方案](https://github.com/nickbutcher/AnimatorDurationTile)
 
-![]()
-
-啦啦啦
+![](https://github.com/nickbutcher/AnimatorDurationTile/raw/master/screenshots/duration_scale_toggle_demo.gif)
 
 ## 课外话题
 
-[]()
+[你坚持健身的动力是什么？](https://www.zhihu.com/question/51087108)
 
-啦啦啦
+健身让我觉得很爽，大家觉得呢？
+
+[GitHub 上有哪些值得推荐的开源电子书？](https://www.zhihu.com/question/38836382)
+
+开源的不仅有代码，还有电子书。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
