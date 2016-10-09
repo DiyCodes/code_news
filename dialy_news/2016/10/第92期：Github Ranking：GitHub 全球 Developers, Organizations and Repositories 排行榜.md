@@ -1,10 +1,10 @@
-# 第92期：XXXX标题
+# 第92期：Github Ranking：GitHub 全球 Developers, Organizations and Repositories 排行榜
 
 ## 深度讨论
 
-[]()
+[Github Ranking：GitHub 全球 Developers, Organizations and Repositories 排行榜](http://www.diycode.cc/trends)
 
-王子，看你了！
+来看看你是否上榜吧！
 
 ## Android开发
 
