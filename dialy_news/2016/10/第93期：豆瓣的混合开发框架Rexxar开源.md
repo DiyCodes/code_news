@@ -1,10 +1,10 @@
-# 第93期：XXXX标题
+# 第93期：豆瓣的混合开发框架Rexxar开源
 
 ## 深度讨论
 
-[]()
+[豆瓣的混合开发框架Rexxar开源](http://www.diycode.cc/news/1273)
 
-王子，看你了！
+一个针对移动端的混合开发框架。现在支持 Android 和 iOS 平台。并有一个 Web 基础库。
 
 ## Android开发
 
