@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第93期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[急速开发系列——RxJava实战技巧大全](http://www.jianshu.com/p/1e9e8f4213f3)
 
-啦啦啦
+满满的 RxJava 实战经验！
 
-[]()
+[Android App 适配RTL](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112552&idx=1&sn=76d71cea50d7340c2e6663b595f1b3c9&chksm=88a66bf6bfd1e2e0d533c1ca45f006da244a386ef74b0cb7e347de75eb2accfeaf4f8d2dc0ae&mpshare=1&scene=1&srcid=1009SxIQXbAOaNLglQSNDSeN#wechat_redirect)
 
-啦啦啦
+一个适配经验。
 
-[]()
+[App优化之电池省着用](http://www.jianshu.com/p/c55ef05c0047)
 
-啦啦啦
+利用 Google 提供的 Battery Historian 做耗电分析。
 
-[]()
+[关于Android业务组件化的一些思考](http://www.zjutkz.net/2016/10/07/%E5%85%B3%E4%BA%8EAndroid%E4%B8%9A%E5%8A%A1%E7%BB%84%E4%BB%B6%E5%8C%96%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/)
 
-啦啦啦
+如题，非常实用。
 
-[]()
+[StickerView：支持拖曳、缩放的贴纸控件](https://github.com/wuapnjie/StickerView)
 
-![]()
+![](https://github.com/wuapnjie/StickerView/raw/master/screenshots/stickerview.gif)
 
-啦啦啦
+撸主是个海贼粉么？
 
 ## 课外话题
 
-[]()
+[终于可以上班写代码了23333！](http://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649484750&idx=1&sn=45fa2291cf2e524023e647b7c87f9686&chksm=83f824ceb48fadd88935accd616186c8ce5f1e3cb298601d5c8866560325a6b32cdade5d729e&mpshare=1&scene=1&srcid=1009N3wq7IFD74806tN0XDvJ#wechat_redirect)
 
-啦啦啦
+谈谈技术人员如何升级！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
