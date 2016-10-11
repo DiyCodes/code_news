@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第94期：理解 Android 进程启动之全过程](dialy_news/2016/10/第94期：理解 Android 进程启动之全过程.md) 	|
 |[第93期：豆瓣的混合开发框架Rexxar开源](dialy_news/2016/10/第93期：豆瓣的混合开发框架Rexxar开源.md) 	|
 |[第92期：Github Ranking：GitHub 全球 Developers, Organizations and Repositories 排行榜](dialy_news/2016/10/第92期：Github Ranking：GitHub 全球 Developers, Organizations and Repositories 排行榜.md) 	|
 |[第91期：Airbnb朱赟-关于工程师成长的一点思考](dialy_news/2016/10/第91期：Airbnb朱赟-关于工程师成长的一点思考.md) 	|
