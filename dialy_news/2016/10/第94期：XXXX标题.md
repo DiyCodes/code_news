@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第94期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[理解 Android 进程启动之全过程](http://www.diycode.cc/topics/346)
 
-啦啦啦
+从源代码的角度带你一步步了解Android进程的启动过程。
 
-[]()
+[Android Matrix 原理](http://www.idtkm.com/customview/cutomview14/)
 
-啦啦啦
+深入了解 Matrix 中每个元素的作用。
 
-[]()
+[Android 性能优化典范（六）](http://geek.csdn.net/news/detail/106513)
 
-啦啦啦
+Android 官方性能优化建议总结，腾讯开发者胡凯，又一力作。
 
-[]()
+[Android 增量更新完全解析（是增量不是热修复）](http://blog.csdn.net/lmj623565791/article/details/52761658)
 
-啦啦啦
+来辨别一下增量更新和热修复。
 
-[]()
+[BreadcrumbsView：不一样的进度条](https://github.com/VictorAlbertos/BreadcrumbsView)
 
-![]()
-
-啦啦啦
+![](https://github.com/VictorAlbertos/BreadcrumbsView/raw/master/breadcrumbs.gif)
 
 ## 课外话题
 
-[]()
+[微信为什么不丢消息？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959606&idx=1&sn=f9561231dd33bcd0550b8d0d59d6b876&chksm=bd2d04ea8a5a8dfce90c870279a7f74b7aedd802c2d699dd919d7e40ebe30699381517c2d54b&scene=0#wechat_redirect)
 
-啦啦啦
+聊聊即时通讯中消息的可靠投递。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
