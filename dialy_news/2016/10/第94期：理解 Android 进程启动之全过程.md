@@ -1,16 +1,16 @@
-# 第94期：XXXX标题
+# 第94期：理解 Android 进程启动之全过程
 
 ## 深度讨论
 
-[]()
+[关于提升 Android 应用推送到达率的问题](http://www.diycode.cc/topics/339)
 
-王子，看你了！
+一个大家都有经验的话题，一起聊聊吧。
 
 ## Android开发
 
 [理解 Android 进程启动之全过程](http://www.diycode.cc/topics/346)
 
-从源代码的角度带你一步步了解Android进程的启动过程。
+从源代码的角度带你一步步了解Android进程的启动过程。diycode第一篇付费打赏的文章，其他爱写技术分析布道的同学看这里http://www.diycode.cc/topics/336 
 
 [Android Matrix 原理](http://www.idtkm.com/customview/cutomview14/)
 
