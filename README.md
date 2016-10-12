@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第95期：决定对 github star Developers 排行榜前 200 名开发者做专访的计划，大家都想问什么呢？](dialy_news/2016/10/第95期：决定对 github star Developers 排行榜前 200 名开发者做专访的计划，大家都想问什么呢？.md) 	|
 |[第94期：理解 Android 进程启动之全过程](dialy_news/2016/10/第94期：理解 Android 进程启动之全过程.md) 	|
 |[第93期：豆瓣的混合开发框架Rexxar开源](dialy_news/2016/10/第93期：豆瓣的混合开发框架Rexxar开源.md) 	|
 |[第92期：Github Ranking：GitHub 全球 Developers, Organizations and Repositories 排行榜](dialy_news/2016/10/第92期：Github Ranking：GitHub 全球 Developers, Organizations and Repositories 排行榜.md) 	|
