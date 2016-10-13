@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第96期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,41 @@
 
 ## Android开发
 
-[]()
+[Android GC学到老](http://www.jianshu.com/p/d90283ab9a3b)
 
-啦啦啦
+很好的小短文，很全的总结归纳，推荐。
 
-[]()
+[【RxJava && Agera】从源码简要分析基本调用流程](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796857&idx=1&sn=ed8325aeddac7fd2bd81a0717c010e98&scene=1&srcid=0817o3Xzkx4ILR6FKaR1M9LX#rd)
 
-啦啦啦
+QQ控件团队带你分析一下RxJava的响应流程。
 
-[]()
+[FlipDotView——磁翻点阵显示效果](http://www.jianshu.com/p/4fcbb593f427)
 
-啦啦啦
+![](http://upload-images.jianshu.io/upload_images/2919829-1b18538f6bd4f04a.gif?imageMogr2/auto-orient/strip)
 
-[]()
+好帅！
 
-啦啦啦
+[自定义控件——圆形圆点进度条（仿安全卫士中的一键加速）](http://blog.csdn.net/a10615/article/details/52658927)
 
-[]()
+如题。
 
-![]()
+[SpiderWebScoreView：开源的蛛网评分控件](https://github.com/xiaopansky/SpiderWebScoreView)
 
-啦啦啦
+![](https://github.com/xiaopansky/SpiderWebScoreView/raw/master/docs/sample.png)
+
+Perfect！
+
+## 招聘
+
+[一大波杭州阿里巴巴 B2B 团队的职位来袭 !](http://www.diycode.cc/topics/349)
+
+阿里巴巴内推，简历尽情砸过来。
 
 ## 课外话题
 
-[]()
+[用户体验设计——如何建立完美的第一印象](http://www.jianshu.com/p/342f420f4cdf)
 
-啦啦啦
+好的第一印象很重要哦！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
