@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第97期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android 事件分发机制详解](http://www.diycode.cc/topics/352)
 
-啦啦啦
+图文并茂，带你详细了解Android事件分发机制。
 
-[]()
+[破译Android性能优化中的16ms问题](http://www.jianshu.com/p/a769a6028e51)
 
-啦啦啦
+从原理上理解掉帧问题。
 
-[]()
+[Android 仿美团网，探索使用ViewPager+GridView实现左右滑动查看更多分类的功能](http://blog.csdn.net/qq_20785431/article/details/52528404)
 
-啦啦啦
+如题。
 
-[]()
+[泛型超详细解读：super和extend](http://blog.csdn.net/jeffleo/article/details/52250948)
 
-啦啦啦
+快来好好了解一下。
 
-[]()
+[ShareButton：嗯，又是一发别致的分享动画按钮](https://github.com/kayan1990/ShareButton)
 
-![]()
-
-啦啦啦
+![](https://github.com/kayan1990/ShareButton/raw/master/ShareButton/gif/sharebutton.gif)
 
 ## 课外话题
 
-[]()
+[谈谈创业公司技术团队搭建](http://mp.weixin.qq.com/s?__biz=MzIyOTQ1ODMyNA==&mid=2247483709&idx=1&sn=1a87355073e791610ace9c25fe91ebfe&chksm=e84329c6df34a0d0ef5574fd430ab23a374ab047b45ba66aaafd35608cd3957b4cef162fc15f&mpshare=1&scene=1&srcid=1012H3jUfM71c4TJbtClCILb&from=groupmessage&isappinstalled=0#wechat_redirect)
 
-啦啦啦
+如题。今天周五了，开心吗？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
