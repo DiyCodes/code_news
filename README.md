@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第97期：Android 事件分发机制详解](dialy_news/2016/10/第97期：Android 事件分发机制详解.md) 	|
 |[第96期：【RxJava && Agera】从源码简要分析基本调用流程，QQ控件团队带你分析一下RxJava的响应流程](dialy_news/2016/10/第96期：【RxJava && Agera】从源码简要分析基本调用流程，QQ控件团队带你分析一下RxJava的响应流程.md) 	|
 |[第95期：决定对 github star Developers 排行榜前 200 名开发者做专访的计划，大家都想问什么呢？](dialy_news/2016/10/第95期：决定对 github star Developers 排行榜前 200 名开发者做专访的计划，大家都想问什么呢？.md) 	|
 |[第94期：理解 Android 进程启动之全过程](dialy_news/2016/10/第94期：理解 Android 进程启动之全过程.md) 	|
