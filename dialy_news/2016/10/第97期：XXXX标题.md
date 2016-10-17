@@ -32,7 +32,7 @@
 
 [谈谈创业公司技术团队搭建](http://mp.weixin.qq.com/s?__biz=MzIyOTQ1ODMyNA==&mid=2247483709&idx=1&sn=1a87355073e791610ace9c25fe91ebfe&chksm=e84329c6df34a0d0ef5574fd430ab23a374ab047b45ba66aaafd35608cd3957b4cef162fc15f&mpshare=1&scene=1&srcid=1012H3jUfM71c4TJbtClCILb&from=groupmessage&isappinstalled=0#wechat_redirect)
 
-如题。今天周五了，开心吗？
+如题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
