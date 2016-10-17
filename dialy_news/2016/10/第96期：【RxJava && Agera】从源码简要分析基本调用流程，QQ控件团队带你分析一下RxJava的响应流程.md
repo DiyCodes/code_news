@@ -19,7 +19,7 @@
 
 [【RxJava && Agera】从源码简要分析基本调用流程](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796857&idx=1&sn=ed8325aeddac7fd2bd81a0717c010e98&scene=1&srcid=0817o3Xzkx4ILR6FKaR1M9LX#rd)
 
-QQ控件团队带你分析一下RxJava的响应流程。
+QQ空间团队带你分析一下RxJava的响应流程。
 
 [FlipDotView——磁翻点阵显示效果](http://www.jianshu.com/p/4fcbb593f427)
 
