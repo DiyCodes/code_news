@@ -1,16 +1,18 @@
-# 第97期：XXXX标题
+# 第97期：Android 事件分发机制详解
 
-## 深度讨论
-
-[]()
-
-王子，看你了！
-
-## Android开发
+## diycode 社区布道奖的三个文章
 
 [Android 事件分发机制详解](http://www.diycode.cc/topics/352)
 
-图文并茂，带你详细了解Android事件分发机制。
+图文并茂，带你详细了解Android事件分发机制。本文获得diycode 社区布道奖150元
+
+[RxJava 复杂场景之 调度 (scheduler)](http://www.diycode.cc/topics/354)
+
+本文获得diycode 社区布道奖150元
+
+[自己动手实现 RxJava 理解其调用链](http://www.diycode.cc/topics/355)
+
+## Android开发
 
 [破译Android性能优化中的16ms问题](http://www.jianshu.com/p/a769a6028e51)
 
