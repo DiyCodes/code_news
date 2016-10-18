@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第98期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[自己动手实现 RxJava 理解其调用链](http://www.diycode.cc/topics/355)
 
-啦啦啦
+RxJava 拥有繁多的 API 和复杂的逻辑链，学习复杂的知识，一般从整体再到具体，为了学习 RxJava 的原理，参考其源码，自己动手实现一个简化的 RxJava，旨在理解调用链。
 
-[]()
+[Android-apt 即将退出历史舞台](http://mp.weixin.qq.com/s?__biz=MzAwMTYwNzE2Mg==&mid=2651036654&idx=1&sn=c1789e713dab321c7aa128dbb7445d5e&chksm=81202f7bb657a66d77a9422e0e180987d613497011c1a89799b3866f85ec24ac43af03bcac8f&scene=0#wechat_redirect)
 
-啦啦啦
+三年前推出的 android-apt 即将告别开发者，退出历史舞台。
 
-[]()
+[Android弹幕功能实现，模仿斗鱼直播的弹幕效果](http://blog.csdn.net/sinyu890807/article/details/51933728)
 
-啦啦啦
+郭大神的新作，如题。
 
-[]()
+[携程移动端架构演进与优化之路](http://geek.csdn.net/news/detail/108167)
 
-啦啦啦
+文章略长，但干货满满。
 
-[]()
+[Sprayscape：Google Android 实验室开源的一款 VR 照相机 App](https://github.com/googlecreativelab/Sprayscape)
 
-![]()
-
-啦啦啦
+![](http://diycode.b0.upaiyun.com/photo/2016/05dd830792ec072652b9b3682b65551e.jpg)
 
 ## 课外话题
 
-[]()
+[当程序猿遇上数学](http://www.diycode.cc/topics/356)
 
-啦啦啦
+作者也是一个段子手。
+
+[整理的剑指 offer—java 实现版本](http://www.diycode.cc/topics/351)
+
+一个位童鞋的整理，希望能帮到求职者们。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
