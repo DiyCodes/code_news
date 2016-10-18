@@ -1,10 +1,14 @@
-# 第98期：XXXX标题
+# 第98期：Diycode 原创技术文章奖励计划
 
 ## 深度讨论
 
-[]()
+[Diycode 原创技术文章奖励计划](http://www.diycode.cc/wiki/encouragement)
 
-王子，看你了！
+旨在鼓励深度原创技术文章，促进技术发展，也让读者可以第一时间和作者得到互动。
+
+[推荐你心目中的 Diycode「极客代言人」，打造《中国技术社群英雄谱》](http://www.diycode.cc/topics/358)
+
+很重要，大家一定要一起帮忙推选
 
 ## Android开发
 
