@@ -1,10 +1,14 @@
-# 第XX期：XXXX标题
+# 第99期：Android 业务组件化开发实践
 
 ## 深度讨论
 
-[]()
+[深入了解 Messenger 的实现细节](http://www.diycode.cc/topics/361)
 
-王子，看你了！
+D_clock 终于结束最近面试选择去了YY，然后这个文章很赞。
+
+[Android 业务组件化开发实践](http://www.diycode.cc/topics/362)
+
+组件化不是插件化，插件化是在［运行时］，而组件化是在［编译时］。换句话说，插件化是基于多 APK 的，而组件化本质上还是只有一个 APK。
 
 ## Android开发
 
