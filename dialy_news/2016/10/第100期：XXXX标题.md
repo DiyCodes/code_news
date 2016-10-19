@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第100期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[【译】Android泄漏模式：View中的订阅](http://www.jianshu.com/p/73f347c028e4)
 
-啦啦啦
+解决你的内存泄漏吧。
 
-[]()
+[Android帧动画和补间动画看这篇足够了](http://www.jianshu.com/p/5163789b1591)
 
-啦啦啦
+很易懂的小总结，不错。
 
-[]()
+[Android View OnMeasure全解析](http://www.woaitqs.cc/android/2016/10/18/android-view-theory-2.html)
 
-啦啦啦
+深入了解下当 View 在测量时，发生了些什么。
 
-[]()
+[写给Android开发者的UI自动化测试上手指南](http://www.jianshu.com/p/b373aec43c01)
 
-啦啦啦
+文章没有深入到自动化测试的具体细节，是对如何减少重复测试进行简单实践，让业务开发人员能够简单快速上手才是最终目的。
 
-[]()
+[Bgm38：bgm.tv的第三方开源客户端，满足追番童鞋的需求](https://github.com/zubinxiong/Bgm38)
 
-![]()
-
-啦啦啦
+![](https://github.com/zubinxiong/Bgm38/raw/master/art/art0.jpg)
 
 ## 课外话题
 
-[]()
+[用 Node.js 写了个将 markdown 笔记发布到 Evernote 的命令行工具](http://www.diycode.cc/topics/364)
 
-啦啦啦
+一言不合就造工具。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
