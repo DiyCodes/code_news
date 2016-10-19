@@ -10,35 +10,20 @@ D_clock 终于结束最近面试选择去了YY，然后这个文章很赞。
 
 组件化不是插件化，插件化是在［运行时］，而组件化是在［编译时］。换句话说，插件化是基于多 APK 的，而组件化本质上还是只有一个 APK。
 
-## Android开发
 
-[]()
+[DanmakuFlameMaster：Android开源弹幕引擎·烈焰弹幕使 ～](http://www.diycode.cc/projects/Bilibili/DanmakuFlameMaster)，[GitHub 链接](https://github.com/Bilibili/DanmakuFlameMaster)
 
-啦啦啦
+使用多种方式(View/SurfaceView/TextureView)实现高效绘制,等等各种新特性。
 
-[]()
 
-啦啦啦
+[facebook design：Facebook 内部关于设计方面的文章、素材、视频分享社区](http://www.diycode.cc/news/1325)
 
-[]()
+Collection of articles, videos, and resources made by designers at Facebook.
 
-啦啦啦
+[工程师成长之路：工作1-3年工程师如何突破瓶颈期？](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547791&idx=1&sn=8a14104ba13cd1ef634c8991f6700566&chksm=813a7c97b64df5813e1d5542c976e87c474f6fecd3e75b103ae347cbf446b22b22a1882fabb4&scene=0#wechat_redirect)
 
-[]()
+工程师职业发展的四个阶段,新人期、成熟期、发展期、事业期大家处于哪个阶段呢？
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
-
-## 课外话题
-
-[]()
-
-啦啦啦
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
