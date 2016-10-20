@@ -2,13 +2,14 @@
 
 ## 深度讨论
 
-[]()
 
-王子，看你了！
+[Android 加速构建方案对比](http://www.diycode.cc/topics/369)
+
+Instant Run、Buck/okbuck、JRebel for Android、Freeline对比
 
 ## Android开发
 
-[]()
+[RadarChartView：一个 Android 辐射数据统计图表开源库](http://www.diycode.cc/projects/DmitriyZaitsev/RadarChartView)
 
 啦啦啦
 
