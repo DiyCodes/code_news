@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第101期：Android 加速构建方案对比
 
 ## 深度讨论
 
@@ -6,38 +6,37 @@
 
 Instant Run、Buck/okbuck、JRebel for Android、Freeline对比
 
+[关于 SharedPreference 踩的那些坑](http://www.diycode.cc/topics/370)
+
+SharedPreference支持多进程吗？如果不回答不上来，就看看文章
+
 ## Android开发
+
+[Android 实现 PDF 文件阅读功能的一些解决方案](http://mp.weixin.qq.com/s?__biz=MzAwMTYwNzE2Mg==&mid=2651036656&idx=1&sn=17e4a4f0e46828d1e996fb113cebb7e7&chksm=81202f65b657a67367bf495e243684041d8fdee26852881a17ef4163e825053afef2db2115bc&scene=0#wechat_redirect)
+
+如果你有琢磨过 Android 平台的 PDF 阅读功能实现，你就知道有多头疼了。
+
+[Android 开发之 MP4 文件转 GIF 文件详解](http://www.jianshu.com/p/cc94213ec4ab)
+
+如题。
+
+[Fragment全解析系列](http://www.jianshu.com/p/d9143a92ad94)
+
+文章一共三篇，大家可以好好看看。
+
+[Sending-Animation-Example：有点酷的纸飞机动画效果](https://github.com/Jaouan/Sending-Animation-Example)
+
+![](https://github.com/Jaouan/Sending-Animation-Example/raw/master/art/demo.gif)
 
 [RadarChartView：一个 Android 辐射数据统计图表开源库](http://www.diycode.cc/projects/DmitriyZaitsev/RadarChartView)
 
 ![](http://diycode.b0.upaiyun.com/photo/2016/b4f15fc15313eec187f19f0961e0bbbc.gif)
-![](http://diycode.b0.upaiyun.com/photo/2016/0caad3322d771057c389e21e7eb682f7.gif)
-![](http://diycode.b0.upaiyun.com/photo/2016/20cf929a4cd46fdf212b4513c252b1f2.gif)
-
-
-[]()
-
-啦啦啦
-
-[]()
-
-啦啦啦
-
-[]()
-
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
 
 ## 课外话题
 
-[]()
+[你见过最人性化的设计是什么？](https://www.zhihu.com/question/31524027)
 
-啦啦啦
+又到了振奋人心的周五，周末愉快哦。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
