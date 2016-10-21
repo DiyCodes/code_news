@@ -1,10 +1,14 @@
-# 第101期：XXXX标题
+# 第101期：Android 加速构建方案对比
 
 ## 深度讨论
 
 [Android 加速构建方案对比](http://www.diycode.cc/topics/369)
 
 Instant Run、Buck/okbuck、JRebel for Android、Freeline对比
+
+[关于 SharedPreference 踩的那些坑](http://www.diycode.cc/topics/370)
+
+SharedPreference支持多进程吗？如果不回答不上来，就看看文章
 
 ## Android开发
 
