@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第103期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[有赞Android客户端网络架构演进](http://tech.youzan.com/android_http/)
 
-啦啦啦
+有赞的干货文章，棒棒哒。
 
-[]()
+[写给Android开发者的混淆使用手册](http://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b&mpshare=1&scene=1&srcid=1024UkYIEnnKkL8C8ZgbSmts&from=groupmessage&isappinstalled=0#wechat_redirect)
 
-啦啦啦
+Android 混淆那些事儿。
 
-[]()
+[RecyclerView源码分析](http://blog.saymagic.cn/2016/10/21/understand-recycler.html)
 
-啦啦啦
+RecyclerView自从出道也有几年的光景了，大家对于它的赞扬一直络绎不绝，所以对于如此受欢迎的控件我们必须好好的了解一下。文章尝试带领大家更加全面的理解RecyclerView。
 
-[]()
+[QFix探索之路—手Q热补丁轻量级方案](http://dev.qq.com/topic/57ff5832bb8fec206ce2185d)
 
-啦啦啦
+QFix 是手Q团队近期推出的一种新的 Android 热补丁方案，在不影响 app 运行时性能（无需插桩去 preverify）的前提下有效地规避了 dalvik 下"unexpected DEX"的异常，而且还是很轻量级的实现：只需调用一个很简单的方法就能办到。
 
-[]()
+[PageIndicatorView：不一样的导航小光标](https://github.com/romandanylyk/PageIndicatorView)
 
-![]()
-
-啦啦啦
+![](https://github.com/romandanylyk/PageIndicatorView/raw/master/assets/animation_worm.gif?raw=true)
 
 ## 课外话题
 
-[]()
+[加入一家初创VC，是种怎样的体验](https://zhuanlan.zhihu.com/p/23143534)
 
-啦啦啦
+如题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
