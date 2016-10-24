@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第102期：Android 进程绝杀技--forceStop](dialy_news/2016/10/第102期：Android 进程绝杀技--forceStop.md) 	|
 |[第101期：Android 加速构建方案对比](dialy_news/2016/10/第101期：Android 加速构建方案对比.md) 	|
 |[第100期：阮一峰：中文技术文档的写作规范](dialy_news/2016/10/第100期：阮一峰：中文技术文档的写作规范.md) 	|
 |[第99期：Android 业务组件化开发实践.md](dialy_news/2016/10/第99期：Android 业务组件化开发实践.md) 	|
