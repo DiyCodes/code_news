@@ -1,10 +1,10 @@
-# 第102期：XXXX标题
+# 第102期：Android 进程绝杀技--forceStop
 
 ## 深度讨论
 
-[]()
+广告：[Diycode Projects：欢迎大家一起来提交自己收藏的项目](http://www.diycode.cc/projects)
 
-王子，看你了！
+给 GitHub 开源项目做一个分类，帮你更好发现和寻找到你所需的开源项目。
 
 ## Android开发
 
