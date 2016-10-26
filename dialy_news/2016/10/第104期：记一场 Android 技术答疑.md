@@ -1,16 +1,18 @@
-# 第104期：XXXX标题
+# 第104期：记一场 Android 技术答疑
 
 ## 深度讨论
 
-[]()
-
-王子，看你了！
-
-## Android开发
 
 [记一场 Android 技术答疑](http://droidyue.com/blog/2016/10/24/notes-for-an-android-qa/index.html)
 
 作者在StuQ的Android课程中分享了一些关于优化的问题,后期又处理了一些来自网友的问题,这里简单以文字形式做个整理。
+
+[一款综合 (QQ 音乐、微信、美团、优酷、虎牙直播等多款 app) 风格的 iOS 搜索控制器](http://www.diycode.cc/topics/381)
+
+今天iOS 上了头条
+
+## Android开发
+
 
 - [单元测试那些事情](http://www.diycode.cc/topics/365)
 - [Android 单元测试--Robolectric](http://www.diycode.cc/topics/377)
