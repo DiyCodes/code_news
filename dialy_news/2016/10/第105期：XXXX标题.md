@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第105期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,39 @@
 
 ## Android开发
 
-[]()
+[Android 7.0 适配教程，心得](http://www.jianshu.com/p/56b9fb319310)
 
-啦啦啦
+作者自己的适配经验总结，帮助大家少走弯路。
 
-[]()
+[漫谈 Android 增量更新](http://www.jianshu.com/p/91ad764c6879)
 
-啦啦啦
+用户升级不积极，增量更新可以帮到你。
 
-[]()
+[了解与建设中国特色的 Android M&N](http://weibo.com/ttarticle/p/show?id=2309404034862431515773)
 
-啦啦啦
+充满天朝特色的 Android ROM 。
 
-[]()
+[一种RecyclerView滑动到底部自动加载的实现方案](http://www.jianshu.com/p/5534735d9907)
 
-啦啦啦
+如题。
 
-[]()
+[BubbleAnimationLayout：让你的 app 不会显得很无趣](https://github.com/Cleveroad/BubbleAnimationLayout)
 
-![]()
+![](https://github.com/Cleveroad/BubbleAnimationLayout/raw/master/images/demo_.gif)
 
-啦啦啦
+Cool！
+
+## iOS开发
+
+- [一款综合 (QQ 音乐、微信、美团、优酷、虎牙直播等多款 app) 风格的搜索控制器](http://www.diycode.cc/topics/381)
+
+如题，作者的心血之作，赞一个。
 
 ## 课外话题
 
-[]()
+[学数据结构、算法的资源推荐](https://zhuanlan.zhihu.com/p/23191006)
 
-啦啦啦
+不错，实用。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
