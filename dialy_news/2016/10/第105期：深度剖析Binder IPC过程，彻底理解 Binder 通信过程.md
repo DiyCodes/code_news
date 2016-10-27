@@ -1,10 +1,14 @@
-# 第105期：XXXX标题
+# 第105期： 深度剖析Binder IPC过程，彻底理解 Binder 通信过程
 
-## 深度讨论
+## [Diycode 原创技术文章奖励计划](http://www.diycode.cc/wiki/encouragement)最新获奖文章
 
-[]()
+[彻底理解 Binder 通信过程](http://www.diycode.cc/topics/384)
 
-王子，看你了！
+小米系统工程师的最新技术分析文章，[Diycode 原创技术文章奖励计划](http://www.diycode.cc/wiki/encouragement)第十篇奖励文章
+
+[Android 爬坑之旅：软键盘挡住输入框问题的终极解决方案](http://www.diycode.cc/topics/383)
+
+『软键盘挡住了输入框』这个坑终于可以填上了，大家遇到的坑也可以回复讨论，[Diycode 原创技术文章奖励计划](http://www.diycode.cc/wiki/encouragement)第十一篇奖励文章
 
 ## Android开发
 
