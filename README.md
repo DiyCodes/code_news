@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第105期：深度剖析Binder IPC过程，彻底理解 Binder 通信过程](dialy_news/2016/10/第105期：深度剖析Binder IPC过程，彻底理解 Binder 通信过程.md) 	|
 |[第104期：记一场 Android 技术答疑](dialy_news/2016/10/第104期：记一场 Android 技术答疑.md) 	|
 |[第103期：你是如何走上编程这条道路的？你现在对于编程有哪些感想？](dialy_news/2016/10/第103期：你是如何走上编程这条道路的？你现在对于编程有哪些感想？.md) 	|
 |[第102期：Android 进程绝杀技--forceStop](dialy_news/2016/10/第102期：Android 进程绝杀技--forceStop.md) 	|
