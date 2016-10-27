@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第106期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,41 @@
 
 ## Android开发
 
-[]()
+[Android PackageManagerService 学习](http://www.diycode.cc/topics/385)
 
-啦啦啦
+从 pm 命令的使用到分析源码实现。
 
-[]()
+[Android卡慢监控组件简介](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796870&idx=1&sn=fd911850e32dd955316664c8c4104946&chksm=f1fcc55ec68b4c4865fd7466cc21f5e0b72080a034757613678cd011162858561310513834af&mpshare=1&scene=1&srcid=1028PI4SyhO526OlrxKOUXPa#wechat_redirect)
 
-啦啦啦
+腾讯工程师的监控卡顿方案，荐阅。
 
-[]()
+[Android逆向随笔之遇见MultiDex](http://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247483955&idx=1&sn=11dd5535bf5e7e42df2d5fa9c641aecb&chksm=ea8024a6ddf7adb039bca7010c54566b052ca06df4fde7cf62b565caaed7cc0dd214c5583b33#rd)
 
-啦啦啦
+小米工程师的逆向经验之谈。
 
-[]()
+[使用 Android Accessibility 检查微信被删好友](http://www.jianshu.com/p/5cac6d439eeb)
 
-啦啦啦
+Accessibility 可以干的活还挺多。
 
-[]()
+[是时候来了解Android7的shortcuts了](http://blog.csdn.net/qibin0506/article/details/52878690)
 
-![]()
+玩玩 Android 7 ，走起。
 
-啦啦啦
+[Medium Textview：支持解析HTML标签的TextView](https://github.com/angebagui/medium-textview)
+
+![](https://github.com/angebagui/medium-textview/raw/master/screenshot/Screenshot_2016-08-14-19-59-48.png)
 
 ## 课外话题
 
-[]()
+[从0到1打造直播 App](http://dev.qq.com/topic/5811d42e7fd6ec467453bf58)
 
-啦啦啦
+全民直播的时代，来看腾讯工程师讲解的一整套直播方案。
+
+[如果选择一家公司？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662326&idx=1&sn=591bd95052497d4525ceb9c0040b3036&chksm=87d138e9b0a6b1ff5ca0acb586725822514a33e388cd211cc0772def3fadd1e1a44cda9596b7&mpshare=1&scene=1&srcid=1028kWg1Uc2aVeq18PBe7cpr#wechat_redirect)
+
+帅比张教你如何选择一家公司。
+
+**又到了令人振奋的周五，祝大家周末愉快，么么哒。**
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
