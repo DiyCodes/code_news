@@ -1,16 +1,22 @@
-# 第106期：XXXX标题
+# 第106期：广州沙龙和微信、酷狗 欢聚时代的 Android 开发工程师一起交流分享
 
-## 深度讨论
+## 沙龙活动
 
-[]()
+[广州沙龙和微信、酷狗 欢聚时代的 Android 开发工程师一起交流分享](http://www.huodongxing.com/event/9358794538800)
 
-王子，看你了！
+Diycode “代码艺术” Android 技术沙龙广州站，和微信、酷狗 欢聚时代的 Android 开发工程师一起交流分享
 
 ## Android开发
 
 [Android PackageManagerService 学习](http://www.diycode.cc/topics/385)
 
 从 pm 命令的使用到分析源码实现。
+
+[使用辅助服务打造自己的智能视频监控系统](http://www.diycode.cc/topics/389)
+
+程序猿炫技的正确方式应该就是酱紫的。
+
+
 
 [Android卡慢监控组件简介](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796870&idx=1&sn=fd911850e32dd955316664c8c4104946&chksm=f1fcc55ec68b4c4865fd7466cc21f5e0b72080a034757613678cd011162858561310513834af&mpshare=1&scene=1&srcid=1028PI4SyhO526OlrxKOUXPa#wechat_redirect)
 
