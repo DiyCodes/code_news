@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第108期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android自定义View系列之《贪吃蛇大作战》方向操作键效果实现](http://www.jianshu.com/p/c8e4add4780a)
 
-啦啦啦
+高仿一种效果是很不错的学习方式。
 
-[]()
+[Android防止升级过程被劫持和换包](http://www.jianshu.com/p/2767a66968fe)
 
-啦啦啦
+很不错的 Android 开发安全经验总结，值得借鉴。
 
-[]()
+[Android事件处理机制](http://blog.csdn.net/aiyuan1996/article/details/52926364)
 
-啦啦啦
+作者恶补自己的Android基础知识做的笔记。
 
-[]()
+[AndroidLintWatchDog Custom-Lint 自定义Lint检查的实现](http://alexq.farbox.com/post/andrlintwatchdog-custom-lint-zi-ding-yi-lint-ti-gao-dai-ma-zhi-liang)
 
-啦啦啦
+Lint，让你的代码更健壮。
 
-[]()
+[一步步实现精美的钟表界面](http://blog.csdn.net/qq_26971803/article/details/52061943)
 
-![]()
+![](http://img.blog.csdn.net/20160729095537051)
 
-啦啦啦
+效果不错。
 
 ## 课外话题
 
-[]()
-
-啦啦啦
+[有没有一张图片让你瞬间明白了什么叫「气质」？](https://www.zhihu.com/question/39731953)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
