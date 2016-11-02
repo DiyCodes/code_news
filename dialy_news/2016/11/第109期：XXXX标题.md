@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第109期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[快速定位解决Android内存泄漏](http://mp.weixin.qq.com/s?__biz=MzAwNTg1NTQ1MA==&mid=2247483702&idx=1&sn=f32efd39c53939527900091de5f8e9f1&chksm=9b170083ac6089959e2b2999f665903adc8616202ae3ec82128d100ed0c7b45355d8bace6f3d#rd)
 
-啦啦啦
+不错，推荐。
 
-[]()
+[【Android 7.0专享】没Root如何限制APP后台唤醒？](https://zhuanlan.zhihu.com/p/23372646)
 
-啦啦啦
+如题，Android 7.0 赶紧尝尝鲜。
 
-[]()
+[Glow Android 优化实践](http://www.diycode.cc/topics/394)
 
-啦啦啦
+Glow 开发者的优化实践经验，有疑问可以给作者留言哦。
 
-[]()
+[Android中Xposed框架篇---脱壳神器ZjDroid工具原理解析和使用](http://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649230145&idx=1&sn=90e04b1208854c2eb88b0d3904798728&chksm=f0e75d3ac790d42cdf92679b71b97c2c11fa9e2c59cbef5ecf9a5369d436390fdc70d388f446&mpshare=1&scene=23&srcid=1031sMPcxQ8dndGrsrEwTcuq#rd)
 
-啦啦啦
+Xposed框架利器的使用和分析。
 
-[]()
+[SpeedView：各种款式的加速计](https://github.com/anastr/SpeedView)
 
-![]()
+![](https://github.com/anastr/SpeedView/raw/master/images/new3.png)
 
-啦啦啦
+应有尽有，很不错。
 
 ## 课外话题
 
-[]()
+[人人皆可使用的Google开源字体](http://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652039984&idx=1&sn=d8784dadf55ed19e98d044b54efcbe54&chksm=808d4b75b7fac263e91b9340cea4f237a09c5704a2c796c5db9b030c99bd043d46c0d4790844&mpshare=1&scene=1&srcid=1102zW0CCgsj6Okiz1ZW25lD#rd)
 
-啦啦啦
+Google又带给开发者一波福利。
+
+[Markdown实用技巧－快速入门](http://www.gcssloop.com/markdown/markdown-start)
+
+送给MD爱好者的福利。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
