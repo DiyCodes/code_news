@@ -1,12 +1,11 @@
-# 第108期：XXXX标题
-
-## 深度讨论
-
-[]()
-
-王子，看你了！
+# 第108期：安卓 MotionEvent 详解
 
 ## Android开发
+
+[安卓 MotionEvent 详解](http://www.diycode.cc/topics/392)
+
+Android 将所有的输入事件都放在了 MotionEvent 中，随着安卓的不断发展壮大，MotionEvent 也开始变得越来越复杂，本文详细详解了MotionEvent。
+
 
 [Android自定义View系列之《贪吃蛇大作战》方向操作键效果实现](http://www.jianshu.com/p/c8e4add4780a)
 
