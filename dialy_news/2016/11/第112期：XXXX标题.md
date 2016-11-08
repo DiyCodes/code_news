@@ -16,25 +16,27 @@
 
 对于很多不会后端开发的童鞋，我想这是一个很受关注的话题。
 
-[]()
+[Activity的onSaveInstanceState和onRestoreInstanceState](http://qiangbo.space/2016-10-10/AndroidAnatomy_Process_Creation/)
 
-啦啦啦
+这两个方法有多少童鞋还不懂的呢？
 
-[]()
+[Android系统中的进程管理：进程的创建](http://qiangbo.space/2016-10-10/AndroidAnatomy_Process_Creation/)
 
-啦啦啦
+理解Android系统的进程创建过程。
 
-[]()
+[Android轻松实现RecyclerView悬浮条](http://www.jianshu.com/p/fe69a53502ab)
 
-![]()
+确实很轻松，不错。
 
-啦啦啦
+[ChipsLayoutManager：一个开源的RecyclerView的LayoutManager](https://github.com/BelooS/ChipsLayoutManager)
+
+![](https://github.com/BelooS/ChipsLayoutManager/raw/master/images/demo.gif)
 
 ## 课外话题
 
-[]()
+[谈谈学习方法](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662345&idx=1&sn=3b6e649d4bdb8c5cf7ac62394994aa2b&chksm=87d13896b0a6b180e6ab57f69868e030c89c837fbf0d6d9bbf6a3c06c099f8bff07d867ebcd6&scene=0#wechat_redirect)
 
-啦啦啦
+好的学习方法使你事半功倍。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
