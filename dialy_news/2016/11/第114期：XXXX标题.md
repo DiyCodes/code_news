@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第114期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android Studio发布库到Jcenter并推送到Maven Central最新超级详细!!!](http://www.jianshu.com/p/fb1e0fb2d966)
 
-啦啦啦
+如题，拿走不谢。
 
-[]()
+[WebP原理和Android支持现状介绍](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578220&idx=1&sn=bdc57c640427984e240b19d8b9e10a15&chksm=84b3b1ebb3c438fdcbd446e9f28abd2713e685246efedfc133eb453ca41d08730dbf297ba1a4&mpshare=1&scene=1&srcid=1110NEs484TZyKGxYsa5EnDD#wechat_redirect)
 
-啦啦啦
+文章主要是对WebP现状与原理进行整理，并尤其研究其动图格式在Android上的支持情况。
 
-[]()
+[Android秒级编译工具Freeline新特性支持！](https://yq.aliyun.com/articles/62334)
 
-啦啦啦
+Freeline开源后新增了对APT、Retrolambda、DataBinding等特性的支持，几十款Android App接入，编译速度大幅提升，Android工程师们的效率工具！
 
-[]()
+[React Native Android 从学车到补胎和成功发车经历](http://blog.csdn.net/yanbober/article/details/53071792)
 
-啦啦啦
+老司机带你开车。
 
-[]()
+[DexMovingImageView：仿谷歌日历中的滑动效果](https://github.com/dexlex/DexMovingImageView)
 
-![]()
-
-啦啦啦
+![](https://github.com/dexlex/DexMovingImageView/raw/master/assets/images/dmiv_screenshot.gif)
 
 ## 课外话题
 
-[]()
+[程序员的技术修炼如登峰，到不了顶也要努力向上攀！](http://www.jianshu.com/p/46e0ec46c171)
 
-啦啦啦
+什么样的态度，成就什么样的技术人。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
