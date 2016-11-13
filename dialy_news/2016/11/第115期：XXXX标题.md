@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第115期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[Android 复杂的列表视图新写法: MultiType 详解篇](https://drakeet.me/effective-multitype)
 
-啦啦啦
+让你的ListView/RecyclerView能够添加多种不同类型的Item。
 
-[]()
+[Android动态加载入门](http://liwenkun.xyz/2016/11/11/android-load-class-dynamically/)
 
-啦啦啦
+如题，带你了解入门了解Android动态加载技术。
 
-[]()
+[【Android 仿微信通讯录 导航分组列表-下】自定义View为RecyclerView打造右侧索引导航栏IndexBar](http://www.jianshu.com/p/3eff217839fc)
 
-啦啦啦
+如题。
 
-[]()
+[Android RxJava+Retrofit完美封装（缓存，请求）](http://www.jianshu.com/p/bd758f51742e)
 
-啦啦啦
+一位开发者的总结，可以试试。
 
-[]()
+[PreLollipopTransition：Android L以下实现Activity和Fragment过渡动画的工具类](https://github.com/takahirom/PreLollipopTransition)
 
-![]()
-
-啦啦啦
+![](https://cloud.githubusercontent.com/assets/1386930/7614211/53ca12d8-f9d0-11e4-8b98-b6d98272f67d.gif)
 
 ## 课外话题
 
-[]()
+[是什么行为让你一不小心暴露了身份？](https://www.zhihu.com/question/51657224)
 
-啦啦啦
+额，算位置从0开始。
+
+[从 300 到 300 万，一个远程外包团队的发展历程和经验](http://yizaoyiwan.com/discussions/79)
+
+如题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
