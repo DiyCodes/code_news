@@ -1,12 +1,18 @@
-# 第115期：XXXX标题
+# 第115期：Android 复杂的列表视图新写法: MultiType 详解篇
 
 ## 深度讨论
 
-[]()
+[独立全端开发的开源小作：简诗 2.0](http://www.diycode.cc/topics/421)
 
-王子，看你了！
+wingjay业余时间做的一款优雅、纯粹的文字Android App，传统纵书风格，以求为用户带来更质朴的书写体验。加之现有文字App要么过于复杂，要么界面不够特色，更促成简诗的诞生。
+
+如果你也有自己的side project 也欢迎分享晒到diycode让更多同学看到你的作品。
 
 ## Android开发
+
+[解析 Retrofit create 方法的实现：Java 动态代理的使用](http://www.diycode.cc/topics/423)
+
+Retrofit 是如何使用一个接口的 Class 创建出来实现了该接口的对象呢？
 
 [Android 复杂的列表视图新写法: MultiType 详解篇](https://drakeet.me/effective-multitype)
 
