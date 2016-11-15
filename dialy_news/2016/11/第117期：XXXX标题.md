@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第117期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[减少APK的大小，Android官方这样说](http://www.jianshu.com/p/6df0dc494019)
 
-啦啦啦
+Android官方文档教你如何为APK瘦身。
 
-[]()
+[Android内存泄漏：谨慎使用getSystemService](http://droidyue.com/blog/2016/11/14/be-careful-using-getsystemservice/)
 
-啦啦啦
+一次在公司开发项目开发中，突然LeakCanary弹出了一个内存泄漏的通知栏，原因竟是和getSystemService有关。
 
-[]()
+[Android App性能优化系列结语篇](http://blog.lmj.wiki/2016/11/06/app-opti/app_opt_summary/)
 
-啦啦啦
+作者写的一个系列的优化文章，干货满满，推荐阅读。
 
-[]()
+[Android"挂逼"修炼之行---微信实现本地视频发布到朋友圈功能](http://blog.csdn.net/jiangwei0910410003/article/details/53045634)
 
-啦啦啦
+文章介绍如何使用Xposed框架编写第二个微信插件，可以将本地小视频发布到朋友圈的功能。
 
-[]()
+[为开发者准备的最佳 Android 函数库（2016年版）](http://www.jianshu.com/p/3baf4b4f34b6)
 
-![]()
-
-啦啦啦
+收好这些开源库。
 
 ## 课外话题
 
-[]()
+[腾讯游戏和网易游戏到底谁厉害？](https://www.zhihu.com/question/20203381)
 
-啦啦啦
+我比较关心，网易什么时候也每人发300股股票。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
