@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第118期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,29 @@
 
 ## Android开发
 
-[]()
+[[英] 深入理解 Android和Java中的引用是如何工作的（需科学上网）](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.2p3i9z3qv)
 
-啦啦啦
+[Android Clipboard 还能玩出花](http://www.diycode.cc/topics/430)
 
-[]()
+不玩不知道，一玩吓一跳。想知道淘宝的淘口令是如何实现的吗？
 
-啦啦啦
+[Android Apk 优化：PNG图片压缩对比分析](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232233&idx=1&sn=03d9858ac451f2768b804d2604a8e12e&chksm=f1d9ea8ac6ae639c90e9a05a90c950de1716181e1ae5ae2658b3f2cc08dd0770ae75af622406&mpshare=1&scene=1&srcid=1116ZIO9GKMmrcgtFDFrEXoa#rd)
 
-[]()
+来自QQ音乐团队的分享。
 
-啦啦啦
+[Android MP3录制，波形显示，音频权限兼容与播放](http://www.jianshu.com/p/2448e2903b07)
 
-[]()
+[【Android】强大的SpannableStringBuilder](http://www.jianshu.com/p/f004300c6920)
 
-啦啦啦
+[DrawView：开源的Android手写板控件](https://github.com/ByoxCode/DrawView)
 
-[]()
-
-![]()
-
-啦啦啦
+![](https://github.com/ByoxCode/DrawView/raw/master/2016.11.10_18.00.25.gif)
 
 ## 课外话题
 
-[]()
+[有哪些令人拍案叫绝的算法？](https://www.zhihu.com/question/27547892)
 
-啦啦啦
+666。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
