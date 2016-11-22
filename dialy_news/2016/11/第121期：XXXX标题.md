@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第121期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[Android屏幕适配姿势](http://www.jianshu.com/p/5d5494dd6dbe)
 
-啦啦啦
+来感受一下Android的碎片化。
 
-[]()
+[北京 GDG Devfest 2016 Android PPT 合集](https://github.com/gdgbeijing/devfest2016)
 
-啦啦啦
+很干货。
 
-[]()
+[Android 列表视频的全屏、自动小窗口优化实践](http://gold.xitu.io/entry/5832c4758ac2470061c61b0d/detail)
 
-啦啦啦
+[携程移动端 UI 界面性能优化实践](http://geek.csdn.net/news/detail/115422)
 
-[]()
+[ENViews：一个华丽丽的动效控件库，所有控件原型取自Nick Buturishvili的设计作品](https://github.com/codeestX/ENViews)
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+| Original design | Android demo | Class |
+| :--: | :--: | :--: |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_download.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/download.gif) |ENDownloadView|
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_volume.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/volume.gif)|ENVolumeView|
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_loading.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/loading.gif)  | ENLoadingView |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_play.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/play.gif) | ENPlayView |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_search.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/search.gif) |ENSearchView
+|![](http://odck16ake.bkt.clouddn.com/Github/o_scroll.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/scroll.gif)  |ENScrollView
+|![](http://odck16ake.bkt.clouddn.com/Github/o_refresh.gif)  | ![](http://odck16ake.bkt.clouddn.com/Github/refresh.gif)  |ENRefreshView|
 
 ## 课外话题
 
-[]()
+[怎样才是一份好的技术简历?](http://www.jianshu.com/p/3a6bc66e31c9)
 
-啦啦啦
+写一份好的技术简历很重要哦。
+
+[md2googleslides:把Markdown转成幻灯片](https://github.com/googlesamples/md2googleslides)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
