@@ -2,9 +2,9 @@
 
 ## 深度讨论
 
-[]()
+[作为一个 Android 中级工程师都需要掌握哪些技能呢？](http://www.diycode.cc/topics/452)
 
-王子，看你了！
+一个有意思的话题。
 
 ## Android开发
 
