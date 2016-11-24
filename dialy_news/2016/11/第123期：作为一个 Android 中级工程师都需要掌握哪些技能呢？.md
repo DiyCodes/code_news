@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第123期：作为一个 Android 中级工程师都需要掌握哪些技能呢？
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[Android 相机预览方向及其适配探索](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332618&idx=1&sn=9192fd1f027f2e1ae287e6f630634b5f&chksm=80633339b714ba2fed52c1350bfdc681ac9386020540e29eaa4cd8727f2b6182fc9ad8c62c3b&mpshare=1&scene=1&srcid=1124GrEPm9TUpxW5nwmjQSSH#rd)
 
-啦啦啦
+这一直是Android App开发者头疼的兼容性问题。
 
-[]()
+[Redex 初探与 Interdex：Andorid 冷启动优化](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578240&idx=1&sn=b6a721e3eb0b3b0ee3ecb427452ef60e&chksm=84b3b607b3c43f11ad53b6338d11f22e9727b6bc7a2c7ca5aa899dbec5da4527cc8bc3e830cb&mpshare=1&scene=1&srcid=1124Xn6tfnW6ILLHLwDaOCGp#rd)
 
-啦啦啦
+基于Facebook的Redex的填坑过程。
 
-[]()
+[梳理源码中View的工作原理](http://www.jianshu.com/p/17b372ef3f41)
 
-啦啦啦
+干货总结分享。
 
-[]()
+[Android MultiDex实现原理解析](http://allenfeng.com/2016/11/17/principle-analysis-on-multidex/)
 
-啦啦啦
+[ExpandableTextView：可拓展收缩的TextView](https://github.com/Manabu-GT/ExpandableTextView)
 
-[]()
+![](https://github.com/Manabu-GT/ExpandableTextView/raw/master/art/readme_demo.gif?raw=true)
 
-![]()
-
-啦啦啦
+很实用呢。
 
 ## 课外话题
 
-[]()
+- [全球HTTPS时代已来，你跟上了吗？](https://jaq.alibaba.com/community/art/show?articleid=621)
 
-啦啦啦
+有了HTTPS是不是不用再怕运营商的流量劫持了呢？
+
+- [人最重要的能力是什么？](https://www.zhihu.com/question/19602183)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
