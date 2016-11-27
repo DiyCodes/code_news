@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第124期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[​使用Buck构建Android工程](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232278&idx=1&sn=cd22311ea309c09cbab7f122853f71f2&chksm=f1d9e575c6ae6c6342f14898c6b752cf3d7e3f2dce0086d30e16e8280b89d9d9cc4d64a57a7b&mpshare=1&scene=1&srcid=1125mtHJXsSXeLuvpwEwY1vg#rd)
 
-啦啦啦
+使用Buck来为构建的Android工程，速度立马杠杠的上去了。（美中不足的是，Buck不支持Windows环境）
 
-[]()
+[基于 Appium 的 Android UI 自动化测试](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651745729&idx=2&sn=8f1930366c2c2879739867adc606d90d&chksm=bd12b48c8a653d9a7589c01d1b7a505b616b4c0d57c72f32a16595677e8be15abe90715a164b&mpshare=1&scene=1&srcid=1125TxRoKl0aWJtbaekUDicW#rd)
 
-啦啦啦
+自动化测试是研发人员进行质量保障的重要一环，良好的自动化测试机制能够让开发者及早发现编码中的逻辑缺陷，将风险前置。
 
-[]()
+[Android SDK 开发](https://zhuanlan.zhihu.com/p/22527586)
 
-啦啦啦
+工作六年有余，其中四年的时间致力于 SDK 开发。细细想来，唏嘘不已，感触颇多。
 
-[]()
+[如何构建Android MVVM 应用框架](http://tech.meituan.com/android_mvvm.html)
 
-啦啦啦
+说到Android MVVM，相信大家都会想到Google 2015年推出的DataBinding框架。然而两者的概念是不一样的，不能混为一谈。MVVM是一种架构模式，而DataBinding是一个实现数据和UI绑定的框架，是构建MVVM模式的一个工具。
 
-[]()
+[浏览器缓存知识小结及应用](http://www.cnblogs.com/lyzg/p/5125934.html)
 
-![]()
+[Android-Debug-Database：帮助你调试Android数据库和SharePreferences的开源库](http://www.cnblogs.com/lyzg/p/5125934.html)
+
+![](https://raw.githubusercontent.com/amitshekhariitbhu/Android-Debug-Database/master/assets/debugdb.png)
 
 啦啦啦
 
 ## 课外话题
 
-[]()
+[创业一年，一些技术上的总结](https://piaoniu.io/chuang-ye-yi-nian-yi-xie-ji-zhu-shang-de-zong-jie/)
 
-啦啦啦
+[如何把个人业余开源项目做到月入8万美元？](http://36kr.com/p/5057435.html)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
