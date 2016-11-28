@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第125期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android轮子系列：手把手教你实现搜索框](http://www.jianshu.com/p/3682f6536e49)
 
-啦啦啦
+结合实际应用场景，作者的实现思路值得学习一发。
 
-[]()
+[[英]手摸手教你做一个自定义 View，附详细流程图（需科学上网）](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.3eypckqxi)
 
-啦啦啦
+图文并茂，思路清晰。
 
-[]()
+[Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）](http://www.jianshu.com/p/9fe377dd9750)
 
-啦啦啦
+[Android 上的蓝牙实践](http://www.race604.com/android-ble-in-action/)
 
-[]()
+Droidcon Beijing 2016 和 GDG Devfest 2016 上做的分享。
 
-啦啦啦
+[blurkit-android：实时高效的展示高斯模糊效果](https://github.com/wonderkiln/blurkit-android)
 
-[]()
+![](https://github.com/wonderkiln/blurkit-android/raw/master/.repo/demo.gif)
 
-![]()
-
-啦啦啦
+就像在iOS上一样。
 
 ## 课外话题
 
-[]()
+[简历，请拿数据说话](http://mp.weixin.qq.com/s/RyGTYvGdzBgeNj0KgMCXrg)
 
-啦啦啦
+[如何提升你的面试机会？](http://mp.weixin.qq.com/s/jzr7qpPwjV023MyLtLeAPw)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
