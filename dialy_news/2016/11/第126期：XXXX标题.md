@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第126期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[爽翻天！告别Java。一起来使用kotlin开发完整客户端](http://gold.xitu.io/post/583b042461ff4b007ecf00ff)
 
-啦啦啦
+玩过Kotlin的人都说简直不要太爽，完全可以在业务时间撸一发。
 
-[]()
+[Android View 全解析之实践自定义 View](http://www.woaitqs.cc/android/2016/11/28/android-view-theory-5.html)
 
-啦啦啦
+[直接拿去用！每个App都会用到的LoadingLayout](http://gold.xitu.io/post/583c242061ff4b006b59c7fb)
 
-[]()
+项目里都会遇到几种页面，分别为加载中、无网络、无数据、出错四种情况，经常要使用，所以封成库引用了，方便使用，顺便分享出来。
 
-啦啦啦
+[Android Robolectric 加载运行本地 So 动态库](http://rocko.xyz/2016/11/27/Android-Robolectric-%E5%8A%A0%E8%BD%BD%E8%BF%90%E8%A1%8C%E6%9C%AC%E5%9C%B0-so-%E5%8A%A8%E6%80%81%E5%BA%93/)
 
-[]()
+[React-Native 图片热更新初探](http://xujinyang.github.io/2016/10/09/React-Native-update_rn_img/)
 
-啦啦啦
+有多少童鞋的项目有用RN做开发？
 
-[]()
+[Cadar：像 Google Inbox 那样的效果](https://github.com/memfis19/Cadar)
 
-![]()
-
-啦啦啦
+![](https://github.com/memfis19/Cadar/raw/master/art/interaction_anim.gif)
 
 ## 课外话题
 
-[]()
+[技术的成长曲线](http://zhangtielei.com/posts/blog-growth-curve.html)
 
-啦啦啦
+[有哪些小乐器，是学习起来非常方便的？](http://mp.weixin.qq.com/s/s4sUUyTvgIVXEKYosUPeGQ)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
