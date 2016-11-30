@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第127期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,27 @@
 
 ## Android开发
 
-[]()
+[利用百度地图实现支付宝“到位”功能（地图模式）](http://www.jianshu.com/p/2479719af18c)
 
-啦啦啦
+一个芝麻信用分762的穷苦青年写的。
 
-[]()
+[关于Java中枚举Enum的深入剖析](http://droidyue.com/blog/2016/11/29/dive-into-enum/)
 
-啦啦啦
+[Android 开发命令行完全攻略](http://www.jianshu.com/p/b8a83bbf5ce9)
 
-[]()
+命令行爱好者的分享。
 
-啦啦啦
+[Android多线程全面解析：IntentService用法&源码](http://www.jianshu.com/p/8a3c44a9173a)
 
-[]()
+[Blurry：轻松实现Android高斯模糊](https://github.com/wasabeef/Blurry)
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif)
 
 ## 课外话题
 
-[]()
+[程序员如何保证「专注」与「效率」](http://huang-jerryc.com/2016/11/27/keep-focus-and-efficiency/)
 
-啦啦啦
+[草根 CTO 创业1年交作业：这个职位跟技术总监有啥不一样？](http://mp.weixin.qq.com/s/C3KKWGm3rZMvlmFcBTH79Q)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
