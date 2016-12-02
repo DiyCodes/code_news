@@ -1,10 +1,13 @@
-# 第128期：XXXX标题
+# 第128期：ART下的方法内联策略及其对Android热修复方案的影响分析
 
-## 深度讨论
+[1、最近计划给网站加上 https，有哪些好用的 SSL 证书呢？](http://www.diycode.cc/topics/469)
 
-[]()
+最近很多童鞋用手机微信或者QQ打开 Diycode 页面总是被插了大量的广告，已经到了无法忍受的状态，最近计划给网站加上https，有哪些好用的 SSL 证书呢？
 
-王子，看你了！
+[2、这个 diycoder 分享的开源控件有意思，可用于 Github 活跃图、像素画、电影院选座、棋盘](http://www.diycode.cc/topics/467)
+
+在群里答应他给上头条的。
+
 
 ## Android开发
 
