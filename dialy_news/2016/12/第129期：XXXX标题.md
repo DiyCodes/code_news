@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第129期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[仿映客 ViewPager 上下滑动切换直播](http://www.diycode.cc/topics/474)
 
-啦啦啦
+社区以为童鞋仿映客的效果实现，感兴趣的童鞋可以 star 他的项目 https://github.com/xingstarx/InkeVerticalViewPagerLive
 
-[]()
+[Android 应用内存泄漏的定位、分析与解决策略](http://www.diycode.cc/topics/475)
 
-啦啦啦
+一点小小的总结分享。
 
-[]()
+[关于Android应用，是用多个Activity好，还是单Activity配合Fragment好？](https://www.zhihu.com/question/39662488)
 
-啦啦啦
+这是一个很有意思的知乎话题，有不少好答案呢，推荐大家看看。
 
-[]()
+[Android App 安全的 HTTPS 通信](https://yq.aliyun.com/articles/64810?spm=5176.8067842.tagmain.41.0LO1b6)
 
-啦啦啦
+Https 是大势所趋，还不知道开发者有必要来了解一下了。
 
-[]()
+[TapTargetView：为应用的新功能添加提示效果](https://github.com/KeepSafe/TapTargetView)
 
-![]()
-
-啦啦啦
+![](https://github.com/KeepSafe/TapTargetView/raw/master/.github/video.gif)
 
 ## 课外话题
 
-[]()
+[我的第一款全栈side project](http://www.jianshu.com/p/39dce598faf1)
 
-啦啦啦
+作者开发了自己的第一款 Side Project —— 简诗。
+
+[房价会涨还是会跌，这是我看过所有解读中最专业的一个，分享给你！](http://mp.weixin.qq.com/s/DW3RrNnqrCuaflLuuZOtGg)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
