@@ -1,10 +1,15 @@
-# 第129期：XXXX标题
+# 第129期：Android 应用内存泄漏的定位、分析与解决策略
 
 ## 深度讨论
 
-[]()
+[2016 即将过去，你心目中最好的 Android App 是什么呢？](http://www.diycode.cc/topics/476)
 
-王子，看你了！
+欢迎大家跟帖推荐自己今年用过最棒的 Android App ，最好可以写上推荐语！！
+
+[Android 应用内存泄漏的定位、分析与解决策略](http://www.diycode.cc/topics/475)
+
+葱花的总结分享，我给提上来了。
+
 
 ## Android开发
 
@@ -12,9 +17,7 @@
 
 社区以为童鞋仿映客的效果实现，感兴趣的童鞋可以 star 他的项目 https://github.com/xingstarx/InkeVerticalViewPagerLive
 
-[Android 应用内存泄漏的定位、分析与解决策略](http://www.diycode.cc/topics/475)
 
-一点小小的总结分享。
 
 [关于Android应用，是用多个Activity好，还是单Activity配合Fragment好？](https://www.zhihu.com/question/39662488)
 
