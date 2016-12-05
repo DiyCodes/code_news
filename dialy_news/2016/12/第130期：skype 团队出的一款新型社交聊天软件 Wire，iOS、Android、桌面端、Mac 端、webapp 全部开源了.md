@@ -1,10 +1,10 @@
-# 第130期：XXXX标题
+# 第130期：skype 团队出的一款新型社交聊天软件 Wire，iOS、Android、桌面端、Mac 端、webapp 全部开源了
 
 ## 深度讨论
 
-[]()
+[skype 团队出的一款新型社交聊天软件 Wire，iOS、Android、桌面端、Mac 端、webapp 全部开源了](http://www.diycode.cc/topics/480)
 
-王子，看你了！
+Wire是一款聊天软件， 非常简单—几乎纯手势操作，右划光标进入交流界面，除了文字交流外，还支持图片、VoIP—是的，是实时的。
 
 ## Android开发
 
