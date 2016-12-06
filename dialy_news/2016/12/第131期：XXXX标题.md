@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第131期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Qzone视频下载如何做到多快好省？](http://mp.weixin.qq.com/s/BQxu7vXfdbd5U4izW5VTZQ)
 
-啦啦啦
+Qzone的日均视频播放量已经突破了10亿，其中Android端的播放量在总播放量中的占比超过70%，相比年初，播放量的增长了超过10倍。视频下载是整个视频播放的基础，如果下载侧出问题，则会造成整个视频播放的失败，这就对我们的视频下载提出了非常高的要求。
 
-[]()
+[Android中热修复框架AndFix原理解析及案例使用](http://mp.weixin.qq.com/s/qd1lWKj0f37KxpVDPyolww)
 
-啦啦啦
+阿里的热修复框架AndFix出来已经很长时间了，但是看网上没有太多非常详细的讲解，这里就来做一次分析。
 
-[]()
+[途牛Android客户端架构优化问题的解决方案](http://mp.weixin.qq.com/s/UFR-Mg2j3mic95FxZlJ4Mw)
 
-啦啦啦
+途牛针对实践过程中出现的种种问题，提出解决方案。
 
-[]()
+[你知道途牛Android客户端架构是怎么优化的吗？](http://mp.weixin.qq.com/s/CfPlVKElv2SshAbfzHfRhg)
 
-啦啦啦
+途牛APP经历了诞生、发展、升级和优化的阶段，系统越来越稳定，功能越来越丰富，技术架构越来越完善。
 
-[]()
+[smart-scheduler-android：开源的智能Scheduler，根据场景选择合适的方式执行任务](https://github.com/hypertrack/smart-scheduler-android)
 
-![]()
-
-啦啦啦
+![](https://camo.githubusercontent.com/32f13ca5e698e3a40fa04b4f83df9240dbbee063/687474703a2f2f692e696d6775722e636f6d2f5835336b6c555a2e6769663f31)
 
 ## 课外话题
 
-[]()
+[一个完整的APP是如何从零开始做出来的？](http://weibo.com/ttarticle/p/show?id=2309404049620652151837)
 
-啦啦啦
+今天这篇是一个完整的App 产出过程，从构思，画原型，到定视觉风格和规范，再到出视觉稿和动效，都是由一个人完成的，本篇就此次作品的流程讲解一下。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
