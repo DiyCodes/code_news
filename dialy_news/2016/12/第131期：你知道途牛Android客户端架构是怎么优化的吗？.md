@@ -1,12 +1,11 @@
-# 第131期：XXXX标题
+# 第131期：你知道途牛Android客户端架构是怎么优化的吗？
 
-## 深度讨论
-
-[]()
-
-王子，看你了！
 
 ## Android开发
+
+[你知道途牛Android客户端架构是怎么优化的吗？](http://mp.weixin.qq.com/s/CfPlVKElv2SshAbfzHfRhg)
+
+途牛APP经历了诞生、发展、升级和优化的阶段，系统越来越稳定，功能越来越丰富，技术架构越来越完善。
 
 [Qzone视频下载如何做到多快好省？](http://mp.weixin.qq.com/s/BQxu7vXfdbd5U4izW5VTZQ)
 
@@ -20,9 +19,6 @@ Qzone的日均视频播放量已经突破了10亿，其中Android端的播放量
 
 途牛针对实践过程中出现的种种问题，提出解决方案。
 
-[你知道途牛Android客户端架构是怎么优化的吗？](http://mp.weixin.qq.com/s/CfPlVKElv2SshAbfzHfRhg)
-
-途牛APP经历了诞生、发展、升级和优化的阶段，系统越来越稳定，功能越来越丰富，技术架构越来越完善。
 
 [smart-scheduler-android：开源的智能Scheduler，根据场景选择合适的方式执行任务](https://github.com/hypertrack/smart-scheduler-android)
 
