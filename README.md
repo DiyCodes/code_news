@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第131期：你知道途牛Android客户端架构是怎么优化的吗？](dialy_news/2016/12/第131期：你知道途牛Android客户端架构是怎么优化的吗？.md) 	|
 |[第130期：skype 团队出的一款新型社交聊天软件 Wire，iOS、Android、桌面端、Mac 端、webapp 全部开源了](dialy_news/2016/12/第130期：skype 团队出的一款新型社交聊天软件 Wire，iOS、Android、桌面端、Mac 端、webapp 全部开源了.md) 	|
 |[第129期：Android 应用内存泄漏的定位、分析与解决策略](dialy_news/2016/12/第129期：Android 应用内存泄漏的定位、分析与解决策略.md) 	|
 |[第128期：ART下的方法内联策略及其对Android热修复方案的影响分析](dialy_news/2016/12/第128期：ART下的方法内联策略及其对Android热修复方案的影响分析.md) 	|
