@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第133期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,39 @@
 
 ## Android开发
 
-[]()
+[Google Developers中国网站发布！](http://mp.weixin.qq.com/s/OK-07avMAAytS2SVwrDVdg)
 
-啦啦啦
+业界的良心，开发者的福利，Google Developers 中国网站 (developers.google.cn) 正式发布！
 
-[]()
+[Android一线互联网公司面试简单分析](http://www.jackway.cn/2016/12/07/interview-1/)
 
-啦啦啦
+作者的面试总结。
 
-[]()
+[Android MultiDex实现原理解析](http://allenfeng.com/2016/11/17/principle-analysis-on-multidex/)
 
-啦啦啦
+本文主要从源码角度出发，分析MultiDex的实现原理。
 
-[]()
+[根据实际项目浅谈Android项目中的框架搭建](https://silencedut.github.io/2016/12/05/%E6%A0%B9%E6%8D%AE%E5%AE%9E%E9%99%85%E9%A1%B9%E7%9B%AE%E6%B5%85%E8%B0%88Android%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/)
 
-啦啦啦
+这是开源应用[知天气](https://github.com/SilenceDut/KnowWeather)实践中的架构搭建方式。
 
-[]()
+[【英】不必使用 WeakReference 来避免内存泄漏 （需科学上网）](https://medium.com/google-developer-experts/weakreference-in-android-dd1e66b9be9d#.sfe41se51)
 
-![]()
+You don’t have to use WeakReference to avoid memory leaks.
 
-啦啦啦
+[ZoomHeader：模仿饿了么详情页变换效果](https://github.com/githubwing/ZoomHeader)
+
+![](https://github.com/githubwing/ZoomHeader/raw/master/img.gif)
 
 ## 课外话题
 
-[]()
+[你为什么从大公司离职，去一家创业公司？](https://100offer.com/blog/posts/154)
 
-啦啦啦
+从大型企业离职，去创业公司发展，这类现象早已是互联网职场人才流动的常态，其中，正反面案例皆不少。
+
+[致等待跳槽的人——为什么我们不建议等到年后？](https://100offer.com/blog/posts/182)
+
+对于有跳槽心思的人来说，肯定会思考一个问题——「我该什么时候跳？」
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
