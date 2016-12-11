@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第134期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[Android MultiDex工作原理分析和优化方案](https://zhuanlan.zhihu.com/p/24305296)
 
-啦啦啦
+作者的这篇日志主要是配合源码分析MultiDex的工作原理，以及提供一些MultiDex优化的方案。
 
-[]()
+[我的吱吱：Android 视频图片新闻应用](http://www.jianshu.com/p/e2a8c34932a6)
 
-啦啦啦
+作者花了两个月的时间，写了这款集合了新闻、视频和图片信息的Material Design风格的开源应用。
 
-[]()
+[Android热更新后台的搭建总结](http://mp.weixin.qq.com/s/eGt4Fc5yJjZB6rKaFz0NCQ)
 
-啦啦啦
+如题。
 
-[]()
+[知乎服务化的实践与思考](https://zhuanlan.zhihu.com/p/24044342)
 
-啦啦啦
+服务化是知乎几年来技术演进故事里的一个主角，公司规模从几十人到几百人，在监控、tracing、框架、容器等基础设施从无到有的同时，也扩展出多个后端技术团队。在服务化演进的过程里，知乎团队也进行了一些新的思考。
 
-[]()
+[微信Mars之高质量网络连接探索](http://ppt.geekbang.org/slide/show/630)
 
-![]()
+中国技术开放日上，微信关于 Mars 设计的PPT。
 
-啦啦啦
+[TwinklingRefreshLayout：强大且自带越界回弹效果的下拉刷新布局](https://github.com/lcodecorex/TwinklingRefreshLayout)
+
+![](https://github.com/lcodecorex/TwinklingRefreshLayout/raw/master/art/gif_recyclerview2.gif)
 
 ## 课外话题
 
-[]()
-
-啦啦啦
+[哪些道理是你踏入社会才明白的？](https://www.zhihu.com/question/51671791)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
