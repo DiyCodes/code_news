@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第135期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,43 @@
 
 ## Android开发
 
-[]()
+[ANDROID动态加载 使用SO库时要注意的一些问题](https://segmentfault.com/a/1190000005646078)
 
-啦啦啦
+这些问题对于经常和SO库开发打交道的同学来说已经是老生长谈，但是既然要讨论一整个动态加载系列，我想还是有必要说说使用SO库时的一些问题。
 
-[]()
+[Android增量编译3～5秒的背后](http://www.jianshu.com/p/37e31d924be9)
 
-啦啦啦
+文章主要介绍freeline是如何实现快速增量编译的。
 
-[]()
+[对于有多种可替代解决方案的业务逻辑，提供一种快速更换的思路](https://v1sk.github.io/2016/12/11/%E8%A7%A3%E8%80%A6%E6%80%9D%E8%B7%AF/)
 
-啦啦啦
+好文荐阅。
 
-[]()
+[爱范儿Android客户端是如何让详情页缩小为横向列表的](https://gold.xitu.io/post/584d8fd38e450a006ac7b0c6)
 
-啦啦啦
+作者连夜写代码，封装成库，再撸文章，只为献给爱技术的你。感动吗？
 
-[]()
+[Android用RecyclerView实现最美应用底栏](http://www.jianshu.com/p/7202416974f6)
 
-![]()
+![](http://upload-images.jianshu.io/upload_images/2495533-2c98b30ee98d288b.gif?imageMogr2/auto-orient/strip)
 
-啦啦啦
+## iOS开发
+
+[微信读书 iOS 质量保证及性能监控](http://wereadteam.github.io/2016/12/12/Monitor/)
+
+在实现需求的同时，能写出既优雅性能又高效的代码是每个开发者都在追求的目标，但是在实际开发中，随着每个版本需求的迭代，功能变得越来越复杂，加上开发者的意识不够或者一时疏忽，日渐复杂的工程很容易产生或多或少的问题。
+
+## 招聘
+
+[小米公司招聘各类工程师啦！！！](https://www.diycode.cc/topics/495)
+
+看看有没有适合你的。
 
 ## 课外话题
 
-[]()
+[跟谁一起工作，到底有多重要？](http://mp.weixin.qq.com/s/9jSOcLPs7xs-UrQFbepp9g)
 
-啦啦啦
+如何快速地成长？很多刚刚进入职场的新人都会困惑于这个问题。不同于“进大公司还是创业公司”这个经典问题，成长更是一个进行式的过程而不是一个向左向右的选择题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
