@@ -1,10 +1,14 @@
-# 第134期：XXXX标题
+# 第134期：Android MultiDex工作原理分析和优化方案
 
-## 深度讨论
+## 一点推荐
 
-[]()
+[1、即刻 App “追踪机器人” 初体验，外加三十个邀请码](https://www.diycode.cc/topics/491)
 
-王子，看你了！
+最近即刻 App 最新版本中的内测实验室功能在极客圈火了，来试试看吧。
+
+[2、Diycode 加上Https，关于 SSL 的选择大家看这里](https://www.diycode.cc/topics/469)
+
+终于不用受到运营商劫持了！
 
 ## Android开发
 
