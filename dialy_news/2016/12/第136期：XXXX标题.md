@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第136期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[编写优美Android注释的常用语法](http://www.jianshu.com/p/54e8964730b4)
 
-啦啦啦
+文章分享的是关于Android注释系统的一些强大功能，实践证明，拥有良好的注释是可持续维护的重要标准。
 
-[]()
+[Android TextView图文混排基础](http://www.jianshu.com/p/72d31b7da85b)
 
-啦啦啦
+在使用TextView的时候，我们经常需要在TextView中进行图文混排，作者对此做了详细的总结介绍。
 
-[]()
+[美团外卖移动端性能监测体系实现](http://mp.weixin.qq.com/s/MwgjpHj_5RaG74Z0JjNv5g)
 
-啦啦啦
+文章主要介绍美团外卖在实践中通过总结常见性能问题，并在学习了业内微信、360等性能监控技术原理后，开发了一套移动端性能监控解决方案——Hertz（赫兹）。
 
-[]()
+[Android AccessibilityService从入门到出轨](http://mp.weixin.qq.com/s/7L2ysyTlFR1Xz4tk73dxuA)
 
-啦啦啦
+任何技术都是一把双刃剑，用的好与好不，都在于使用它的人，一念天堂，一念地狱。
 
-[]()
+[SwissArmyKnife：Android免root兼容所有版本ui调试工具](https://github.com/android-notes/SwissArmyKnife)
 
-![]()
+![](https://raw.githubusercontent.com/android-notes/blogimg/master/%E8%BE%B9%E6%A1%86.jpg)
 
-啦啦啦
+功能强大，不妨试试。
 
 ## 课外话题
 
-[]()
-
-啦啦啦
+[知识是资本？你确定吗？](https://zhuanlan.zhihu.com/p/24350343)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
