@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第139期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[这交互炸了，教你学会 App 闪屏页像云一样扩散到主页面](https://www.diycode.cc/topics/512)
 
-啦啦啦
+《交互炸了》“或许”是一系列狂拽、炫酷、高端特效教程， 文中会介绍一些比较炫酷的特效, 以及实现的思路。特效实现本身也许不会有太大的难度。难点在于实现的思路。一旦思路被打开，特效将很简单实现。
 
-[]()
+![](https://diycode.b0.upaiyun.com/photo/2016/986c02c6c6b29ecaa6b9c70f638b8603.gif)
 
-啦啦啦
+[Android Fragment 的使用，一些你不可不知的注意事项](http://yifeng.studio/2016/12/15/android-fragment-attentions/)
 
-[]()
+Fragment自 Android 3.0 开始被引进并大量使用。然而就是这样耳熟能详的一个东西，在开发中我们还是会遇见各种各样的问题，层出不穷。所以，作者总结一波分享给大家。
 
-啦啦啦
+[自定义Gradle插件](http://mp.weixin.qq.com/s/95in4PDen2wMX_YMgVShag)
 
-[]()
+通过本篇文章，我们能够解释一些在平时Android开发中的一些困惑：1.我们每次用到的android域从何而来？2.为什么在android域内设置一些属性，会在项目中生效 。
 
-啦啦啦
+[全面了解Android Notification](http://www.jianshu.com/p/22e27a639787)
 
-[]()
+最近时不时地有人问我这样或那样的通知如何实现，所以本文将根据个人经验对Notification做个总结，以供参考！
 
-![]()
+[SpaceTabLayout：一个很棒的 Android 开源 TabLayout central Floating Action Button](https://github.com/thelong1EU/SpaceTabLayout)
 
-啦啦啦
+![](https://github.com/thelong1EU/SpaceTabLayout/raw/master/readmeSource/3.gif)
+
+## 求职招聘
+
+[大数据，大未来——南京论之语网络技术有限公司诚邀各路大牛](https://www.diycode.cc/topics/507)
 
 ## 课外话题
 
-[]()
-
-啦啦啦
+[大家的公司的Code Review都是怎么做的？遇到过什么问题么？](https://www.zhihu.com/question/41089988)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
