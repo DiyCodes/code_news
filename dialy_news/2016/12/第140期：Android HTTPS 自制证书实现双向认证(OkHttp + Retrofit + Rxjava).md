@@ -1,10 +1,10 @@
-# 第140期：XXXX标题
+# 第140期：Android HTTPS 自制证书实现双向认证(OkHttp + Retrofit + Rxjava)
 
 ## 深度讨论
 
-[]()
+[大家来聊聊前几天一个去百度面试 Android 开发岗位的同学的面试题](https://www.diycode.cc/topics/515)
 
-王子，看你了！
+讨论节点开通了，大家来聊聊前几天一个去百度面试 Android 开发岗位的同学的面试题吧
 
 ## Android开发
 
