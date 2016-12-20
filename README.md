@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第140期：Android HTTPS 自制证书实现双向认证](dialy_news/2016/12/第140期：Android HTTPS 自制证书实现双向认证.md) 	|
 |[第139期：3年以上的 Android／iOS 工程师，你觉得你目前的核心竞争力在哪？](dialy_news/2016/12/第139期：3年以上的 Android／iOS 工程师，你觉得你目前的核心竞争力在哪？.md) 	|
 |[第138期：推荐创意方案的企业筹资的众筹网站平台 Kickstarter 的开源 Android App](dialy_news/2016/12/第138期：推荐创意方案的企业筹资的众筹网站平台 Kickstarter 的开源 Android App.md) 	|
 |[第137期：Android 密钥保护和C-S网络传输安全理论指南](dialy_news/2016/12/第137期：Android 密钥保护和C-S网络传输安全理论指南.md) 	|
