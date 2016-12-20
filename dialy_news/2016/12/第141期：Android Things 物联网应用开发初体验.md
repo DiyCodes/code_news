@@ -1,10 +1,15 @@
-# 第141期：XXXX标题
+# 第141期：Android Things 物联网应用开发初体验
 
 ## 深度讨论
 
-[]()
+[Android Things 物联网应用开发初体验](https://www.diycode.cc/topics/518)
 
-王子，看你了！
+最近，Google 发布了 Android Things 开发者预览版，看看硬件极客是怎么开始玩的。
+
+
+[One Step：锤子科技的 One Step 开源啦！](https://github.com/SmartisanTech/android) [diycode projects](https://www.diycode.cc/projects/SmartisanTech/android)
+
+![](https://camo.githubusercontent.com/897d4f84233a7131ffc3cb2b4394914c04b9140a/687474703a2f2f7374617469632e736d6172746973616e6f732e636e2f636f6d6d6f6e2f696d672f74686972642d6d656469756d2f6f6e652d737465702d69636f6e5f386461623932336635332e706e67)
 
 ## Android开发
 
@@ -24,9 +29,6 @@ RxJava 的下一代版本正在紧锣密鼓地开发当中。尽管在新版本�
 
 RT.
 
-[One Step：锤子科技的 One Step 开源啦！](https://github.com/SmartisanTech/android)
-
-![](https://camo.githubusercontent.com/897d4f84233a7131ffc3cb2b4394914c04b9140a/687474703a2f2f7374617469632e736d6172746973616e6f732e636e2f636f6d6d6f6e2f696d672f74686972642d6d656469756d2f6f6e652d737465702d69636f6e5f386461623932336635332e706e67)
 
 ## 课外话题
 
