@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第141期：Android Things 物联网应用开发初体验](dialy_news/2016/12/第141期：Android Things 物联网应用开发初体验.md) 	|
 |[第140期：Android HTTPS 自制证书实现双向认证](dialy_news/2016/12/第140期：Android HTTPS 自制证书实现双向认证.md) 	|
 |[第139期：3年以上的 Android／iOS 工程师，你觉得你目前的核心竞争力在哪？](dialy_news/2016/12/第139期：3年以上的 Android／iOS 工程师，你觉得你目前的核心竞争力在哪？.md) 	|
 |[第138期：推荐创意方案的企业筹资的众筹网站平台 Kickstarter 的开源 Android App](dialy_news/2016/12/第138期：推荐创意方案的企业筹资的众筹网站平台 Kickstarter 的开源 Android App.md) 	|
