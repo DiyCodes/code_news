@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第142期：详谈 Android 高大上的图片加载框架 Glide](dialy_news/2016/12/第142期：详谈 Android 高大上的图片加载框架 Glide.md) 	|
 |[第141期：Android Things 物联网应用开发初体验](dialy_news/2016/12/第141期：Android Things 物联网应用开发初体验.md) 	|
 |[第140期：Android HTTPS 自制证书实现双向认证](dialy_news/2016/12/第140期：Android HTTPS 自制证书实现双向认证.md) 	|
 |[第139期：3年以上的 Android／iOS 工程师，你觉得你目前的核心竞争力在哪？](dialy_news/2016/12/第139期：3年以上的 Android／iOS 工程师，你觉得你目前的核心竞争力在哪？.md) 	|
