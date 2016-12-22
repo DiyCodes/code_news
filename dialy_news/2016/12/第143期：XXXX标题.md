@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第143期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android性能监控实现原理](http://www.jianshu.com/p/9c07323dc7e5)
 
-啦啦啦
+文章主要介绍了Android平台上实现 Crash监控，卡顿监控，内存监控，增加trace，网络性能监控，app页面自动埋点等操作的原理。
 
-[]()
+[下载安装APK(兼容Android7.0)](http://www.jianshu.com/p/577816c3ce93)
 
-啦啦啦
+大部分应用内部都需要实现升级提醒和应用程序文件(APK文件)下载，本文作者介绍了自己的实现思路和方案。
 
-[]()
+[Android Jenkins+Git+Gradle持续集成-实在太详细](http://www.jianshu.com/p/38b2e17ced73)
 
-啦啦啦
+虽然Jenkins的文章又很多，但我觉得这篇会给你几乎所有想要的。
 
-[]()
+[我们真的需要使用RxJava+Retrofit吗？](https://gold.xitu.io/post/584eb780128fe10058b4c38b)
 
-啦啦啦
+RxJava+Retrofit几乎是是整个2016年Android 开发圈内最受关注的的组合。但是，平心而论，RxJava和Retrofit 相较于以往的各种框架（如 AsyncHttpClient，Volley等 )学习和使用起来会有一些难度；RxJava 强大而又庞大的操作符，Retrofit采用注解风格定义接口，都会让初学者花费不少功夫，绕不少圈子，踩大量的坑。既然这样，那么就会有人怀疑，我们真的需要学习RxJava和Retrofit吗？
 
-[]()
+[SVG-Android：一款支持在 Android 4.0+ 系统上显示 SVG 图片的开源库](https://github.com/MegatronKing/SVG-Android)
 
-![]()
-
-啦啦啦
+![](https://github.com/MegatronKing/SVG-Android/raw/master/screenshots/animation2.gif)
 
 ## 课外话题
 
-[]()
+[写给迷茫前端工程师们的善意提醒](http://weibo.com/ttarticle/p/show?id=2309404054059530205585)
 
-啦啦啦
+谁的IT生涯未曾迷茫？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
