@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第143期：编程时间一万小时之后可以达到怎样的水平？](dialy_news/2016/12/第143期：编程时间一万小时之后可以达到怎样的水平？.md) 	|
 |[第142期：详谈 Android 高大上的图片加载框架 Glide](dialy_news/2016/12/第142期：详谈 Android 高大上的图片加载框架 Glide.md) 	|
 |[第141期：Android Things 物联网应用开发初体验](dialy_news/2016/12/第141期：Android Things 物联网应用开发初体验.md) 	|
 |[第140期：Android HTTPS 自制证书实现双向认证](dialy_news/2016/12/第140期：Android HTTPS 自制证书实现双向认证.md) 	|
