@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第144期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[[英]四个技巧使你的Android App看起来更好（需科学上网）](https://hackernoon.com/make-your-android-app-look-less-shitty-5dd63c4938f1#.iqwactebt)
 
-啦啦啦
+I’ve written this article for you, solo app developer with no designer to help you out. You remind me of myself when I was younger. You and I aren’t so different after all.
 
-[]()
+[通过三次优化，我将gif加载优化了16.9%](http://wetest.qq.com/lab/view/277.html)
 
-啦啦啦
+现在app越来越炫，动不动就搞点动画，复杂的动画用原生实现起来挺复杂，如是就搞起gif播放动画的形式，节省开发成本。
 
-[]()
+[Android碎裂的粒子效果](http://www.jianshu.com/p/1af53020719f)
 
-啦啦啦
+作者偶然间看到一个碎裂的粒子效果，觉得很有意思，就查了查，参考下网上的思路自己撸了个轮子。
 
-[]()
+[仿知乎首页学习 CoordinateLayout](https://gold.xitu.io/post/585bc99f1b69e6006cc2b101)
 
-啦啦啦
+第一次接触CoordinateLayout的时候深深的被其炫酷的特效所吸引，想着什么时候在实际项目中可以使用一下，无奈实际项目因行业特点，并不需要使用到CoordinateLayout这么高端的交互体验；所以本着学习的态度，便用CoordinateLayout模仿了一下知乎首页效果。
 
-[]()
+[LogcatTextView：让你在 App 端实现查看 Logcat 输出信息的 Android 开源控件](https://github.com/munix/LogcatTextView)
 
-![]()
-
-啦啦啦
+![](https://raw.githubusercontent.com/munix/LogcatTextView/master/screenshots/example.png)
 
 ## 课外话题
 
-[]()
+[这项工资标准调整，你和单位都会受到影响！](http://mp.weixin.qq.com/s/5ioSNC08xdZIaT6qmSek2g)
 
-啦啦啦
+今年以来，针对上调最低工资标准和制造业工人工资上涨出现了不少质疑之声。一些企业认为，调高最低工资增加了制造业用工成本，直呼工资涨不起。也有专家担心，最低工资增长过快，可能促使企业通过机器换人来降成本，最终让劳动者失去饭碗。
+
+[微信公众号怎么涨粉？](https://www.zhihu.com/question/22553582)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
