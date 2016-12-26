@@ -1,10 +1,5 @@
-# 第145期：XXXX标题
+# 第145期：一分钟让你拥有微信拖拽透明返回 PhotoView
 
-## 深度讨论
-
-[]()
-
-王子，看你了！
 
 ## Android开发
 
@@ -13,6 +8,9 @@
 本期作者带来的效果是最新版微信朋友圈看图下拖的效果,没见过的赶紧去更新微信啦。
 
 ![](https://dn-mhke0kuv.qbox.me/4eb043e8b590070f3a07.gif)
+
+[SlimChart:一个易用轻量级的时尚 Android 图标开源库](https://www.diycode.cc/projects/mancj/SlimChart)
+![](https://diycode.b0.upaiyun.com/photo/2016/a7945b3ff7a3bd1b0327341e1bb3de9d.gif)
 
 [VirtualAPK: 滴滴 Android 插件化的实践之路](https://mp.weixin.qq.com/s/lJzNaSmvsxsNw5XtZIBsYg)
 
