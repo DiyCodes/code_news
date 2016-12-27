@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第146期：XXXX标题
 
 ## 说出你的故事
 
@@ -11,33 +11,31 @@
 
 ## Android开发
 
-[]()
+[Raspberry Pi 3刷入Android Things](http://www.jianshu.com/p/f525d574fff2)
 
-啦啦啦
+Raspberry Pi 3 B型是世界上最受欢迎的单板电脑的最新版本。 它运行在一颗1.2GHz的四核64位ARM Cortex-A53 CPU上，四个USB 2.0端口，有线和无线网络，HDMI和复合视频输出以及一个40针GPIO连接器，用于物理接口项目。
 
-[]()
+[EventBus 源码研读](http://lfkdsk.github.io/2016/12/22/read-eventbus-source-code/)
 
-啦啦啦
+EventBus 是人们在日常开发中经常会用到的开源库，即使是不直接用的人，也多少借鉴过事件总线的用法。而且EventBus的代码其实是非常简单的，可以试着阅读一下。
 
-[]()
+[一种Android手机上实现屏幕录制成gif的方案](https://mp.weixin.qq.com/s/QNISfegis2DhXWDbgfwCVQ)
 
-啦啦啦
+一直以来，很多做apk演示效果时，通过图片的方式，总是没有看起来那样炫丽和灵动。如果能在手机上，直接通过录制屏幕，而变成gif。那可是省去了好多时间。进而可以做其他的价值的事情。今天分享是一种手机上实现屏幕录制成gif的方案。
 
-[]()
+[Android走进源码告诉你app是如何被启动的](http://www.weyye.me/detail/android-source-activity-oncreate/)
 
-啦啦啦
+一个app的程序是怎么启动的？入口在哪里？是不是一直有这样的疑问？
 
-[]()
+[MaterialSearchBar：一个 Material Design 风格的 Android开源搜索 Bar 控件](https://github.com/mancj/MaterialSearchBar)
 
-![]()
-
-啦啦啦
+![](https://github.com/mancj/MaterialSearchBar/raw/master/art/preview.gif)
 
 ## 课外话题
 
-[]()
+[多个团队的技术方案冲突，怎么决策](http://mp.weixin.qq.com/s/-F1WnE3JcvOMcM1d4Jt0dA)
 
-啦啦啦
+作为一个架构师或技术Leader而言，技术方案的决策是常见的要做的事，毕竟很多时候并不会只有一条路能走到目的地，这个时候到底怎么决策很容易成为一个巨大的纠结点，在涉及多团队合作的情况下，甚至有可能会成为block整件事进展的关键因素，这篇文章就来聊聊这个。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
