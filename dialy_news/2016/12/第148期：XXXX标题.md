@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第148期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[Android多进程使用场景](http://blog.spinytech.com/2016/11/17/android_multiple_process_usage_scenario/)
 
-啦啦啦
+本文主要是聊一聊到底如何利用多进程开发，使我们的应用更稳定、用户体验更好？换言之就是Android开发中多进程开发的使用场景分析。
 
-[]()
+[Android M、N适配踩坑](http://www.chaisong.xyz/2016/11/20/2016-11-20/)
 
-啦啦啦
+好奇心日报开发者进行Android M、N的集中适配，发现很多问题，在此一起进行总结。
 
-[]()
+[Builtin Lint Detectors](https://hujiaweibujidao.github.io/blog/2016/12/01/builtin-lint-detectors-1/)
 
-啦啦啦
+本文主要介绍的是Lint工具中自带的与Android开发相关的lint检查项。
 
-[]()
+[Kotlin 的现状和未来](https://realm.io/cn/news/andrey-breslav-whats-next-for-kotlin-roadmap/)
 
-啦啦啦
+Andrey Breslav，Kotlin 项目负责人，今天他以一个工具开发者和工具生态系统的角度来给我们介绍 Kotlin 的概况。然后他会讲讲未来和他们下个版本的一些信息。
 
-[]()
+[PanoramaImageView：一个可以跟随设备旋转自动滚动的 Android ImageView 开源控件](https://github.com/gjiazhe/PanoramaImageView)
 
-![]()
-
-啦啦啦
+![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/recyclerview_sample.gif)
 
 ## 课外话题
 
-[]()
+[2016 年有哪些快速衰落的公司？有哪些快速崛起的公司？](https://www.zhihu.com/question/53136549)
 
-啦啦啦
+一起回首这一年让人印象深刻的热门事件和人物，聊聊所处行业发生了怎样的变迁，也一同分享自己的变化与成长。
+
+[如何做好技术调研](https://www.diycode.cc/topics/543)
+
+到底怎样做才算是完整且优秀得完成一次技术调研。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
