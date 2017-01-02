@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第149期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android HttpResponseCache原理分析](http://qianzui.github.io/blog/2015-03-29-httpresponsecache-source-code-analysis/)
 
-啦啦啦
+HttpResponseCache 是 Android SDK在4.0开始新增的一个类，使用这个类可以很方便的对HTTP和HTTPS请求实现Cache。
 
-[]()
+[Android ViewStub是如何实现懒加载的](http://yifeiyuan.me/2016/12/27/deep-into-viewstub/)
 
-啦啦啦
+你知道 ViewStub 是怎么实现懒加载的吗？本文通过分析 ViewStub 源码来告诉你答案。
 
-[]()
+[使用 H5 唤起 Android 原生应用](http://ihongqiqu.com/2015/12/03/html-call-native-app/)
 
-啦啦啦
+本文主要介绍一种实现方案：当用户在手机浏览器中点击一个按钮时，如果手机上已经安装该应用，则直接打开，如果没有安装，则转向应用下载页面。
 
-[]()
+[从技术上如何看待小米MIUI8的长截屏，如何优雅实现？](https://www.zhihu.com/question/45989510/answer/138521260)
 
-啦啦啦
+这个功能我垂涎已久了，来看看MIUI工程师介绍他的实现思路。
 
-[]()
+[WindView：一个用来显示风速的 Android 开源动画](https://github.com/AhmadNemati/WindView)
 
-![]()
-
-啦啦啦
+![](https://raw.githubusercontent.com/AhmadNemati/WindView/master/art/screen.gif)
 
 ## 课外话题
 
-[]()
+[为什么程序员应该要尝试写一写博客](http://droidyue.com/blog/2017/01/02/why-every-programmer-should-try-to-write-blogs/)
 
-啦啦啦
+本文将试图探讨，为什么程序员都应该尝试记录自己遇到的问题，经验和心得，以及为什么我们需要以公开的博客的形式来展现。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
