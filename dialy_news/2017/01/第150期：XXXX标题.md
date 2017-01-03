@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第150期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[携程移动端性能优化](http://geek.csdn.net/news/detail/132313)
 
-啦啦啦
+携程移动端性能优化的其他内容，包括 Hybrid 框架优化、网络优化、通信数据格式传输优化、内存优化、启动时间优化、React Native 优化等内容。
 
-[]()
+[Android热补丁之Tinker原理解析](http://w4lle.github.io/2016/12/16/tinker/)
 
-啦啦啦
+在今年的MDCC大会上，微信开发团队宣布正式开源Tinker，在这之前微信团队已经发出过一些Tinker的相关文章，说实话在开源之前我们还是相当期待Tinker开源的，一方面是因为之前使用的热补丁一直存在一些兼容性问题，另一方面也好奇Tinker的实现方案。
 
-[]()
+[App冷启动，你还要我怎样？](http://www.jianshu.com/p/84983a3bdbff)
 
-啦啦啦
+有时候，你在打开一个app的时候会发现，你点击了这个app的图标，打开了之后会出现一段时间的白屏或者图标卡顿了一会再进入app界面，这个时候你就会吐槽了，为什么会那么卡的？难道是我的手机永久了变卡的原因吗？并不是的，这是因为app的冷启动时间过长的原因造成app进入假死状态了，这也是本篇文章所要优化的。
 
-[]()
+[饿了么丝滑无缝过度搜索栏的实现](https://gold.xitu.io/post/586a62ee61ff4b0057876094)
 
-啦啦啦
+![](https://user-gold-cdn.xitu.io/2017/1/2/bd6f277ec335d3626577235e8a008108.gif)
 
-[]()
+[RxFingerPrinter：用 RxJava 简单封装了指纹识别，顺便撸了一个指纹控件](https://github.com/Zweihui/RxFingerPrinter)
 
-![]()
-
-啦啦啦
+![](https://github.com/Zweihui/RxFingerPrinter/raw/master/gif/ScreenShot.gif)
 
 ## 课外话题
 
-[]()
+[内向、不善社交的人如何建立人脉？](https://www.zhihu.com/question/20052781)
 
-啦啦啦
+三成能力，七分人脉，对于一个人的事业成功人是发挥着最重要的作用。可是对于我所问的题目，该怎么办呢？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
