@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第151期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[一个RxJava解决复杂业务逻辑的案例](https://zhuanlan.zhihu.com/p/24717157)
 
-啦啦啦
+本文给大家分享一个使用RxJava解决问题的案例，希望对大家在使用RxJava的时候有一点点启发。
 
-[]()
+[Android Glide源码分析](http://hpw123.coding.me/2016/12/30/Glide%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
-啦啦啦
+良心制作，值得推荐。
 
-[]()
+[Input系统—Android ANR原理分析](http://gityuan.com/2017/01/01/input-anr/)
 
-啦啦啦
+基于Android 6.0源码， 分析Input事件发生ANR的原理。
 
-[]()
+[[英]自定义 View 的设计与实践，并发布至 JCenter ](https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_75#.9py9w5m08)
 
-啦啦啦
+RT。
 
-[]()
+[MusicStreamer：超炫酷的开源音乐播放器](https://github.com/harjot-oberai/MusicStreamer)
 
-![]()
-
-啦啦啦
+![](https://github.com/harjot-oberai/MusicStreamer/raw/master/screenshots/splash.png)
 
 ## 课外话题
 
-[]()
+[一名普通程序员如何转向AI方向？](http://mp.weixin.qq.com/s/ddRBKZVhqjcuIXTkTNQgrg)
 
-啦啦啦
+眼下，人工智能已经成为越来越火的一个方向。普通程序员，如何转向人工智能方向，是知乎上的一个问题。本文是作者对此问题的一个回答的归档版，相比原回答有所内容增加。
+
+[Snipaste - 开发了三年的截图工具，但不只是截图](https://www.v2ex.com/t/295433?p=1)
+
+Windows下一款功能强大的截图工具，so cool!
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
