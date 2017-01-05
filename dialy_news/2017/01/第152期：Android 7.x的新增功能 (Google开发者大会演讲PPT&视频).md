@@ -1,10 +1,4 @@
-# 第152期：XXXX标题
-
-## 深度讨论
-
-[]()
-
-王子，看你了！
+# 第152期：Android 7.x的新增功能 (Google开发者大会演讲PPT&视频)
 
 ## Android开发
 
@@ -13,6 +7,14 @@
 不多吹NB，先上一个原始效果图
 
 ![](https://user-gold-cdn.xitu.io/2017/1/4/b7e25ff00567a18a67f85f1ed826d364)
+
+[这个网站能够在线帮你把 PDF 文件轻松转成 PPT、Exel、JPG、Word 等文件]()
+
+其实很早就发现了这个网站，但是之前一直没有这个需求，今天女票突然让我帮她把PDF文件转成PPT，然后就在App Store 搜索了下，发现很多付费软件基本都是需要50-200块，所以想起了smallpdf 这个网站，然后试了下，发现非常完美把我的PDF文件转成了PPT文件，只是下载的时候比较慢一些，5M下载了大概五分钟。
+
+这个网站PDF 文件转成各类格式玩的非常溜，其他功能大家自己探索
+
+![](https://diycode.b0.upaiyun.com/photo/2017/dbe9b2914c10651f208ff6e81bd6ecbf.png)
 
 [Android SurfaceView 源码分析及使用](http://tech.youzan.com/surfaceview-sourcecode/)
 
