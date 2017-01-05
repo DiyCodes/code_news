@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第152期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[贝塞尔风暴 － 超炫 GABottleLoading 效果](https://www.diycode.cc/topics/552)
 
-啦啦啦
+不多吹NB，先上一个原始效果图
 
-[]()
+![](https://user-gold-cdn.xitu.io/2017/1/4/b7e25ff00567a18a67f85f1ed826d364)
 
-啦啦啦
+[Android SurfaceView 源码分析及使用](http://tech.youzan.com/surfaceview-sourcecode/)
 
-[]()
+SurfaceView 是 Android 中一种比较特殊的视图（View），它跟平时的 TextView、Button 最大的区别是它跟它的视图容器并不是在同一个视图层上，它的 UI 显示也可以不在一个独立的线程中完成，所以对 SurfaceView 的绘制并不会影响到主线程的运行。
 
-啦啦啦
+[【Android】极速get花式Path （支付宝支付成功动画）](http://www.jianshu.com/p/99f956ef0b9f)
 
-[]()
+酷炫Path动画，如此简单。
 
-啦啦啦
+[Android 7.x的新增功能 (Google开发者大会演讲PPT&视频)](https://mp.weixin.qq.com/s/hJRprGm9yUvJmSFqGfFs0Q)
 
-[]()
+配合视频观看效果更好哦！
 
-![]()
+[Android-ExpandIcon：Google 风格的动态箭头效果](https://github.com/zagum/Android-ExpandIcon)
 
-啦啦啦
+![](https://github.com/zagum/Android-ExpandIcon/raw/master/art/expand_icon_demo.gif)
 
 ## 课外话题
 
-[]()
+[自从知道这些网站，写文章配图不再愁了](http://www.jianshu.com/p/517904f09f22)
 
-啦啦啦
+文章整理了高清图片素材的网站，基本都是国外网站。而且他们都是免费的，使用之后不存在图片版权的侵权纠纷问题。
+
+[2016年，你读过的最好的技术书有哪几本？](https://www.zhihu.com/question/54350343)
+
+2016年已经悄然过去，过去的一年里，你都读过了哪些技术好书。没看过的，可以在2017年补补课，学习学习。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
