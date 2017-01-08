@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第153期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[手摸手带你 mock api](https://www.diycode.cc/topics/555)
 
-啦啦啦
+mock api是我们日常开发必不可少的一项工作，业务开发中经常会出现UI做完了，但api还没有好的情况，有的时候甚至要提测了，api还没好，那么产品和测试验收的时候咋办呢？
 
-[]()
+[使用 Android Studio Lint 去除无用、错误、性能不友好的代码](http://blog.csdn.net/u011240877/article/details/54141714)
 
-啦啦啦
+合作者一起精益求精，学习使用 Lint 优化我们的代码。
 
-[]()
+[Android 日常开发总结的技术经验60条](http://www.vmatianyu.cn/summarization-of-technical-experience.html)
 
-啦啦啦
+聚划算大牛的经验总结。
 
-[]()
+[使用Notepad++查看Android设备Log信息](https://zhuanlan.zhihu.com/p/24777096)
 
-啦啦啦
+解决你在IDE下看日志的一些痛苦问题。
 
-[]()
+[Vorolay：助你轻松实现罗诺伊图](https://github.com/Quatja/Vorolay)
 
-![]()
-
-啦啦啦
+![](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_4.png)
 
 ## 课外话题
 
-[]()
+[约会除了吃饭看电影还有其他项目吗？](https://www.zhihu.com/question/25695608)
 
-啦啦啦
+相亲认识的，在谈，可是每次见面除了吃饭看电影还能安排些什么？
+
+[高级产品经理和普通产品经理有哪些区别？](https://www.zhihu.com/question/26923267)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
