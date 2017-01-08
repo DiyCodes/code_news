@@ -1,10 +1,14 @@
-# 第153期：XXXX标题
+# 第153期：聚划算大牛的经验总结：Android 日常开发总结的技术经验60条
 
 ## 深度讨论
 
-[]()
+[程序员谈招聘系列之求内推的正确姿势](https://www.diycode.cc/topics/557)
 
-王子，看你了！
+一个网易的Android开发工程师最近跳槽去纯银大V创业去了，他分享的《程序员谈招聘系列之求内推的正确姿势》分享给大家
+
+[Android 日常开发总结的技术经验60条](http://www.vmatianyu.cn/summarization-of-technical-experience.html)
+
+聚划算大牛的经验总结。
 
 ## Android开发
 
@@ -16,9 +20,7 @@ mock api是我们日常开发必不可少的一项工作，业务开发中经常
 
 合作者一起精益求精，学习使用 Lint 优化我们的代码。
 
-[Android 日常开发总结的技术经验60条](http://www.vmatianyu.cn/summarization-of-technical-experience.html)
 
-聚划算大牛的经验总结。
 
 [使用Notepad++查看Android设备Log信息](https://zhuanlan.zhihu.com/p/24777096)
 
