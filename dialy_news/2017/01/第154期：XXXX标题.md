@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第154期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[仿饿了么加入购物车旋转控件 - 自带闪转腾挪动画的按钮](https://www.diycode.cc/topics/560)
 
-啦啦啦
+![](https://dn-mhke0kuv.qbox.me/39ec6aacb1b9e8f97ad9.gif)
 
-[]()
+利用纯自定义View，实现的仿饿了么加入购物车控件，自带闪转腾挪动画的按钮。
 
-啦啦啦
+[Android RecyclerView 必知必会](http://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
 
-[]()
+来自腾讯工程师的经验总结。
 
-啦啦啦
+[沪江学习Android端应用架构重构](http://ohmerhe.com/2016/12/24/hjstudy_android_refactor/)
 
-[]()
+将重构融合在每次迭代中，逐步优化代码的结构。
 
-啦啦啦
+[Android应用市场省流量更新(增量升级)原理解析](http://mp.weixin.qq.com/s/IBLPZvjhAMjYqlmYop3gYg)
 
-[]()
+RT。
 
-![]()
+[android-animated-menu-items：让你的菜单图标动起来](https://github.com/adonixis/android-animated-menu-items)
 
-啦啦啦
+![](https://cloud.githubusercontent.com/assets/1766863/21596845/e0f10674-d162-11e6-9a6e-21614e66dff4.gif)
 
 ## 课外话题
 
-[]()
+[如何理解张小龙说的「好的产品是用完即走」？](https://www.zhihu.com/question/39377177)
 
-啦啦啦
+「好的产品是用完即走」，还有后半句「下次会回来」。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
