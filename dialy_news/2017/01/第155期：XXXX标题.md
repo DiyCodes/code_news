@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第155期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[美团热更新方案 ASM 实践](http://geek.csdn.net/news/detail/133086)
 
-啦啦啦
+从《Android热更新方案 Robust》一文可知，美团热更新使用的是 Instant Run 的方案，本文将着重于分享美团热更新方案中没讲到的部分。
 
-[]()
+[探索 Android 系统启动 - 当我们按下电源键，Android 究竟做了些什么？](http://www.jianshu.com/p/89c9f3995c1c)
 
-啦啦啦
+Android 系统启动流程的一次整体梳理。
 
-[]()
+[使用RecyclerView优雅实现悬浮标题通讯录](http://www.jianshu.com/p/52bce7f59c00)
 
-啦啦啦
+文章很详细的描述了自己的实现思路。
 
-[]()
+[Android ExifInterface 支持库简介](http://developers.googleblog.cn/2017/01/exifinterface.html)
 
-啦啦啦
+文章介绍了 Android 7.1 引入了对框架 ExifInterface 的重大改进。
 
-[]()
+[InstagramLikeColorTransition：像Instagram一样的颜色渐变效果](https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid)
 
-![]()
-
-啦啦啦
+![](https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid/raw/master/images/screenshot.gif?raw=true)
 
 ## 课外话题
 
-[]()
+[微信小程序和网页版程序的区别在哪里？](https://www.zhihu.com/question/54148303)
 
-啦啦啦
+你觉得呢？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
