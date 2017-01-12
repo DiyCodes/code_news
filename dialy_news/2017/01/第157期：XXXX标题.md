@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第157期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[如何拯救「大泥球」架构？人人车Android客户端架构演进实录](http://mp.weixin.qq.com/s/TPvL_Guo235xJNn-blVOlg)
 
-啦啦啦
+当快速迭代的架构不足以支撑长期的持续性开发时，系统重构迫在眉睫。但对于大中型项目来说，事情并不是一句「重构」就能解决的。从何时何地开始做，怎么做，都需要好好考量。这是人人车的Android客户端架构演进实录，坑和经验，仅供参考。
 
-[]()
+[一种视频预加载的方案](http://mp.weixin.qq.com/s/upYoLy1HUdeB6XM3WG2I6w)
 
-啦啦啦
+视频的预加载是提高用户体验的重要因素，预加载成为网络视频播放不可或缺的一个技术环节。
 
-[]()
+[你为什么需要 Kotlin](http://mp.weixin.qq.com/s/xAFKGarHhfQ3nKUwPDlWwQ)
 
-啦啦啦
+Github 的 Trending 榜都开始有 Kotlin 这一项了。
 
-[]()
+[你不知道的Retrofit缓存库RxCache](http://www.jianshu.com/p/b58ef6b0624b)
 
-啦啦啦
+RT。
 
-[]()
+[ShimmerRecyclerView：类Facebook的加载过渡效果](https://github.com/sharish/ShimmerRecyclerView)
 
-![]()
-
-啦啦啦
+![](https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/list_demo.gif)
 
 ## 课外话题
 
-[]()
+[2017UI流行趋势 | 色彩篇](http://mp.weixin.qq.com/s/7u4QAasvw6sEzxPSuVOosQ)
 
-啦啦啦
+设计风向标的更新周期越来越短，基本每一年都会有新的设计理念推出，每隔十个月就会有一些视觉技巧在挑战现在的主流设计理念。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
