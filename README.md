@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第157期：如何调试 Android Native Framework](dialy_news/2017/01/第157期：如何调试 Android Native Framework.md) 	|
 |[第156期：对微信小程序的几点看法，微信小程序将侵蚀掉一半的应用商店和原生App构建的生态](dialy_news/2017/01/第156期：对微信小程序的几点看法，微信小程序将侵蚀掉一半的应用商店和原生App构建的生态.md) 	|
 |[第155期：一个工程师在Amazon两年的感悟](dialy_news/2017/01/第155期：一个工程师在Amazon两年的感悟.md) 	|
 |[第154期：沪江学习Android端应用架构重构](dialy_news/2017/01/第154期：沪江学习Android端应用架构重构.md) 	|
