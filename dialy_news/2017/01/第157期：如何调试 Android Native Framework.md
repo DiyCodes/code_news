@@ -1,10 +1,11 @@
-# 第157期：XXXX标题
+# 第157期：如何调试 Android Native Framework
 
 ## 深度讨论
 
-[]()
+[如何调试 Android Native Framework](https://www.diycode.cc/topics/564)
 
-王子，看你了！
+Android Studio 2.2版本带来了全新的对Android Native代码的开发以及调试支持，另外LLDB的Android调试插件也日渐成熟，作者说终于可以把这篇文章继续下去了！本文将带来Android Framework中native代码的调试方法。
+
 
 ## Android开发
 
