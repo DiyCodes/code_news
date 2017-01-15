@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第158期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[新一代开源Android渠道包生成工具Walle]()
 
-啦啦啦
+美团Android开发团队在Android 7.0（Nougat）推出了新的应用签名方案APK Signature Scheme v2后改进的打包方案。
 
-[]()
+[使用RxJava帮助低功耗蓝牙(BLE)进行通信](https://gold.xitu.io/post/583a9cfac59e0d006b3b597d)
 
-啦啦啦
+如果你看了官方文档上的低功耗蓝牙示例，你会发现使用了Handler、和广播进行异步通信，现在有了RxJava，我们可以写的更优(zhaung)雅(bi)些。
 
-[]()
+[无侵入式工具-SmartTool](https://gold.xitu.io/post/587885e11b69e6006bd901e7)
 
-啦啦啦
+开发过程中，通过日志，AS等工具查看网络，异常等信息总是感觉不太方便，于是萌发了开发个更好用的工具的想法。要能简单接入，要调试信息能清晰的可视化展示，要交互容易，要页面美观.....于是开始了整理需求，切图，编码......
 
-[]()
+[WindowManagerService启动篇](http://gityuan.com/2017/01/08/windowmanger/)
 
-啦啦啦
+从源码的角度带你理解一切。
 
-[]()
+[hover：开源的悬浮菜单控件](https://github.com/google/hover)
 
-![]()
+![](https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenrecords/hover-demo-screenrecord.gif)
 
-啦啦啦
+Google 开源的哦！
 
 ## 课外话题
 
-[]()
+[微信红包的随机算法是怎样实现的？](https://www.zhihu.com/question/22625187)
 
-啦啦啦
+RT。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
