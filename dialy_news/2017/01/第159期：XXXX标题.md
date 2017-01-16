@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第159期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android 多点触控详解](https://www.diycode.cc/topics/567)
 
-啦啦啦
+本文由一位Android老司机带大家了解多点触控相关的一些知识。
 
-[]()
+[关于 Android 应用多进程的整理](http://droidyue.com/blog/2017/01/15/android-multiple-processes-summary/)
 
-啦啦啦
+本文是对于Android中应用多进程做一些整理总结。
 
-[]()
+[你不知道一些神奇Android API](http://www.jianshu.com/p/4d21341f94ee)
 
-啦啦啦
+我们将从不同角度展示一些鲜为人知的Android API。
 
-[]()
+[Android 5.0(Lollipop)中的SurfaceTexture，TextureView, SurfaceView和GLSurfaceView](http://blog.csdn.net/jinzhuojun/article/details/44062175)
 
-啦啦啦
+SurfaceView, GLSurfaceView, SurfaceTexture以及TextureView是Android当中名字比较绕，关系又比较密切的几个类。本文基于Android 5.0(Lollipop)的代码理一下它们的基本原理，联系与区别。
 
-[]()
+[walle：Android Signature V2 Scheme签名下的新一代渠道包打包神器](https://github.com/Meituan-Dianping/walle)
 
-![]()
-
-啦啦啦
+美团出品。
 
 ## 课外话题
 
-[]()
+[大家来说说2017年房价会不会跌？](https://www.zhihu.com/question/54346645)
 
-啦啦啦
+来围观下2017的房价走势。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
