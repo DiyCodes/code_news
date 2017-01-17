@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第160期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[《云阅》一个仿网易云音乐 UI，使用 Gank.Io 及豆瓣 Api 开发的开源项目](https://www.diycode.cc/topics/570)
 
-啦啦啦
+一款基于网易云音乐UI，使用GankIo及豆瓣api开发的符合Google Material Desgin阅读类的开源项目。项目采取的是Retrofit + RxJava + MVVM-DataBinding架构开发。
 
-[]()
+[看AspectJ在Android中的强势插入](http://www.jianshu.com/p/5c9f1e8894ec)
 
-啦啦啦
+AOP这种编程思想有什么用呢，一般来说，主要用于不想侵入原有代码的场景中，例如SDK需要无侵入的在宿主中插入一些代码，做日志埋点、性能监控、动态权限控制、甚至是代码调试等等。
 
-[]()
+[如何保障Android应用安全](http://www.jianshu.com/p/bcf11bf96c1f)
 
-啦啦啦
+在Android中安全是你无法保证的事情。作为一个开发者，你无法知道你的应用是否足够安全。每一个系统都会被破解但是你可以让攻击者的日子更加难熬。
 
-[]()
+[高仿音悦台播放页面交互效果](http://www.jianshu.com/p/3cec604c6609)
 
-啦啦啦
+新版的音悦台 APP 播放页面交互非常有意思，可以把播放器往下拖动，这个页面透明渐变，然后到底部可以左右拖动关闭播放器，然后点击视频列表有个页面弹出来的效果，十分炫酷，于是我自己动手实现了这个交互炫酷的播放器页面。
 
-[]()
+[GoogleMapsAnimations：实现Google地图的动画效果](https://github.com/aarsy/GoogleMapsAnimations)
 
-![]()
+![](https://github.com/aarsy/GoogleMapsAnimations/raw/master/gifs/Sample1.gif)
 
-啦啦啦
+![](https://github.com/aarsy/GoogleMapsAnimations/raw/master/gifs/Sample4.gif)
 
 ## 课外话题
 
-[]()
+[竞品分析怎么做？4要素+6大核心方法论教你迅速掌握竞品分析精髓](http://mp.weixin.qq.com/s/SqXMpn4-jV3QyHSlQxLA0g)
 
-啦啦啦
+怎么写出一份优秀的竞品分析报告？馒头君整理了一份最全教程，请细细品味。
+
+[如何用迅雷或QQ旋风下载百度云上的资源？](https://www.zhihu.com/question/22085759)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
