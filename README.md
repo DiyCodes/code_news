@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第160期：Diycode 原创技术文章奖励计划，目前已经赞赏21个文章，累计2200元](dialy_news/2017/01/第160期：Diycode 原创技术文章奖励计划，目前已经赞赏21个文章，累计2200元.md) 	|
 |[第159期：作为一个技术人，读研真的没有必要吗？](dialy_news/2017/01/第159期：作为一个技术人，读研真的没有必要吗？.md) 	|
 |[第158期：新一代开源Android渠道包生成工具Walle](dialy_news/2017/01/第158期：新一代开源Android渠道包生成工具Walle.md) 	|
 |[第157期：如何调试 Android Native Framework](dialy_news/2017/01/第157期：如何调试 Android Native Framework.md) 	|
