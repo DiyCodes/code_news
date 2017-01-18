@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第161期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,29 @@
 
 ## Android开发
 
-[]()
+[优秀的（Android）软件工程师是如何练成的](http://mp.weixin.qq.com/s/NWM-OKuKCyHTlXc32h39uA)
 
-啦啦啦
+很多人总觉得移动端开发非常简单，他们认为移动应用只不过是把从 server 获取回来的数据展示在不同的前端页面而已。真的吗？我认为远远不是。
 
-[]()
+[Https&Http2.0&HttpDNS 的那些事](http://fucknmb.com/2017/01/17/Https&Http2.0&HttpDNS%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 
-啦啦啦
+文章所讨论的内容全部基于OkHttp此开源库，版本号为3.2.0。
 
-[]()
+[探索 Android 日期滚轮控件的源码](http://www.jianshu.com/p/236c5a7ee18c)
 
-啦啦啦
+在较高版本的Android SDK中, 已经修改默认的日期选择控件, 由滚轮样式变为日历样式. 对于出生日期的选择, 为了美观, 也为了便捷, 滚轮控件更有优势, 因此需要编写自定义的时间滚轮控件。
 
-[]()
+[国内值得关注的官方API集合](http://www.jianshu.com/p/ecf037476603)
 
-啦啦啦
+RT。
 
-[]()
+[HorizontalCalendar：基于 RecyclerView 实现的日历控件](https://github.com/Mulham-Raee/HorizontalCalendar)
 
-![]()
-
-啦啦啦
+![](https://github.com/Mulham-Raee/HorizontalCalendar/raw/master/art/demo.gif)
 
 ## 课外话题
 
-[]()
-
-啦啦啦
+[微信小程序上线一周了，市场反应如何？](https://www.zhihu.com/question/54884655)
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
