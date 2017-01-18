@@ -1,14 +1,8 @@
-# 第161期：XXXX标题
-
-## 深度讨论
-
-[]()
-
-王子，看你了！
+# 第161期：优秀的（Android）软件工程师是如何练成的
 
 ## Android开发
 
-[优秀的（Android）软件工程师是如何练成的](http://mp.weixin.qq.com/s/NWM-OKuKCyHTlXc32h39uA)
+[优秀的（Android）软件工程师是如何练成的](https://www.diycode.cc/news/1916)
 
 很多人总觉得移动端开发非常简单，他们认为移动应用只不过是把从 server 获取回来的数据展示在不同的前端页面而已。真的吗？我认为远远不是。
 
