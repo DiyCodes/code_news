@@ -1,10 +1,9 @@
-# 第162期：XXXX标题
+# 第162期：Android硬件加速原理与实现简介
 
-## 深度讨论
+## 分享发现
+[UsePanda：一个非常 nice 的内容聚合网站，整合了几乎所有设计师和极客喜爱的网站](https://www.diycode.cc/topics/576)
 
-[]()
-
-王子，看你了！
+除了网站之外还提供了chrome 浏览器插件，App供用户使用，截图和功能就暂时不介绍了，Web 站和 chrome 浏览器插件都非常好用，iOS 端的App 很一般哈。
 
 ## Android开发
 
