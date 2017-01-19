@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第162期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android硬件加速原理与实现简介](http://mp.weixin.qq.com/s/MQpyO0JNWjmdBn2uAAHUgA)
 
-啦啦啦
+本文尝试从底层硬件原理，一直到上层代码实现，对硬件加速技术进行简单介绍，其中上层实现基于Android 6.0。
 
-[]()
+[探索View动画和属性动画](http://www.jianshu.com/p/37ccbf95e24c)
 
-啦啦啦
+RT。
 
-[]()
+[给 Android 程序员的 Terminal 指南](http://mp.weixin.qq.com/s/ZohTG93TAPssPtahvUOPRA)
 
-啦啦啦
+这篇文章来自 César Ferreira ，Medium 上的 Android 大牛，GitHub 上 dryrun （2.3k star） 的作者，文中介绍了他在使用 Terminal 上的一些心得。
 
-[]()
+[Android复杂列表的实现](http://www.jianshu.com/p/cf541b4d6476)
 
-啦啦啦
+RecyclerView控件从2014发布以来，目前已经普遍用于项目中，来承载各种列表内容。同时，列表样式也随着项目变的越来越复杂，从简单统一的列表，变化成头部、脚部、不同类型的Item互相组合。本文将通过一些开源库来学习一下如何实现各种复杂类型的列表，分析了viewType应该如何与视图、数据相绑定，并将业务逻辑单独分离。
 
-[]()
+[AndroidHttpCapture：一款开源的Android手机抓包软件](https://github.com/JZ-Darkal/AndroidHttpCapture)
 
-![]()
-
-啦啦啦
+RT。
 
 ## 课外话题
 
-[]()
+[员工学到东西就想走怎么办？](https://www.zhihu.com/question/35596089)
 
-啦啦啦
+创业小公司，员工学到东西就想走怎么办？是新毕业的大学生。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
