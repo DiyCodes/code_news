@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第163期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android 应用瘦身，从 18MB 到 12.5MB](https://www.diycode.cc/topics/586)
 
-啦啦啦
+提高下载转化率，从应用瘦身做起。
 
-[]()
+[花式实现图片3D翻转效果](http://www.jianshu.com/p/e070fa69eb1d)
 
-啦啦啦
+在闲逛时，看到有一个很炫的3D翻转切换图片的效果，于是作者自己也做了一个自定义View。
 
-[]()
+[Android NDK层发起HTTP请求的问题及解决](http://mp.weixin.qq.com/s/O2APsNzYqjPGAp9sDo-MyA)
 
-啦啦啦
+事件的起因不说了，总之是需要实现一个 NDK 层的网络请求。
 
-[]()
+[这个项目碉堡了](https://gold.xitu.io/post/58948f1b0ce4630056f3a629)
 
-啦啦啦
+Airbnb 开源了一个项目叫做 Lottie ，方便开发和设计的童鞋轻松实现复杂的动画效果，Android、iOS、React Native 都有哦。
 
-[]()
+[Android API 指南](http://mp.weixin.qq.com/s/g2yydh-ffMMnij25_YuFig)
 
-![]()
-
-啦啦啦
+众所周知，Android开发者有中文网站了，API 指南一眼看去最左侧的菜单都是中文，然而点进去内容还是很多是英文，并没有全部翻译，我这里整理了API 指南的目录，便于查看，如果之前还没有通读，现在可以好好看一遍。
 
 ## 课外话题
 
-[]()
+[在人生重大选择中，最应该考虑的是什么？](https://www.zhihu.com/question/55195858)
 
-啦啦啦
+人们都说人的一生有几个关键点，这些关键点可以改变人的命运，决定人的一生，在可以做出多项选择时如何抉择至关重要，就像象棋中判断那个是将哪个是车很明显，怎样选择出人生中的“将”？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
