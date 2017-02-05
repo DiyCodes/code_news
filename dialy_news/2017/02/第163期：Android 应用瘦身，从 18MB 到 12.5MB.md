@@ -1,16 +1,18 @@
-# 第163期：XXXX标题
+# 第163期：Android 应用瘦身，从 18MB 到 12.5MB
 
-## 深度讨论
-
-[]()
-
-王子，看你了！
-
-## Android开发
+## 头条推荐
 
 [Android 应用瘦身，从 18MB 到 12.5MB](https://www.diycode.cc/topics/586)
 
 提高下载转化率，从应用瘦身做起。
+
+[Google开源宣布 Chrome 浏览器 iOS 版开源](https://www.diycode.cc/news/1928)
+
+谷歌 2 月 1 日宣布，iOS 版 Chrome 浏览器的代码将并归于 Chromium 项目，并可以通过谷歌开源网站下载。此前，iOS 版 Chrome 浏览器与 Chromium 项目相互分离，因为 iOS 平台需要 Chrome 浏览器包含更多复杂的内容，比如 iOS 平台的浏览器必须基于 WebKit 渲染引擎打造.
+
+## Android开发
+
+
 
 [花式实现图片3D翻转效果](http://www.jianshu.com/p/e070fa69eb1d)
 
@@ -20,7 +22,7 @@
 
 事件的起因不说了，总之是需要实现一个 NDK 层的网络请求。
 
-[这个项目碉堡了](https://gold.xitu.io/post/58948f1b0ce4630056f3a629)
+[Airbnb 开源的一款能够为原生应用添加动画效果库，Lottie 目前提供了 iOS, Android, 和 React Native 版本，能够实时渲染 After Effects 动画特效](https://www.diycode.cc/projects/airbnb/lottie-android)
 
 Airbnb 开源了一个项目叫做 Lottie ，方便开发和设计的童鞋轻松实现复杂的动画效果，Android、iOS、React Native 都有哦。
 
