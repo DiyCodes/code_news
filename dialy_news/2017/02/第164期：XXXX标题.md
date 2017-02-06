@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第164期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
 
-啦啦啦
+我们往往忽略对资源文件的保护，本文主要分享的是如何采用常规方式对APK中的资源文件进行保护。
 
-[]()
+[Apk脱壳圣战之---如何脱掉"梆梆加固"的保护壳](http://mp.weixin.qq.com/s/vjEi8Yh0A5flK4tH0iQzhg)
 
-啦啦啦
+老司机带你逆向流氓应用。
 
-[]()
+[在onLayout中实现简单的微动效](http://www.jianshu.com/p/93463ab36df9)
 
-啦啦啦
+在UI设计中，微动效是一个挺流行的说法，恰当的使用会给APP赋予灵动的生命感。微动效可以是酷炫的动画，也可以只是很简单的过渡，比如下面的两个图。
 
-[]()
+![](http://upload-images.jianshu.io/upload_images/2270777-9c2227c84a90879e?imageMogr2/auto-orient/strip)
 
-啦啦啦
+[Android 性能测试之 Monkey](https://testerhome.com/topics/7266)
 
-[]()
+简单说一下monkey的实现原理。
 
-![]()
+[Android-Snowfall：轻松实现下雪效果](https://github.com/JetradarMobile/android-snowfall)
 
-啦啦啦
+![](https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif)
 
 ## 课外话题
 
-[]()
+[有哪些特殊的搜索引擎？](https://www.zhihu.com/question/20251786)
 
-啦啦啦
+大家知道哪些小众但是很好用的搜索引擎？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
