@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第165期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[手把手教你当微信运动第一名 – 利用Android Hook进行微信运动作弊](http://bobao.360.cn/learning/detail/641.html)
 
-啦啦啦
+Hook大法好，微信随便搞。（会不会被微信请去喝茶？）
 
-[]()
+[Android新特性介绍，ConstraintLayout完全解析](http://blog.csdn.net/guolin_blog/article/details/53122387)
 
-啦啦啦
+本篇文章的主题是ConstraintLayout。其实ConstraintLayout是Android Studio 2.2中主要的新增功能之一，也是Google在去年的I/O大会上重点宣传的一个功能。
 
-[]()
+[业余时间写了一个第三方微博（不使用官方SDK）](http://www.jianshu.com/p/43aac6daca85)
 
-啦啦啦
+RT。
 
-[]()
+[Android shrinkResources true 引发的血案](http://blog.csdn.net/u010350809/article/details/48693861)
 
-啦啦啦
+一个使用 shrinkResources true 需要注意的细节。
 
-[]()
+[Wiggle：实现滚动缓冲效果的开源控件](https://github.com/kubode/Wiggle)
 
-![]()
-
-啦啦啦
+![](https://github.com/kubode/Wiggle/raw/master/img/image.gif)
 
 ## 课外话题
 
-[]()
+[关于App程序员泡沫](http://blog.csdn.net/itachi85/article/details/50364043)
 
-啦啦啦
+网上最近流传的程序员泡沫,尤其是APP程序员泡沫的文章导致很多我们的年轻的同行产生了疑惑,所以我这个隐藏了很久的能言善辩的老程序员出山来聊一聊这个APP程序员泡沫的话题。 
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
