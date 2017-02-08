@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第166期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[深入理解 Java 虚拟机总结](https://www.diycode.cc/topics/597)
 
-啦啦啦
+作者的学习分享。
 
-[]()
+[Instagram 的 React Native 之路](http://mp.weixin.qq.com/s/4iZC7WLC5hnUusyHeHNRrg)
 
-啦啦啦
+很多人在争论 React Native 的应用前景，如果 6 亿月活的 Instagram 顺利引入了 RN，大家会怎么想呢？
 
-[]()
+[关于Android应用的耗电量的统计分析](https://hujiaweibujidao.github.io/blog/2017/01/24/how-to-know-your-applications-battery-stats/)
 
-啦啦啦
+非常干货的Android平台的耗电量统计总结。
 
-[]()
+[Android隐式启动Activity可能存在的坑](http://blog.csdn.net/qq_32059827/article/details/53819775)
 
-啦啦啦
+有些人可能会说了，隐式启动活动不是很简单吗？这有什么不理解的？话先别说的这么早，对于隐式启动，还是具有很大的坑要爬的。
 
-[]()
+[一个可以提高开发效率的 Git 命令-- Cherry-Pick](https://www.diycode.cc/topics/596)
 
-![]()
+一个 Git 常用实用的命令，不知道的童鞋赶紧来学习一下。
 
-啦啦啦
+[PreviewSeekBar：像 Google Play Movies 那样支持视频预览的 SeekBar 控件](https://github.com/rubensousa/PreviewSeekBar)
+
+![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/sample.gif)
 
 ## 课外话题
 
-[]()
+[融资后，创业者该如何处理和投资人的关系？](https://www.zhihu.com/question/55309842)
 
-啦啦啦
+创业的童鞋需要关注下。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
