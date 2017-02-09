@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第167期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[分享一个自己的开源项目-Piebald](https://www.diycode.cc/topics/601)
 
-啦啦啦
+这是一个图片分享应用，图片数据来自加拿大一个免费的图片网站Unsplash.com，上面的图片都是世界各地摄影师的实拍。 
 
-[]()
+[Android 6.0 SSL 通信](http://www.jianshu.com/p/fefeb1b310f1)
 
-啦啦啦
+关于 Android 6.0 使用 SSL 通信一点记录。
 
-[]()
+[人人车Android客户端架构演进实录](https://mp.weixin.qq.com/s/lqkqNv7BW2F7dPKOTzlxQw)
 
-啦啦啦
+人人车App随着公司在业务和规模上的飙升，持续集成业务需求的同时，架构也不断的重构演化，从模块化，分层化，到框架化，服务化，对Android客户端架构设计和改进有一定的参考意义。
 
-[]()
+[安卓逆向系列教程之 Dalvik 指令集](http://blog.csdn.net/wizardforcel/article/details/54730253)
 
-啦啦啦
+了解 Android 逆向，必备 Dalvik 指令集。
 
-[]()
+## 酷工作
 
-![]()
+[跟雷军一起干，小米 Android 开发工程师、前端开发工程师、深度学习，自然语言处理，机器学习，数据挖掘岗位大内推](https://www.diycode.cc/topics/600)
 
-啦啦啦
-
+小米内推！
+ 
 ## 课外话题
 
-[]()
+[发现正在偷我东西的小偷，该怎么办？](https://www.zhihu.com/question/27857599)
 
-啦啦啦
+希望大家永远不要遇上小偷，预祝周末愉快！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
