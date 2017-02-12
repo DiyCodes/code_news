@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第168期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[2016 腾讯软件开发面试题（不定项选择题），我仿佛回到大学时代，好多都不会](http://mp.weixin.qq.com/s/pI9S-qLpooYavrvC96YbdA)
 
-啦啦啦
+找工作的童鞋们，来查漏补缺了。
 
-[]()
+[Gradle 在开发过程中的一些运用](https://www.diycode.cc/topics/602)
 
-啦啦啦
+用好 Gradle ，提高生产效率。
 
-[]()
+[Android系统启动：init进程与init语言](http://qiangbo.space/2017-01-28/AndroidAnatomy_Init/)
 
-啦啦啦
+学习一下Android系统是如何启动的。
 
-[]()
+[一个快速分析android app使用了哪些sdk的工具](http://www.jianshu.com/p/3220d987e589)
 
-啦啦啦
+解决问题的一种不错思路。
 
-[]()
+[elm-react-native：用 React Native 高仿实现饿了么](https://github.com/stoneWeb/elm-react-native)
 
-![]()
+![](https://github.com/stoneWeb/elm-react-native/raw/master/screenshots/home-scroll.gif)
 
-啦啦啦
+这个项目相当nice！强烈推荐哦！
 
 ## 课外话题
 
-[]()
+[有什么鲜为人知的物理知识？](https://www.zhihu.com/question/55426598)
 
-啦啦啦
+科普一下，have a nice day。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
