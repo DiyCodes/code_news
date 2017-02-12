@@ -4,6 +4,8 @@
 
 [跟雷军一起干，小米 Android 开发工程师、前端开发工程师、深度学习，自然语言处理，机器学习，数据挖掘岗位大内推](https://www.diycode.cc/topics/600)
 
+小米内推！
+
 ## Android开发
 
 [分享一个自己的开源项目-Piebald](https://www.diycode.cc/topics/601)
@@ -21,10 +23,6 @@
 [安卓逆向系列教程之 Dalvik 指令集](http://blog.csdn.net/wizardforcel/article/details/54730253)
 
 了解 Android 逆向，必备 Dalvik 指令集。
-
-
-
-小米内推！
  
 ## 课外话题
 
