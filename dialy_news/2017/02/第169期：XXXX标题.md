@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第169期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
-啦啦啦
+关于模块化(组件化)这个问题，我想每个开发者可能都认真的思考过。随着项目的开发，业务不断壮大，业务模块越来越多，各个模块间相互引用，耦合越来越严重，同时有些项目（比如我们公司）还伴随着子应用单独包装推广，影子应用单独发布等等需求，重新调整架构迫在眉睫。今天，我们就来聊聊模块化(组件化)，这篇文章同时也是我这几年，对项目架构的理解。
 
-[]()
+[弱网测试方法整理](https://testerhome.com/topics/7384)
 
-啦啦啦
+作者和几个同事讨论弱网测试方法，发现并不是很多人在没有公司专门开发的弱网工具的前提下，知道如何去进行弱网的模拟测试，于是就整理了以下几种测试方法，供大家参考！
 
-[]()
+[归纳AOP在Android开发中的几种常见用法](http://www.jianshu.com/p/2779e3bb1f14)
 
-啦啦啦
+在软件行业中，AOP为Aspect Oriented Programming的缩写，意为：面向切面编程，通过预编译方式和运行期动态代理实现程序功能的统一维护的一种技术。
 
-[]()
+[BadgeView：一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView](https://github.com/qstumn/BadgeView)
 
-啦啦啦
+![](https://github.com/qstumn/BadgeView/raw/master/demo_gif.gif)
 
-[]()
+[MakeGithubGreatAgain：让你的Github标题栏回到过去](https://github.com/DennisSnijder/MakeGithubGreatAgain)
 
-![]()
+![](https://github.com/DennisSnijder/MakeGithubGreatAgain/raw/master/assets/example.gif)
 
-啦啦啦
+你是否关注到了最近 Github 标题栏变成黑色的了？
 
 ## 课外话题
 
-[]()
+[如何在移动应用中有效地收集用户反馈？](http://mp.weixin.qq.com/s/01DnOCXrLs05qjFUNrI0Pw)
 
-啦啦啦
+本文从用户体验、开发、运维、成本等多维度分析了移动应用中多种主流的反馈形式，并深入分析了每种反馈形式的适用场景，目的是帮助移动应用开发团队更加合理的使用反馈机制、改进产品。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
