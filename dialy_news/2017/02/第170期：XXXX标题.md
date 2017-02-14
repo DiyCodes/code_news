@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第170期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,29 @@
 
 ## Android开发
 
-[]()
+[如何从技术上全面分析一款android app?](https://www.zhihu.com/question/39717451)
 
-啦啦啦
+假如手上有一款apk，没有源码也没有文档，如何借助各种工具，尽可能还原其中的技术，全面分析可能存在的漏洞和性能问题并提出建议。
 
-[]()
+[深入剖析 Android中的 ArrayMap](http://droidyue.com/blog/2017/02/12/dive-into-arraymap-in-android/index.html)
 
-啦啦啦
+在 Android 开发中，我们会实用到ArrayList, LinkedList, HashMap等。其中HashMap是用来处理键值对需求的常用集合。 而Android中引入了一个新的集合，叫做ArrayMap，为键值对存储需求增加了一种选择。
 
-[]()
+[如何独立开发一个网络请求框架](http://www.cnblogs.com/linguanh/p/5767835.html)
 
-啦啦啦
+作为一个合格的Android开发者，除了知道怎么用 API 外，最好你还能了解如何打造一个框架出来。
 
-[]()
+[ListenerMusicPlayer：一款优雅的遵循 Material Design 的开源音乐播放器](https://github.com/hefuyicoder/ListenerMusicPlayer)
 
-啦啦啦
+![](https://github.com/hefuyicoder/ListenerMusicPlayer/raw/master/materials/screenshot.png)
 
-[]()
-
-![]()
-
-啦啦啦
+UI参考 腾讯轻听 音乐播放器,使用 Lastfm Api 与 酷狗歌词Api。项目架构采用 mvp-clean，基于 Retrofit2 + Dagger2 + Rxjava + RxBus + Glide。
 
 ## 课外话题
 
-[]()
+[看了30多本营销相关的书，向你推荐这6本](https://zhuanlan.zhihu.com/p/25222842)
 
-啦啦啦
+市面上的营销书籍很少能有让人眼前一亮的，挑挑拣拣最后找出来6本不错的，推荐给大家。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
