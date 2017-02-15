@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第171期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[Android 教你一步步搭建MVP+Retrofit+RxJava网络请求框架](http://www.jianshu.com/p/7b839b7c5884)
 
-啦啦啦
+之前公司的项目用到了MVP+Retrofit+RxJava的框架进行网络请求，所以今天特此写一篇文章以做总结。
 
-[]()
+[Android DEX 文件混淆加密](http://gnaixx.cc/2017/02/06/20170206hidex-hack/)
 
-啦啦啦
+除了混淆可以保护你的代码外，还有更高端的Dex加密。
 
-[]()
+[Android Notification 详解](http://reezy.me/2016/12/28/android-notification)
 
-啦啦啦
+RT。
 
-[]()
+[Android 热修复 Tinker 接入及源码浅析](http://mp.weixin.qq.com/s/WHYA4aTWIHcd8CQ95StwDg)
 
-啦啦啦
+RT。
 
-[]()
+[StyleableToast：Toast也能玩出花](https://github.com/Muddz/StyleableToast)
 
-![]()
+![](https://github.com/Muddz/StyleableToast/raw/master/showcase.png)
 
-啦啦啦
+![](https://camo.githubusercontent.com/a7edeb11d67c6192d90506df396258597ca84951/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f686f7136366e614a516b4543492f67697068792e676966)
 
 ## 课外话题
 
-[]()
+[有哪些「智商税」？](https://www.zhihu.com/question/38711687)
 
-啦啦啦
+智商税，就是利用他人智商不高（也可以解释为蠢）而定向征收的费用。比如孕妇防辐射服就能算一个。你们还知道哪些？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
