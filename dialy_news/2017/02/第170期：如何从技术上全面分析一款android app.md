@@ -1,12 +1,6 @@
-# 第170期：XXXX标题
+# 第170期：如何从技术上全面分析一款android app
 
 ## 深度讨论
-
-[]()
-
-王子，看你了！
-
-## Android开发
 
 [如何从技术上全面分析一款android app?](https://www.zhihu.com/question/39717451)
 
@@ -20,7 +14,7 @@
 
 作为一个合格的Android开发者，除了知道怎么用 API 外，最好你还能了解如何打造一个框架出来。
 
-[ListenerMusicPlayer：一款优雅的遵循 Material Design 的开源音乐播放器](https://github.com/hefuyicoder/ListenerMusicPlayer)
+[ListenerMusicPlayer：一款优雅的遵循 Material Design 的开源音乐播放器](https://www.diycode.cc/projects/hefuyicoder/ListenerMusicPlayer)
 
 ![](https://github.com/hefuyicoder/ListenerMusicPlayer/raw/master/materials/screenshot.png)
 
