@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第172期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[2016 移动应用质量大数据报告](http://mp.weixin.qq.com/s/5oo6S_F-IQ3WEYlBOQMQ5A)
 
-啦啦啦
+腾讯Bugly带来的2016年度 Android & iOS 移动应用质量大数据报告，让您清晰了解行业动态，精准定位自身产品位置。
 
-[]()
+[Android从开机到打开第一个应用发生了什么？](https://segmentfault.com/a/1190000004676352)
 
-啦啦啦
+昨日阿里二面，跪的很惨，项目，算法，计算机基础不问，问Linux内核，我是投的android实习岗，要求是对于android底层有很深厚的基础，问了binder的实现机制，activity栈的管理回退等等...
 
-[]()
+[Android 图片色彩处理 ColorMatrix](http://blog.csdn.net/qq_15128547/article/details/55261349)
 
-啦啦啦
+Android系统中提供一个用于调整颜色的矩阵 ColorMatrix 用于处理一张图片中的所有数据。
 
-[]()
+[Android主流HOOK框架介绍与应用--游戏破解游戏外挂的必杀技](http://blog.csdn.net/asmcvc/article/details/55047842)
 
-啦啦啦
+以学习的态度去看待，做一个有操守的开发者。
 
-[]()
+[android-security-awesome：Android 安全工具整理](https://github.com/ashishb/android-security-awesome)
 
-![]()
-
-啦啦啦
+RT.
 
 ## 课外话题
 
-[]()
+[女朋友最傻的时候是什么时候？](https://www.zhihu.com/question/39002849)
 
-啦啦啦
+首先得有个女盆友...
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
