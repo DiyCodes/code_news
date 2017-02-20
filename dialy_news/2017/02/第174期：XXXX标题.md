@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第174期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Java面试题集](https://www.diycode.cc/news/2005)
 
-啦啦啦
+准备面试的童鞋要好好看看了。
 
-[]()
+[从json文件到炫酷动画-Lottie实现思路和源码分析](https://www.diycode.cc/news/2006)
 
-啦啦啦
+还记得刷爆开发圈的 Lottie 动画开源库么？想知道怎么实现的么？
 
-[]()
+[Android逆向之旅—带你爆破一款应用的签名验证问题](https://www.diycode.cc/news/2007)
 
-啦啦啦
+回头想想，我们的 Android 应用够安全了吗？
 
-[]()
+[Android源代码情景分析法](https://www.diycode.cc/news/2008)
 
-啦啦啦
+写了那么多源码分析，不如教你如何分析源码。
 
-[]()
+[Zoomy：两个手指，轻松实现图片放缩效果](https://github.com/imablanco/Zoomy)
 
-![]()
-
-啦啦啦
+![](https://github.com/imablanco/Zoomy/raw/master/art/zoomy.gif)
 
 ## 课外话题
 
-[]()
+[2017年，还要不要走移动端开发这条路？](https://zhuanlan.zhihu.com/p/25336583)
 
-啦啦啦
+有一句话是这么说的，自己选的路，跪着也要走完。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
