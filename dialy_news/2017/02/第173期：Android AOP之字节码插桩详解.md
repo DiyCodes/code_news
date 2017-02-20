@@ -1,20 +1,14 @@
-# 第173期：XXXX标题
+# 第173期：Android AOP之字节码插桩详解
 
-## 深度讨论
+[Android AOP之字节码插桩详解](https://www.diycode.cc/news/1996)
 
-[]()
+本篇文章基于《网易乐得无埋点数据收集SDK》总结而成，关于网易乐得无埋点数据采集SDK的功能介绍以及技术总结后续会有文章进行阐述，本篇单讲SDK中用到的Android端AOP的实现。
 
-王子，看你了！
-
-## Android开发
 
 [打不死的小强永不crash的Android](https://www.diycode.cc/news/1999)
 
 最怕上线出现了Crash，作者提供了一种思路去最大程度的保证应用正常运行。
 
-[Android AOP之字节码插桩详解](https://www.diycode.cc/news/1996)
-
-本篇文章基于《网易乐得无埋点数据收集SDK》总结而成，关于网易乐得无埋点数据采集SDK的功能介绍以及技术总结后续会有文章进行阐述，本篇单讲SDK中用到的Android端AOP的实现。
 
 [编译时间从33.8秒降到4.5秒我只多做了一件事](https://www.diycode.cc/news/1994)
 
