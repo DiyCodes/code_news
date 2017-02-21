@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第175期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[谷歌宣布，PWA将获得与安卓原生应用同等的待遇与权限](https://www.diycode.cc/news/2013)
 
-啦啦啦
+自从谷歌提出PWA（Progressive Web Apps，渐进式网页应用）概念之后，它就持续受到移动开发界的关注。PWA的目标是基于现代化浏览器的能力来提供一个用户友好的网页应用。
 
-[]()
+[Android图形系统概述](https://www.diycode.cc/news/2015)
 
-啦啦啦
+Android系统中图形系统是相当复杂的，包括WindowManager，SurfaceFlinger,Open GL,GPU等模块。 其中SurfaceFlinger作为负责绘制应用UI的核心，从名字可以看出其功能是将所有Surface合成工作。
 
-[]()
+[一个关于安卓打包提速的小改进](https://www.diycode.cc/news/2016)
 
-啦啦啦
+把4分钟打包时间缩短到14秒左右。
 
-[]()
+[Android 两行代码实现换肤 从appcompat-v7原理出发](https://www.diycode.cc/news/2017)
 
-啦啦啦
+这里主要来看看Android 源码中”com.android.support:appcompat-v7”包的实现, 以及源码思想在Android-skin-support中的应用 – 如何打造一款好用的换肤框架.
 
-[]()
+[routerSDK：一款小而美的路由框架](https://github.com/Jomes/routerSDK)
 
-![]()
+![](https://github.com/Jomes/routerSDK/raw/master/gif/routersdk.gif)
 
-啦啦啦
+支持网页动态添加自定义参数启动应用。
 
 ## 课外话题
 
-[]()
+[和领导沟通的技巧有哪些？](https://www.zhihu.com/question/20211937)
 
-啦啦啦
+和领导沟通，要注意技巧。
+
+[2017年移动APP开发的11个趋势](https://www.diycode.cc/news/2012)
+
+在这篇文章中，我们来聊聊当前的移动开发趋势，有哪些可以延续到2017年。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
