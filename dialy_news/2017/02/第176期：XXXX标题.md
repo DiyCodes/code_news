@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第176期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[Google I/O 2017有哪些看点？](https://www.diycode.cc/news/2025)
 
-啦啦啦
+提前预习一下，各位谷粉们。
 
-[]()
+[[英]代码模块化是如何加速你的 Android App编译时间的？（需科学上网）](https://www.diycode.cc/news/2021)
 
-啦啦啦
+是的你没看错，模块化可以帮你编译提速，感兴趣的童鞋可以顺便了解一下Android组件化的知识。
 
-[]()
+[蘑菇街Android热修复探索之路](https://www.diycode.cc/news/2023)
 
-啦啦啦
+各家各户的热修复方案如雨后春笋般不断冒出。
 
-[]()
+[LChart：一个简单易用，功能丰富的图表库](https://www.diycode.cc/topics/616)
 
-啦啦啦
+|		|		|		|
+|------|------|------|
+|![](https://github.com/linheimx/LChart/raw/master/art/l_basic.png)	|![](https://github.com/linheimx/LChart/raw/master/art/l_warn.png)		|![](https://github.com/linheimx/LChart/raw/master/art/l_multi.png)		|
 
-[]()
+## Python
 
-![]()
+[基于微博数据用 Python 打造一颗 “心”](https://www.diycode.cc/topics/617)
 
-啦啦啦
+在一年一度的虐狗节，朋友圈各种晒，晒自拍，晒娃，晒美食，秀恩爱的。程序员在晒什么，程序员在加班。但是礼物还是少不了的，送什么好？作为程序员，我准备了一份特别的礼物，用以往发的微博数据打造一颗“爱心”，我想她一定会感动得哭了吧。
 
 ## 课外话题
 
-[]()
+[这些变态的在线小工具，涨姿势了！](https://www.diycode.cc/news/2024)
 
-啦啦啦
+内含福利，需者自取哦！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
