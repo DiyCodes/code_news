@@ -1,12 +1,15 @@
-# 第176期：XXXX标题
+# 第176期：蘑菇街Android热修复探索之路
 
-## 深度讨论
+## Android 开发
 
-[]()
+[就算老公一毛钱股份都没拿到，在我心里，他依然是最牛逼的创业者](https://www.diycode.cc/news/2027)
 
-王子，看你了！
+蔡文胜和caoz我记住了，青云期权我记住了，冯大辉Fenng也记住了，中国创业圈果然是够乱的，坑合伙人，坑CTO的事情每天都在上演啊
 
-## Android开发
+
+[蘑菇街Android热修复探索之路](https://www.diycode.cc/news/2023)
+
+各家各户的热修复方案如雨后春笋般不断冒出。
 
 [Google I/O 2017有哪些看点？](https://www.diycode.cc/news/2025)
 
@@ -16,9 +19,7 @@
 
 是的你没看错，模块化可以帮你编译提速，感兴趣的童鞋可以顺便了解一下Android组件化的知识。
 
-[蘑菇街Android热修复探索之路](https://www.diycode.cc/news/2023)
 
-各家各户的热修复方案如雨后春笋般不断冒出。
 
 [LChart：一个简单易用，功能丰富的图表库](https://www.diycode.cc/topics/616)
 
