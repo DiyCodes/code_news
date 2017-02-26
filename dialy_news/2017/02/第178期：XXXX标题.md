@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第178期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[传统 MVP 用在项目中是真的方便还是累赘?](https://www.diycode.cc/topics/630)
 
-啦啦啦
+使用MVP是否有过这样的烦恼？需要创建太多的类和接口,并且每次通信都需要繁琐的通过接口传递信息？
 
-[]()
+[安居客Android项目架构演进](https://www.diycode.cc/news/2034)
 
-啦啦啦
+入职安居客三年从工程师到Team Leader，见证了Android团队一路走来的发展历程。因此有心将这些记录下来与大家分享，也算是对自己三年来一部分工作的总结。希望对大家有所帮助，更希望能得到大家宝贵的建议。
 
-[]()
+[Choreographer原理](https://www.diycode.cc/news/2036)
 
-啦啦啦
+文章从源码的角度介绍了Choreographer的启动与Vsync处理过程。
 
-[]()
+[HTTPS 为什么更安全，先看这些](https://www.diycode.cc/topics/628)
 
-啦啦啦
+一直都在说HTTPS ，你知道它为什么比HTTP更安全吗？
 
-[]()
+[ParsingPlayer：基于IjkPlayer库实现的开源视频播放器](https://github.com/TedaLIEz/ParsingPlayer)
 
-![]()
-
-啦啦啦
+![](https://github.com/TedaLIEz/ParsingPlayer/raw/master/screenshots/2.png)
 
 ## 课外话题
 
-[]()
+[在未知的领域工作的新人，如何做到最好？](https://www.zhihu.com/question/19988614)
 
-啦啦啦
+献给所有职场新人。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
