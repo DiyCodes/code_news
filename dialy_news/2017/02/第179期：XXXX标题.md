@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第179期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[PWA 程序开发实践](https://www.diycode.cc/topics/633)
 
-啦啦啦
+作者写给所有移动端开发的同学：PWA(Progressive Web Apps) 一定是将来的移动开发趋势，且学且珍惜。
 
-[]()
+[Android事件分发机制源码解析](https://www.diycode.cc/news/2040)
 
-啦啦啦
+触摸事件传递机制是Android中一块比较重要的知识体系，了解并熟悉整套的传递机制有助于更好的分析各种滑动冲突、滑动失效问题，更好去扩展控件的事件功能和开发自定义控件。
 
-[]()
+[移动端监控体系之技术原理剖析](https://www.diycode.cc/news/2041)
 
-啦啦啦
+在这样一个注重用户体验的时代，APM 技术快速发展，国内更是百花齐放，最近对各个公司的 APM 产品有一个调研，并在此基础上进行了自己的实践。
 
-[]()
+[Android ADB命令?这一次我再也不死记了!](https://www.diycode.cc/news/2039)
 
-啦啦啦
+RT。
 
-[]()
+[FastHub：开源的Github Android客户端](https://github.com/k0shk0sh/FastHub)
 
-![]()
-
-啦啦啦
+![](https://github.com/k0shk0sh/FastHub/raw/master/art/feature_graphic.png?raw=true)
 
 ## 课外话题
 
-[]()
+[如何设计出色的网站后台原型？](https://www.zhihu.com/question/31859504)
 
-啦啦啦
+新手请教，如何设计出色的网站后台的原型？前辈们都有那些什么工作方法，设计经验。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
