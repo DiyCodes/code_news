@@ -1,10 +1,10 @@
-# 第179期：XXXX标题
+# 第179期：Android事件分发机制源码解析
 
 ## 深度讨论
 
-[]()
+[GitHub 全球 Developers, Organizations and Repositories 排行榜](https://www.diycode.cc/trends)
 
-王子，看你了！
+绑定 Github 查看您的全球排行
 
 ## Android开发
 
