@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第180期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[我的开源Android开发框架Pluto](https://www.diycode.cc/news/2044)
 
-啦啦啦
+设计这套框架的作者挺用心的。
 
-[]()
+[Android权限机制与适配经验](https://www.diycode.cc/news/2048)
 
-啦啦啦
+本文是QQ音乐团队开发者分享以下几个知识点的内容：1、Android权限机制关键知识点；2、QQ音乐对于权限的适配经验；3、近段时间以来遇到的一些Android权限方面的问题。
 
-[]()
+[Android 5.0+ 高级动画开发系列之矢量图动画](https://www.diycode.cc/news/2046)
 
-啦啦啦
+本篇主要讲解 Android5.0/6.0 以后实现酷炫动画的新技术。
 
-[]()
+[算法面试精要准备](https://www.diycode.cc/news/2047)
 
-啦啦啦
+作者在经过一些成功和失败的面试后，总结出一些经验，这里将这些经验无私地分享给各位，希望对你们能有所帮助。如果侥幸帮到了您，别忘了和我分享你的喜悦。
 
-[]()
+[Android Okhttp实现多文件断点下载](https://www.diycode.cc/news/2045)
 
-![]()
-
-啦啦啦
+文章不错！
 
 ## 课外话题
 
-[]()
+[你读过的最让人心酸的句子有哪些？](https://www.zhihu.com/question/29910774)
 
-啦啦啦
+宝宝不哭。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
