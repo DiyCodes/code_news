@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第181期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[正确配置你的 Android 项目](https://www.diycode.cc/news/2057)
 
-啦啦啦
+优秀的 Android 项目从配置开始。: )
 
-[]()
+[带你解决 WebView 里的常见问题](https://www.diycode.cc/news/2054)
 
-啦啦啦
+开发过程中使用原生 WebView 你可能会遇到各种奇葩问题。
 
-[]()
+[Apk打包流程梳理](https://www.diycode.cc/news/2055)
 
-啦啦啦
+图文并茂，言简意赅，值得阅读，随手收藏。
 
-[]()
+[一个 TextView 完成显示全文与隐藏功能](https://www.diycode.cc/topics/635)
 
-啦啦啦
+文章以一个简单的 TextView 来实现这些显示全文与隐藏的交互方式。
 
-[]()
+[CameraKit-Android：让你在使用Android相机API时更加轻松](https://github.com/flurgle/CameraKit-Android)
 
-![]()
-
-啦啦啦
+![](https://github.com/flurgle/CameraKit-Android/raw/master/.repo/camerakit-android-header.png)
 
 ## 课外话题
 
-[]()
+[App UI 设计规范的制作思路+常见问题总结](https://www.diycode.cc/news/2056)
 
-啦啦啦
+制作UI设计规范的大体思路应该是怎样的？制作规范时容易遇到哪些瓶颈？今天这篇好文是华为设计师总结的经验，帮你一次性搞定这两个问题！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
