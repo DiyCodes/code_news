@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第183期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[Android应用安全风险与防范](https://zhuanlan.zhihu.com/p/25571814)
 
-啦啦啦
+关于Android应用安全方面的知识梳理，希望对大家所有帮助。
 
-[]()
+[Android Studio 2.3 特性：生成Android App Links](https://www.diycode.cc/news/2071)
 
-啦啦啦
+App Links是Android M以上的特有功能,即实现了auto-verify支持用户点击一个链接即可唤起APP，而不用像以往版本中需要点击一个选择框列表。
 
-[]()
+[阿里Android面试题锦集](https://www.diycode.cc/news/2073)
 
-啦啦啦
+作者经历了阿里android实习内推的电面，感觉有好多以前看过的东西都忘记了，然后又复习了一下，找了很多阿里的面经总结了一下，希望对大家有帮助。
 
-[]()
+[Android Studio每日小技巧](https://www.diycode.cc/news/2072)
 
-啦啦啦
+掌握这些小技巧，让你的编码更高效。
 
-[]()
+[sealtalk-android：基于融云开发的 Android 版即时通讯（IM）应用程序 - 嗨豹](https://github.com/sealtalk/sealtalk-android)
 
-![]()
+![](https://github.com/sealtalk/sealtalk-android/raw/master/gif/redpacket.gif)
 
-啦啦啦
+看起来非常不错，推荐！
 
 ## 课外话题
 
-[]()
+[在迁移到HTTPS之前需要考虑的事情](https://www.diycode.cc/news/2070)
 
-啦啦啦
+现在都陆续从HTTP迁移到HTTPS了，你迁移了吗？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
