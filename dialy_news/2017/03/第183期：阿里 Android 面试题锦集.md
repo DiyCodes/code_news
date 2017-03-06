@@ -8,8 +8,8 @@
 
 
 [深入浅出 OkHttp 源码](https://www.diycode.cc/topics/640)
-OkHttp3是Square出品的高质量Http网络请求库，目前在GitHub上的star数超过17000。很多Android项目的网络组件都是基于OkHttp封装的，还有著名的Retrofit也是基于OkHttp封装的。来深度看看吧。
 
+OkHttp3是Square出品的高质量Http网络请求库，目前在GitHub上的star数超过17000。很多Android项目的网络组件都是基于OkHttp封装的，还有著名的Retrofit也是基于OkHttp封装的。来深度看看吧。
 
 [Android应用安全风险与防范](https://zhuanlan.zhihu.com/p/25571814)
 
@@ -18,8 +18,6 @@ OkHttp3是Square出品的高质量Http网络请求库，目前在GitHub上的sta
 [Android Studio 2.3 特性：生成Android App Links](https://www.diycode.cc/news/2071)
 
 App Links是Android M以上的特有功能,即实现了auto-verify支持用户点击一个链接即可唤起APP，而不用像以往版本中需要点击一个选择框列表。
-
-
 
 [Android Studio每日小技巧](https://www.diycode.cc/news/2072)
 

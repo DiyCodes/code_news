@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第184期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,37 @@
 
 ## Android开发
 
-[]()
+[Android Transition Framework详解---超炫的动画框架](https://www.diycode.cc/news/2075)
 
-啦啦啦
+早在Android 4.4，Transition 就已经引入，但在5.0才得以真正的实现。而究竟Transition是用来干嘛的呢？接下来我将通过实例和原理解析来分析下Google这个强大的动画框架。
 
-[]()
+[Android防自动抢红包外挂原理解析](https://www.diycode.cc/news/2080)
 
-啦啦啦
+本文是用来对付对那些自动抢红包插件功能的防护功能。
 
-[]()
+[AS2.3关于“MIUI优化”的兼容问题 ](https://www.diycode.cc/news/2079)
 
-啦啦啦
+作者分享了自己在升级AndroidStudio 2.3后，在MIUI上遇到问题，求助无果后自行解决问题的方案！
 
-[]()
+[Android Studio 2.3 正式版新功能，你不来看看！](https://www.diycode.cc/news/2076)
 
-啦啦啦
+RT。
 
-[]()
+[BGASwipeBackLayout：Android Activity 滑动返回效果的一种开源实现](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 
-![]()
+| 普通滑动返回样式 | 微信滑动返回样式 |
+| ------------ | ------------- |
+| ![BGASwipeBackLayoutDemo](https://cloud.githubusercontent.com/assets/8949716/21512903/fac699f8-ccec-11e6-8437-1bfe8b9bd9d3.gif) | ![BGASwipeBackLayoutDemo-WeChat](https://cloud.githubusercontent.com/assets/8949716/21536263/7aa0fe88-cdbb-11e6-801d-4b370d6c454c.gif)  |
 
-啦啦啦
+| 配合滑动删除列表一起使用 | 配合 RecycerView 一起使用 |
+| ------------ | ------------- |
+| ![bgaswipebacklayout-swipe-delete](https://cloud.githubusercontent.com/assets/8949716/21843157/ec74aeec-d824-11e6-9579-77549892e273.gif) | ![bgaswipebacklayout-recycler-index](https://cloud.githubusercontent.com/assets/8949716/21843158/ec784a3e-d824-11e6-9649-7397e5aad7eb.gif)  |
 
 ## 课外话题
 
-[]()
+[你见过最人性化的设计是什么？](https://www.zhihu.com/question/31524027)
 
-啦啦啦
+一直对设计很有兴趣 ，希望能够被一些比较以人为本的设计击到内心深处。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
