@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第185期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,34 @@
 
 ## Android开发
 
-[]()
+[热修复入门：Android 中的 ClassLoader](https://www.diycode.cc/news/2083)
 
-啦啦啦
+热修复插件化的基础就是ClassLoader了。
 
-[]()
+[比QQ更炫酷的'选项弹窗'动画](https://www.diycode.cc/news/2082)
 
-啦啦啦
+不说了，点击文章看效果吧！
 
-[]()
+[Android主题切换（Theme）实现日夜间功能](https://www.diycode.cc/news/2086)
 
-啦啦啦
+一种主题换肤的实现方式。
 
-[]()
+[ASM实战统计方法耗时](https://www.diycode.cc/news/2087)
 
-啦啦啦
+实际业务开发中有很多需要不改变原业务代码，而需额外增加一些包括各种统计的需求，如APM、无数据埋点等，也就是耳熟能详的AOP，本文以统计方法耗时为例，不使用Aspectj，采用原生态的方式进行实践。
 
-[]()
+[materialChipView：漂亮的开源标签控件](https://github.com/robertlevonyan/materialChipView)
 
-![]()
+| | |
+|--------------------|-----------|
+|![](https://github.com/robertlevonyan/materialChipView/raw/master/Images/custom1.png)|![alt text](https://github.com/robertlevonyan/materialChipView/raw/master/Images/custom2.png)|
 
-啦啦啦
 
 ## 课外话题
 
-[]()
+[如何做一个身家过亿的程序员？](https://www.zhihu.com/question/56761206)
 
-啦啦啦
+定个小目标，先赚他一个亿如何？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
