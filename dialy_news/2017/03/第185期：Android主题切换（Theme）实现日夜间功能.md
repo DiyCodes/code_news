@@ -1,4 +1,4 @@
-# 第185期：Android主题切换（Theme）实现日夜间功
+# 第185期：Android主题切换（Theme）实现日夜间功能
 
 
 ## Android开发
