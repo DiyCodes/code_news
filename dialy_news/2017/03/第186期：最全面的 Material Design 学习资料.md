@@ -1,10 +1,9 @@
-# 第186期：XXXX标题
+# 第186期：最全面的 Material Design 学习资料
 
 ## 深度讨论
 
-[]()
-
-王子，看你了！
+[(Android) Diycode SDK Beta 公测版发布啦](https://www.diycode.cc/topics/650)
+可以更加开心做 diycode 的 App 玩了
 
 ## Android开发
 
