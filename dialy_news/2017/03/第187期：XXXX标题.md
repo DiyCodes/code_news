@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第187期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Tinker 源码分析之DexDiff / DexPatch](https://www.diycode.cc/news/2096)
 
-啦啦啦
+tinker有个非常大的亮点就是自研发了一套dex diff、patch相关算法。本篇文章主要目的就是分析该算法。当然值得注意的是，分析的前提就是需要对dex文件的格式要有一定的认识，否则的话可能会一脸懵逼态。
 
-[]()
+[Android开发时，那些相见恨晚的工具或网站！](https://www.diycode.cc/news/2100)
 
-啦啦啦
+一点工具整理分享。
 
-[]()
+[Android性能优化之GraphicsStatsService](https://www.diycode.cc/news/2099)
 
-啦啦啦
+GraphicsStatsService是Android M(6.0)以后Google加入的用于收集汇总Android系统的渲染剖面数据(profile data)，主要途径是通过允许渲染线程请求匿名共享存储缓冲(ashmem buffer)来存放它们的统计信息来实现的。这篇文章旨在分析GraphicsStatsService的工作流程和这些统计信息的来龙去脉。
 
-[]()
+[深入了解 Android Nested Scrolling](https://www.diycode.cc/news/2101)
 
-啦啦啦
+NestedScrolling弥补了原先事件分发机制的一个设计缺陷。
 
-[]()
+[Phonograph：一款 Material Designed 风格的音乐播放器](https://github.com/kabouzeid/Phonograph)
 
-![]()
-
-啦啦啦
+据说它已经拥有百万级别的下载量！
 
 ## 课外话题
 
-[]()
+[产品经理没做过成功产品，应该何去何从？](https://www.zhihu.com/question/56728746)
 
-啦啦啦
+开发人员开发出成功产品，又该何去何从？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
