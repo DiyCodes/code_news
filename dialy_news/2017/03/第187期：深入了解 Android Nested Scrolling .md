@@ -1,10 +1,10 @@
-# 第187期：XXXX标题
+# 第187期：深入了解 Android Nested Scrolling 
 
 ## 深度讨论
 
-[]()
+[深入了解 Android Nested Scrolling ](https://www.diycode.cc/news/2101)
 
-王子，看你了！
+Android常规的Touch事件传递机制是自顶向下，由外向内的，一旦确定了事件消费者View，随后的事件都将传递到该View。因为是自顶向下，父控件可以随时拦截事件，下拉刷新、拖拽排序、折叠等交互效果都可以通过这套机制完成。Touch事件传递机制是Android开发必须掌握的基本内容。但是这套机制存在一个缺陷：子View无法通知父View处理事件。NestedScrolling就是为这个场景设计的。
 
 ## Android开发
 
