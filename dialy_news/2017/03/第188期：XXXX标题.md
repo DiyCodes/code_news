@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第188期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[一次Android字节码插桩实战](https://www.diycode.cc/news/2105)
 
-啦啦啦
+利用Android字节码插桩技术可以很方便地帮助我们实现很多手术刀式的代码设计，如无埋点统计上报、轻量级AOP等。下面我们就通过一次实战，把这门技术真正用起来。
 
-[]()
+[Android性能优化之启动加速35%](https://www.diycode.cc/news/2109)
 
-啦啦啦
+应用的启动分为冷启动、热启动、温启动，而启动最慢、挑战最大的就是冷启动：系统和App本身都有更多的工作要从头开始！
 
-[]()
+[Android LayoutInflater源码解析](https://www.diycode.cc/news/2107)
 
-啦啦啦
+大家对LayoutInflater一定不陌生，它主要用于加载布局，在Fragment的onCreateView方法、ListView Adapter的getView方法等许多地方都可以见到它的身影。本文主要聊聊LayoutInflater的用法以及加载布局的工作原理。
 
-[]()
+[Android Http网络开发神兵利器](https://www.diycode.cc/news/2106)
 
-啦啦啦
+作者在Android移动端开发已经有不少年的经验，经历颇多，感受颇深，特写下此文记录下在Android Http网络开发中的各种工具使用。
 
-[]()
+[ColorPickerView：一个开源的Android拾色器](https://github.com/skydoves/ColorPickerView)
 
-![]()
-
-啦啦啦
+| | |
+|---|---|
+|![](https://cloud.githubusercontent.com/assets/24237865/23684747/011279de-03e4-11e7-8cb3-3d5271efedc6.jpg) | ![](https://cloud.githubusercontent.com/assets/24237865/23684824/42e77472-03e4-11e7-9f5e-a58b7708dfd8.jpg)|
 
 ## 课外话题
 
-[]()
+[程序员的中年危机](https://www.diycode.cc/news/2108)
 
-啦啦啦
+大概很少有程序员想过，自己有一天可能会失业。至少很少有人会想，这一天会来得比想象的早。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
