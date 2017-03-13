@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第189期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,35 @@
 
 ## Android开发
 
-[]()
+[Android Studio 2.3正式版发布，官方全解析](https://www.diycode.cc/news/2115)
 
-啦啦啦
+Android Studio 2.3 中最令人激动的是质量上的改进，但此版本也加入了少量新功能，它们集成到了开发流程的每一个阶段。
 
-[]()
+[React Native for Android 异常处理概览](https://www.diycode.cc/news/2114)
 
-啦啦啦
+准备接入React Native(RN)时，看看前辈们分享的经验，都说刚接入时崩溃率是一个问题。最近在做RN的Native部分优化，今天就来聊聊在RN中的异常都是什么，该怎么处理。
 
-[]()
+[阿里宣布Atlas开源，有效提升大规模团队移动开发效率](https://www.diycode.cc/news/2116)
 
-啦啦啦
+3月13日，手机淘宝安卓客户端容器化框架Atlas正式宣布开源。
 
-[]()
+[理解JobScheduler机制](https://www.diycode.cc/news/2117)
 
-啦啦啦
+对于满足网络、电量、时间等一定预定条件而触发的任务，那么JobScheduler便是绝佳选择。
 
-[]()
+[Android开源之ILayoutAnimationController，1行代码让你的ViewGroup拥有华丽的布局动画！](https://www.diycode.cc/news/2118)
 
-![]()
-
-啦啦啦
+![](https://github.com/HuanHaiLiuXin/ILayoutAnimationController/raw/master/Screenshots/ILayoutAnimationController%E5%BD%95%E5%B1%8F.gif)
 
 ## 课外话题
 
-[]()
+[生活中有什么坏习惯是我一停止就能立即获益，而且未来我会十分感激的？](https://www.zhihu.com/question/56000916)
 
-啦啦啦
+做好现在，把握未来！
+
+[搭建个人博客，你需要知道这些 ](https://www.diycode.cc/news/2112)
+
+一点总结，给需要的同学做个参考。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
