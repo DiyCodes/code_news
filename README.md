@@ -6,6 +6,7 @@
 
 |	精选文章	|
 |------|
+|[第189期：阿里宣布Atlas开源，有效提升大规模团队移动开发效率](dialy_news/2017/03/第189期：阿里宣布Atlas开源，有效提升大规模团队移动开发效率.md) 	|
 |[第188期：程序员的中年危机](dialy_news/2017/03/第188期：程序员的中年危机.md) 	|
 |[第187期：深入了解 Android Nested Scrolling](dialy_news/2017/03/第187期：深入了解 Android Nested Scrolling .md) 	|
 |[第186期：最全面的 Material Design 学习资料](dialy_news/2017/03/第186期：最全面的 Material Design 学习资料.md) 	|
