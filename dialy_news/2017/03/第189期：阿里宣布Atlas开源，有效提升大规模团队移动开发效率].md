@@ -1,10 +1,11 @@
-# 第189期：XXXX标题
+# 第189期：阿里宣布Atlas开源，有效提升大规模团队移动开发效率]
 
 ## 深度讨论
 
-[]()
+[阿里宣布Atlas开源，有效提升大规模团队移动开发效率](https://www.diycode.cc/news/2116)
 
-王子，看你了！
+3月13日，手机淘宝安卓客户端容器化框架Atlas正式宣布开源。
+
 
 ## Android开发
 
@@ -15,10 +16,6 @@ Android Studio 2.3 中最令人激动的是质量上的改进，但此版本也�
 [React Native for Android 异常处理概览](https://www.diycode.cc/news/2114)
 
 准备接入React Native(RN)时，看看前辈们分享的经验，都说刚接入时崩溃率是一个问题。最近在做RN的Native部分优化，今天就来聊聊在RN中的异常都是什么，该怎么处理。
-
-[阿里宣布Atlas开源，有效提升大规模团队移动开发效率](https://www.diycode.cc/news/2116)
-
-3月13日，手机淘宝安卓客户端容器化框架Atlas正式宣布开源。
 
 [理解JobScheduler机制](https://www.diycode.cc/news/2117)
 
