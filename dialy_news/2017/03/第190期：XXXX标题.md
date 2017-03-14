@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第190期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,34 @@
 
 ## Android开发
 
-[]()
+[了解 Java 中的 I/O 系统](https://www.diycode.cc/topics/670)
 
-啦啦啦
+RT。
 
-[]()
+[写给移动开发者的 React Native 指南](https://www.diycode.cc/news/2121)
 
-啦啦啦
+本文主要针对两类读者：
 
-[]()
+- 想要入门 RN 的人，在阅读官方文档前先对 RN 形成一个整体的印象
+- 对 RN 心存好奇，在犹豫是否要入坑的开发者，可以通过本文对 RN 更客观全面的认识
 
-啦啦啦
+[详细全面的基于vue2.0Weex接入过程（Android视角）](https://www.diycode.cc/news/2122)
 
-[]()
+此文从Android的角度来记录接入的过程，希望给未接入的同学更方便省时地接入weex提供一点帮助。
 
-啦啦啦
+[Android Launch Mode 详解](https://www.diycode.cc/news/2123)
 
-[]()
+虽然大家很可能都从各个地方了解过 Activity 的启动模式，但还是建议大家看看这篇文章，可以更好地理解启动模式。
 
-![]()
+[InstaCropper：仿Instagram的照片裁剪控件](https://github.com/yasharpm/InstaCropper)
 
-啦啦啦
+![](https://cloud.githubusercontent.com/assets/4597931/23830368/724ddf70-071e-11e7-9d7e-65615be8d5e6.gif)
 
 ## 课外话题
 
-[]()
+[手机淘宝 2017 设计升级思路](https://www.diycode.cc/news/2120)
 
-啦啦啦
+文章分享了设计团队从公司的设计战略分解成产品体验方向，从设计概念落地到界面设计语言，在执行过程中又不断地平衡各种设计细节等等心得，值得一看！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
