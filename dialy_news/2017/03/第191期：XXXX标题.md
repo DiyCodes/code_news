@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第191期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Gradle多渠道打包：动态设定App名称，应用图标，背景图片，状态栏颜色等](https://www.diycode.cc/news/2126)
 
-啦啦啦
+感受Gradle的魅力。
 
-[]()
+[关于Java面试，你应该准备这些知识点](https://www.diycode.cc/news/2127)
 
-啦啦啦
+作者近段时间求职面试时所遇到的一些问题，整理出来希望对有需要的同学提供帮助，可以更系统的去学习各个知识点。
 
-[]()
+[震惊!这年Android面试的那些套路](https://www.diycode.cc/news/2128)
 
-啦啦啦
+作者说：本文的阅读对象是像他这样技术水平一般，却迟迟找不到工作的小伙伴们。
 
-[]()
+[NDK Maping 发布啦](https://www.diycode.cc/news/2129)
 
-啦啦啦
+NDK Mapping 的主要工作就是完成 class 从 JVM 层到 JNI 层的映射。通常情况下，当我们进行 JNI 开发时，无可避免的要进行类的传递操作，而 JNI 提供的 API 却让代码简单不起来，大量的容易出错的体力劳动也是这么来的。
 
-[]()
+[FlowLayout：开源的流式布局标签控件](https://github.com/nex3z/FlowLayout)
 
-![]()
-
-啦啦啦
+![](https://github.com/nex3z/FlowLayout/raw/master/images/sample.png)
 
 ## 课外话题
 
-[]()
+[只需两行，在你的微信上监控 Python 程序](https://zhuanlan.zhihu.com/p/25768417)
 
-啦啦啦
+有点意思。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
