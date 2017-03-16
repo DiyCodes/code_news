@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第192期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,29 @@
 
 ## Android开发
 
-[]()
+[一些不错的Android开发技巧（英）](https://github.com/nisrulz/android-tips-tricks)
 
-啦啦啦
+![](https://github.com/nisrulz/android-tips-tricks/raw/develop/.github/img/github_banner.png)
 
-[]()
+[Handler、Looper、Message、MessageQueue 基础流程分析图解](https://www.diycode.cc/topics/671)
 
-啦啦啦
+一图胜千言。
 
-[]()
+[No ViewHolder!!! 一个非官方的纯 java 版 databinding (拒绝 xml 配置)](https://www.diycode.cc/topics/676)
 
-啦啦啦
+作者的目标是 No ViewHolder and No Adapter.
 
-[]()
+[20分钟理解React Native For Android原理](https://www.diycode.cc/news/2131)
 
-啦啦啦
+公司内几个 APP 已经接入并上线了多个 RN 模块，后续规划的定制化需求及性能优化需要我们对 RN 底层原理有更深入的理解。下面通过研读源代码来分析和总结下 Android 中的 RN 实现原理。
 
-[]()
-
-![]()
-
-啦啦啦
+[Robust：美团第二代热修复框架](https://github.com/Meituan-Dianping/Robust)
 
 ## 课外话题
 
-[]()
+[国内有哪些尚未过度开发的景点值得一去？](https://www.zhihu.com/question/20556024)
 
-啦啦啦
+又到周五啦，周末记得出去走走，别老是宅家里。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
