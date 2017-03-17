@@ -5,19 +5,19 @@
 ## 归档
 
 |	精选文章	|
-|------|
-|[第191期：关于Java面试，你应该准备这些知识点](dialy_news/2017/03/第191期：关于Java面试，你应该准备这些知识点.md) 	|
-|[第190期：宝宝巴士CTO如何同时运营更新150款App？](dialy_news/2017/03/第190期：宝宝巴士CTO如何同时运营更新150款App？.md) 	|
-|[第189期：阿里宣布Atlas开源，有效提升大规模团队移动开发效率](dialy_news/2017/03/第189期：阿里宣布Atlas开源，有效提升大规模团队移动开发效率.md) 	|
-|[第188期：程序员的中年危机](dialy_news/2017/03/第188期：程序员的中年危机.md) 	|
-|[第187期：深入了解 Android Nested Scrolling](dialy_news/2017/03/第187期：深入了解 Android Nested Scrolling .md) 	|
-|[第186期：最全面的 Material Design 学习资料](dialy_news/2017/03/第186期：最全面的 Material Design 学习资料.md) 	|
-|[第185期：Android主题切换（Theme）实现日夜间功能](dialy_news/2017/03/第185期：Android主题切换（Theme）实现日夜间功能.md) 	|
-|[第184期：Android Studio 2.3 正式版新功能，你不来看看！](dialy_news/2017/03/第184期：Android Studio 2.3 正式版新功能，你不来看看！.md) 	|
-|[第183期：阿里 Android 面试题锦集](dialy_news/2017/03/第183期：阿里 Android 面试题锦集.md) 	|
-|[第182期：Aceso：美丽说开源的 Android 热修复方案](dialy_news/2017/03/第182期：Aceso：美丽说开源的 Android 热修复方案.md) 	|
-|[第181期：一个税前年薪超过 35 万的帝都程序员迷茫了](dialy_news/2017/03/第181期：一个税前年薪超过 35 万的帝都程序员迷茫了.md) 	|
-|[第180期：硅谷和国内的软件开发工程师到底有何不同？](dialy_news/2017/03/第180期：硅谷和国内的软件开发工程师到底有何不同？.md) 	|
+| -------- |
+| [第191期：关于Java面试，你应该准备这些知识点](dialy_news/2017/03/第191期：关于Java面试，你应该准备这些知识点.md) |
+| [第190期：宝宝巴士CTO如何同时运营更新150款App？](dialy_news/2017/03/第190期：宝宝巴士CTO如何同时运营更新150款App？.md) 	|
+| [第189期：阿里宣布Atlas开源，有效提升大规模团队移动开发效率](dialy_news/2017/03/第189期：阿里宣布Atlas开源，有效提升大规模团队移动开发效率.md)|
+| [第188期：程序员的中年危机](dialy_news/2017/03/第188期：程序员的中年危机.md)|
+| [第187期：深入了解 Android Nested Scrolling](dialy_news/2017/03/第187期：深入了解%20Android%20Nested%20Scrolling%20.md)|
+| [第186期：最全面的 Material Design 学习资料](dialy_news/2017/03/第186期：最全面的%20Material%20Design%20学习资料.md)|
+| [第185期：Android主题切换（Theme）实现日夜间功能](dialy_news/2017/03/第185期：Android主题切换（Theme）实现日夜间功能.md) |
+| [第184期：Android Studio 2.3 正式版新功能，你不来看看！](dialy_news/2017/03/第184期：Android%20Studio%202.3%20正式版新功能，你不来看看！.md) |
+| [第183期：阿里 Android 面试题锦集](dialy_news/2017/03/第183期：阿里%20Android%20面试题锦集.md) |
+| [第182期：Aceso：美丽说开源的 Android 热修复方案](dialy_news/2017/03/第182期：Aceso：美丽说开源的 Android 热修复方案.md) |
+| [第181期：一个税前年薪超过 35 万的帝都程序员迷茫了](dialy_news/2017/03/第182期：Aceso：美丽说开源的%20Android%20热修复方案.md) |
+| [第180期：硅谷和国内的软件开发工程师到底有何不同？](dialy_news/2017/03/第180期：硅谷和国内的软件开发工程师到底有何不同？.md) |
 
 ## 往期内容
 
