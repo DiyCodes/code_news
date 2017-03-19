@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第193期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[优化Android APP构建速度的17条建议](https://www.diycode.cc/news/2136)
 
-啦啦啦
+较长的构建时间将会减缓项目的开发进度，特别是对于大型的项目，app的构建时间长则十几分钟，短则几分钟，长的构建时间已经成了开发瓶颈，本篇文章根据Google官方文档，加上自己的一些理解提供一些提升app构建速度的优化建议。
 
-[]()
+[Google 又弃坑了，Jack+Jill vs. javac+dx](https://www.diycode.cc/news/2140)
 
-啦啦啦
+Jack + Jill被搞出来是原本是取代 javac + dx的，也就去年的事情，当大家纷纷准备在build.gradle里面纠结要不要打开 `useJack` 的时候，Google说，未来为支持Java8新特性，不再考虑Jack/Jill。
 
-[]()
+[阿里Android面试题锦集](https://www.diycode.cc/news/2133)
 
-啦啦啦
+前几天突然就经历了阿里android实习内推的电面，感觉有好多以前看过的东西都忘记了，然后又复习了一下，找了很多阿里的面经总结了一下，希望对大家有帮助。
 
-[]()
+[理解AlarmManager机制](https://www.diycode.cc/news/2141)
 
-啦啦啦
+从源码的角度解读AlarmManager。
 
-[]()
+[几个不错的Android开源音视频播放器](https://www.diycode.cc/news/2139)
 
-![]()
-
-啦啦啦
+![](https://diycode.b0.upaiyun.com/photo/2017/65f858ec1b1e2711f0031feac216f1c3.png)
 
 ## 课外话题
 
-[]()
+[App Store 充值、退款引出的黑色产业，让开发者为此蒙受数千万损失](https://zhuanlan.zhihu.com/p/25847444)
 
-啦啦啦
+希望iOS开发者的权益能得到保障。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
