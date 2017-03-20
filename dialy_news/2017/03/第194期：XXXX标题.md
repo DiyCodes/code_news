@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第194期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[美团点评移动网络优化实践](https://www.diycode.cc/news/2145)
 
-啦啦啦
+本文根据第16期美团点评技术沙龙“移动开发实践（上海站）”演讲内容整理而成。
 
-[]()
+[Android FlexboxLayout帮助您完成聪明的UI布局](https://www.diycode.cc/news/2148)
 
-啦啦啦
+去年Android开源的FlexboxLayout，使得Android里的 CSS Flexible Layout 模块也能拥有同样强大的功能。
 
-[]()
+[获取加固后Android App的所有方法信息](https://www.diycode.cc/news/2149)
 
-啦啦啦
+关于逆向分析的一篇文章。
 
-[]()
+[Skp Android开发工程师的总结：开发一个 Android App，这三十五个经验值得学习（英）](https://www.diycode.cc/news/2142)
 
-啦啦啦
+There are two kinds of people — those who learn the hard way and those who learn by taking someone’s advice. Here are some of the things I’ve learned along the way that I want to share with you.
 
-[]()
+[Android热修复学习之旅——HotFix完全解析](https://www.diycode.cc/news/2150)
 
-![]()
-
-啦啦啦
+本篇博客作者详细分析了QQ空间热修复方案。
 
 ## 课外话题
 
-[]()
+[研究了陌陌、探探和假装情侣，我终于搞清楚了年轻人在玩社交时都干了啥](https://mp.weixin.qq.com/s/oImanmuDh6FzPh65Nwdz0Q)
 
-啦啦啦
+每一代年轻人都有自己的社交方式。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
