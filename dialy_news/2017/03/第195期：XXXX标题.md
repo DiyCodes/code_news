@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第195期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[通过 Cache-Control、Last-Modified 和 Etag 优化客户端缓存](https://www.diycode.cc/news/2156)
 
-啦啦啦
+日常开发中，为了不让用户等得着急，或多或少都会用到 Cache。对于一个有着固定链接的图片资源而言，我们可以简单地将其存储起来，以供后续的访问。但对于那些 Uri 一致，但内容可能随时变化的情形而言，就显得有些不太合适了。
 
-[]()
+[ProGuard 又搞了个大新闻](https://www.diycode.cc/news/2157)
 
-啦啦啦
+今天被ProGuard坑的不是混淆API导致的BUG，这货在之前相当长的一段时间里一直相安无事，最近突然又搞了个大新闻，而且问题排查起来相当蹊跷、诡异。
 
-[]()
+[ART深度探索开篇：从Method Hook谈起](https://www.diycode.cc/news/2158)
 
-啦啦啦
+从Method Hook开始了解热修复。
 
-[]()
+[定制触摸反馈：RippleDrawable](https://www.diycode.cc/news/2159)
 
-啦啦啦
+为了更好的在5.0及以上设备上使用波纹效果，简单跟大家聊下RippleDrawable的正确打开方式，如何方便快捷的定义不同的触摸反馈的范围以及波纹扩散的颜色，最后聊下5.0以下设备上的兼容方案。
 
-[]()
+[AutoplayVideos：视频随着滚动自动播放和暂停，基于RecyclerView实现](https://github.com/Krupen/AutoplayVideos)
 
-![]()
-
-啦啦啦
+![](https://raw.githubusercontent.com/Krupen/AutoplayVideos/master/AutoPlayVideos%20Demo.gif)
 
 ## 课外话题
 
-[]()
+[典型的「学生思维」有哪些？](https://www.zhihu.com/question/41365485)
 
-啦啦啦
+RT。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
