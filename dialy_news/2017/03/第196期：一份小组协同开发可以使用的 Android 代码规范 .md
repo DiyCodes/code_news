@@ -1,12 +1,11 @@
-# 第196期：XXXX标题
+# 第196期：一份小组协同开发可以使用的 Android 代码规范 
 
 ## 深度讨论
 
-[]()
+[一份小组协同开发可以使用的 Android 代码规范 ](https://www.diycode.cc/news/2169)
 
-王子，看你了！
+Chuxin Android Coding Style & 以前在公司的代码规范，可在组内推行，包含了**Project structure 工程结构、Package Manner 包管理规范、File Naming 文件命名、nside Code Naming 代码内部命名、Code Manner 代码规范**
 
-## Android开发
 
 [你不知道的 Android WebView 使用漏洞](https://www.diycode.cc/news/2163)
 
