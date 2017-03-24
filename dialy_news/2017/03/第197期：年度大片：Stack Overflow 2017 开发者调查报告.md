@@ -1,34 +1,36 @@
-# 第197期：XXXX标题
+# 第197期：年度大片：Stack Overflow 2017 开发者调查报告
 
-## 深度讨论
+## 推荐
 
-[]()
+[年度大片：Stack Overflow 2017 开发者调查报告](https://stackoverflow.com/insights/survey/2017#technology-most-loved-dreaded-and-wanted-languages)
 
-王子，看你了！
+Stack Overflow 发布了 2017 开发者调查报告，此次有超过 64,000 名开发人员参与调查，分别对其技能、工具、学习趋势等数据进行了统计，现将其中一些有趣的数据和趋势撷取出来分享给大家。
 
 ## Android开发
 
-[谷歌发布 Android O 预览版，卡顿、耗电、乱通知可能有救了](https://www.diycode.cc/news/2171)
+[1、谷歌发布 Android O 预览版，卡顿、耗电、乱通知可能有救了](https://www.diycode.cc/news/2171)
 
 随着 Android O 悄然推出，也带来了诸多新鲜特性，从 2008 年开始 Android 首次在科技舞台崭露头角，直到今天推出 Android O，这支以开放为名的系统也改变了许多人的生活。
 
-[全面总结 Android WebView与 JS 的交互方式](https://www.diycode.cc/news/2172)
+[2、全面总结 Android WebView与 JS 的交互方式](https://www.diycode.cc/news/2172)
 
 本文将为你全面介绍Android通过WebView与JS交互的方式。
 
-[Android 调用系统功能实现图片选择器，你可能会遇到的问题汇总](https://www.diycode.cc/news/2173)
+[3、Android 调用系统功能实现图片选择器，你可能会遇到的问题汇总](https://www.diycode.cc/news/2173)
 
 本文总结了开发过程中，调用系统相机、相册和裁剪功能实现图片选择器的过程中，我们需要注意的一些地方。
 
-[为何Twitter区别于微信、淘宝，只使用了armeabi-v7a？](https://www.diycode.cc/news/2174)
+[4、为何Twitter区别于微信、淘宝，只使用了armeabi-v7a？](https://www.diycode.cc/news/2174)
 
 最近在研究APP瘦身，碰巧又遇到armeabi、armeabi-v7a、arm64-v8a等ABI相关的知识点，决心记录下来以作分享。
 
+[马拉松式学习与技术人员的成长性 ](https://www.diycode.cc/news/2178)
+
+技术学习也像马拉松一样，短跑让你基本技能迅速提高，长跑让你技能慢慢精进！
+
 ## 课外话题
 
-[年度大片：Stack Overflow 2017 开发者调查报告](https://www.diycode.cc/news/2175)
 
-Stack Overflow 发布了 2017 开发者调查报告，此次有超过 64,000 名开发人员参与调查，分别对其技能、工具、学习趋势等数据进行了统计，现将其中一些有趣的数据和趋势撷取出来分享给大家。
 
 [为什么干得再好，你也加不了薪？](https://www.diycode.cc/news/2170)
 
