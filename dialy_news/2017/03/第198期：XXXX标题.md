@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第198期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,27 @@
 
 ## Android开发
 
-[]()
+[Evernote带来的计划任务神器Android-Job](https://www.diycode.cc/news/2179)
 
-啦啦啦
+Evernote 开源的 Android-Job 为我们提供 AlarmManager, JobScheduler和 GcmNetworkManager功能的超集。
 
-[]()
+[腾讯Bugly：Android 内存优化总结&实践](https://www.diycode.cc/news/2176)
 
-啦啦啦
+文章是对Android内存优化相关的知识进行总结以及最后案例分析(一二部分是理论知识总结，你也可以直接跳到第三部分看案例)。
 
-[]()
+[百转千回的 too many classes in --main-dex-list](https://www.diycode.cc/topics/696)
 
-啦啦啦
+在接入multidex的情况下，成功的将主dex再次撑爆：编译时出现too manyclasses in --main-dex-list，于是作者遍开始了一翻摸索和尝试。
 
-[]()
+[关于 Android RecyclerView 的那些开源 LayoutManager](https://www.diycode.cc/topics/700)
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+让你的RecyclerView支持更多的效果实现。
 
 ## 课外话题
 
-[]()
+[马云、化腾、彦宏穿越回【三国时代】，分别是谁？](https://zhuanlan.zhihu.com/p/25691411)
 
-啦啦啦
+东汉末年，群雄割据，天下三分，北有曹操虎视眈眈，西有刘备卧薪尝胆，东有孙权厉兵秣马。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
