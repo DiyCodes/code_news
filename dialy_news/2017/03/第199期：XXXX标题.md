@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第199期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,27 @@
 
 ## Android开发
 
-[]()
+[那些IT培训出来的Android工程师，希望你面试时涨点记性](https://www.diycode.cc/news/2187)
 
-啦啦啦
+身为面试官的一点感慨。
 
-[]()
+[细细品读！深入浅出，官方文档看ConstraintLayout](https://www.diycode.cc/news/2188)
 
-啦啦啦
+作者带着我们从官方文档的角度在代码层面来了解ConstraintLayout。
 
-[]()
+[一看你就懂，超详细Java中的ClassLoader详解](https://www.diycode.cc/news/2189)
 
-啦啦啦
+理解ClassLoader的加载机制，也有利于我们编写出更高效的代码。
 
-[]()
+[现在能用 ConstraintLayout 做些什么？](https://www.diycode.cc/news/2190)
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+ConstraintLayout的作者为我们讲述一切。
 
 ## 课外话题
 
-[]()
+[数据可视化分析工具大集合汇总](https://www.diycode.cc/news/2185)
 
-啦啦啦
+文章收集了各个平台各种行业的几十种数据可视化分析工具，让你不仅大饱眼福，而且还可以让你事半功倍。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
