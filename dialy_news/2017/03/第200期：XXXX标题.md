@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第200期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[一个APP从启动到主页面显示经历了哪些过程？](https://www.diycode.cc/news/2192)
 
-啦啦啦
+文章以图文并茂的形式简单介绍一个APP从启动到主页面显示经历了哪些流程，以及实现的原理。不介绍具体源码，仅仅构建一个大体框架。
 
-[]()
+[Android仿微博、人人Feed详情页吸附导航栏](https://www.diycode.cc/news/2195)
 
-啦啦啦
+RT。
 
-[]()
+[热修复框架研究之Robust原理](https://www.diycode.cc/news/2196)
 
-啦啦啦
+Robust是美团点评团队在2017年3月开源的热修复框架，和阿里的AndFix不同，Robust不用依赖JNI层，直接通过Java层代码就可以实现热修复。相比于其他热修复框架，官方给出Robust的优势介绍。
 
-[]()
+[Android源码：Handler, Looper和MessageQueue实现解析](https://www.diycode.cc/news/2197)
 
-啦啦啦
+做了6年的Android开发，此间做的事情非常杂包括ROM，SDK和APP，从来没有好好的研究过Android的基础代码。趁着这段时间项目没那么忙，把基础的东西仔细研究清楚并记录下来。
 
-[]()
+[condom：阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为的开源库](https://github.com/oasisfeng/condom)
 
-![]()
-
-啦啦啦
+来自阿里的大神写的一个超轻超薄的Android工具库，阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为。（对应用自身的功能无影响）
 
 ## 课外话题
 
-[]()
+[支付安全感的设计思考](https://www.diycode.cc/news/2194)
 
-啦啦啦
+文章探讨了对于支付类产品而言，哪些方面因素影响了用户安全感的形成，并从设计角度出发，期望在安全感的提升上做出一些总结。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
