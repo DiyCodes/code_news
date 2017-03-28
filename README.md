@@ -6,6 +6,7 @@
 
 |	精选文章	|
 | -------- |
+| [第199期：讨论：中国开源现状如何？](dialy_news/2017/03/第199期：讨论：中国开源现状如何？.md) |
 | [第198期：React Native 在 Instagram App 上的实践](dialy_news/2017/03/第198期：React%20Native%20在%20Instagram%20App%20上的实践.md) |
 | [第197期：年度大片：StackOverflow 2017 开发者调查报告](dialy_news/2017/03/第197期：年度大片：Stack%20Overflow%202017%20开发者调查报告.md) |
 | [第196期：一份小组协同开发可以使用的 Android 代码规范 ](dialy_news/2017/03/第196期：一份小组协同开发可以使用的%20Android%20代码规范%20.md) |
