@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第201期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,27 @@
 
 ## Android开发
 
-[]()
+[TouchEvent事件分发机制全解析](https://www.diycode.cc/news/2200)
 
-啦啦啦
+网上介绍TouchEvent分发机制的文章很多，可能有的同学看了还是不明白。这里作者结合了源码、画图、简化代码结构图、三个人买手机的类比等多个角度全面解释，其中用三个人买手机的例子做的类比，可以让你更具象化的直接理解整个流程。
 
-[]()
+[Android GC原理探究](https://www.diycode.cc/news/2201)
 
-啦啦啦
+一篇关于Android GC的文章，想法来源于追查一个魅族手机图片滑动卡顿问题。
 
-[]()
+[AdaptiveTableLayout：基于TabLayout实现的CSV文件编辑器](https://github.com/Cleveroad/AdaptiveTableLayout)
 
-啦啦啦
-
-[]()
-
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+![](https://github.com/Cleveroad/AdaptiveTableLayout/raw/master/images/demo.gif)
 
 ## 课外话题
 
-[]()
+[最新版 Google 翻译中国大陆可用](https://zhuanlan.zhihu.com/p/26069725)
 
-啦啦啦
+Google 要开始回来了吗？
+
+[组件化开发与设计](https://www.diycode.cc/news/2199)
+
+组件化其实是一个很早就有的概念了，并不多稀奇，也不难理解。尤其是对于编程开发人员而言，对此应该更是熟悉。而今天这篇文章，我作为一个UI设计师来谈谈我对于组件化开发与设计的一些想法，从而帮助设计师们了解程序员是如何进行组件化开发的，怎样的设计才能更好的方便程序员快速落地实现，你又应该提供哪些设计文件，协助程序员组件化开发。难道只是效果图和切图吗？肯定不是。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
