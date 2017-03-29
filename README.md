@@ -6,6 +6,7 @@
 
 |	精选文章	|
 | -------- |
+| [第200期：深入浅出 Git：文章解释了 Git 是如何工作的](dialy_news/2017/03/第200期：深入浅出%20Git：文章解释了%20Git%20是如何工作的%20.md) |
 | [第199期：讨论：中国开源现状如何？](dialy_news/2017/03/第199期：讨论：中国开源现状如何？.md) |
 | [第198期：React Native 在 Instagram App 上的实践](dialy_news/2017/03/第198期：React%20Native%20在%20Instagram%20App%20上的实践.md) |
 | [第197期：年度大片：StackOverflow 2017 开发者调查报告](dialy_news/2017/03/第197期：年度大片：Stack%20Overflow%202017%20开发者调查报告.md) |
