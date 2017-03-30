@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第202期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[YAHFA--ART环境下的Hook框架](https://www.diycode.cc/news/2208)
 
-啦啦啦
+作者在研究学习了ART方法调用机制和主要hook框架的基本原理后，设计实现了一套新的ART环境hook框架：YAHFA(Yet Another Hook Framework for ART)，本文将对YAHFA的工作原理进行介绍。
 
-[]()
+[安卓应用获取系统服务的过程](https://www.diycode.cc/news/2202)
 
-啦啦啦
+在安卓系统中存在着各种各样的系统服务， 例如 ActivityManagerService, WindowManagerService, ClipboardService 等。这些系统服务大都运行在进程 system_server 中，为每个应用提供服务。而应用程序运行于自己的默认进程当中，因此，想要获取系统服务，必定需要进行进程间的通信。而安卓中的进程间通信大多通过 Binder 机制进行，因此，要想深入理解应用是如何获取的系统服务的，必须先要了解安卓的 Binder 机制。
 
-[]()
+[经典随机Crash之一：线程安全](https://www.diycode.cc/news/2210)
 
-啦啦啦
+一切你复现不了的 Crash，那都是你没有找到问题的根源。
 
-[]()
+[Android上一种相似图片搜索算法的实现](https://www.diycode.cc/news/2211)
 
-啦啦啦
+本文介绍一种相似图片搜索算法：感知哈希算法。这种算法是对每一张图片生成一个指纹，然后对比指纹，越接近就表示越相似。
 
-[]()
+[ButtonProgressBar：一个下载效果按钮](https://github.com/ishaan1995/ButtonProgressBar)
 
-![]()
-
-啦啦啦
+![](https://raw.githubusercontent.com/ishaan1995/ButtonProgressBar/master/output_F2Ryon.gif)
 
 ## 课外话题
 
-[]()
+[设计师和程序员必备：全世界最著名的 icon 网站都在这了](https://zhuanlan.zhihu.com/p/26073777)
 
-啦啦啦
+作为一个多年的独立开发者，收藏了非常多免费无版权图片网站、免费 icons、知名的技术人博客、有趣的网站等等，今天给大家分享我这几年收藏的 icon 网站，觉得好呢，点个赞关注个专栏，有补充呢給我留个言，感谢大家。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
