@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第203期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,27 @@
 
 ## Android开发
 
-[]()
+[Android 应用继续瘦身，以及一些注意事项](https://www.diycode.cc/topics/725)
 
-啦啦啦
+自上次对应用瘦身过后，经历的若干功能的迭代，很快的，安装包大小又到了15MB，老大说要控制在10MB之内，于是便开始了新一轮的瘦身之旅。
 
-[]()
+[SQLite在NDK中的重生](https://www.diycode.cc/news/2219)
 
-啦啦啦
+当程序运行到Android N上时，NDK中使用SQLite直接让整个程序崩溃了，作者开始寻求问题和解决方案。
 
-[]()
+[DiffUtil新工具类，让你的RecyclerView飞一会](https://www.diycode.cc/news/2220)
 
-啦啦啦
+文章主要介绍support包中提供的DiffUtil类的使用，非常实用哦。
 
-[]()
+[今日力推： Android相机、 图片裁剪/ Android Diycode 社区客户端](https://www.diycode.cc/news/2216)
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+推荐两个开源项目。
 
 ## 课外话题
 
-[]()
+[通过Google挖掘细分市场的一个案例](https://mp.weixin.qq.com/s/cXa6Rwiet5gN8bSe-h4QNw)
 
-啦啦啦
+本文适合想兼职赚点零花钱的程序员、想找场景学习编程的小伙伴以及没有创业点子的朋友。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
