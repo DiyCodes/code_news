@@ -1,12 +1,13 @@
-# 第203期：XXXX标题
-
-## 深度讨论
-
-[]()
-
-王子，看你了！
+# 第203期：diycode 开发日志 API 的封装哲学
 
 ## Android开发
+
+[利用 Android 源码，轻松实现汉字转拼音功能](https://www.diycode.cc/topics/733)
+
+今天和大家分享一个从Android系统源代码提取出来的汉字转成拼音实现方案，只要一个类，560多行代码就可以让你轻松实现汉字转成拼音的功能，且无需其他任何第三方依赖。
+
+[diycode 开发日志 (四) API 的封装哲学](https://www.diycode.cc/topics/731)
+本文重点：使用 Retrofit2.0 + EventBus 快速优雅的封装 API，架构搭建完成后，封装一个 api 手写代码不超过 10 行，逻辑清晰，且在一定程度上防手残。
 
 [Android 应用继续瘦身，以及一些注意事项](https://www.diycode.cc/topics/725)
 
