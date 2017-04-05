@@ -46,7 +46,7 @@
 | [Code_News](https://github.com/DiyCodes/code_news) |    Github博客  |750+ | 每日邮件推送列表  |
 | [优雅的程序员D](http://weibo.com/u/5891258264) |   微博  | 1500+ | 官方微博，每日分享开源信息  |
 | [D_clock爱吃葱花](http://weibo.com/u/2480694892)  |   微博  | 1500+ | 日报发起人  |
-|[YasicYu](http://weibo.com/3917305697/profile? rightmod=1&wvr=6&mod=personinfo&is_all=1)  |   微博  | 100+ | 日报发起人  |
+|[YasicYu](http://weibo.com/3917305697)  |   微博  | 100+ | 日报发起人  |
 |[安卓大王子](http://weibo.com/apkbus/)   |   微博  | 33000+ | 日报发起人  |
 
 **微信公众号：**“优雅的程序员”，微信号：diycodes，目前关注人数 3000+ ；
