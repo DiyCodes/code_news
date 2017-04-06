@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第205期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[仅使用一张资源图片为 View 设置具有按下效果的背景](https://www.diycode.cc/topics/734)
 
-啦啦啦
+文章主要分享如何使用一张资源图片为View设置具有按下效果的Background Drawable。
 
-[]()
+[Android安全防护之旅---带你把Apk混淆成中文语言代码](https://www.diycode.cc/news/2239)
 
-啦啦啦
+你见过混淆后，代码变成中文的Android应用吗？
 
-[]()
+[经典随机Crash之二：Android消息机制](https://www.diycode.cc/news/2244)
 
-啦啦啦
+好几次灰度top1、top2 Crash发生场景：在很平常、频繁的使用页面，打开一个界面，马上返回，piaji，挂了，估计用户心中有千万只草泥马在奔腾，手机QQ究竟怎么呢？
 
-[]()
+[Android日历（Calendar）开源代码整理](https://github.com/dalong982242260/AndroidCalendar)
 
-啦啦啦
+效果很多，大家点进去看吧。
 
-[]()
+[又一款第三方Diycode客户端](https://www.diycode.cc/topics/728)
 
-![]()
-
-啦啦啦
+![](https://diycode.b0.upaiyun.com/photo/2017/0f28f07f4eb7c1d80c2841b92f077e4a.png)
 
 ## 课外话题
 
-[]()
+[一个程序员分享编程知识和协作的平台Tiicle.com](https://www.diycode.cc/topics/735)
 
-啦啦啦
+一个整理分享开发笔记的平台。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
