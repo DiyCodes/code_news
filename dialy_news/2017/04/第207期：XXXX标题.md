@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第207期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android类加载器ClassLoader](https://www.diycode.cc/news/2270)
 
-啦啦啦
+本文讲述的Android系统体系架构，说一说ClassLoader加载过程。
 
-[]()
+[Android loadLibrary动态库加载过程分析](https://www.diycode.cc/news/2271)
 
-啦啦啦
+本文讲述的Android系统体系架构， 分析动态库的加载过程。
 
-[]()
+[理解Android Application初始化](https://www.diycode.cc/news/2272)
 
-啦啦啦
+从源码的角度带你理解进程中Application初始化的过程。
 
-[]()
+[一种Android应用内全局获取Context实例的装置](https://www.diycode.cc/news/2273)
 
-啦啦啦
+挺有意思的方案，推荐阅读。
 
-[]()
+[Small：最轻量级的插件化开源框架（支持Android和iOS）](https://github.com/wequick/Small)
 
-![]()
-
-啦啦啦
+![](https://camo.githubusercontent.com/c0df2169de1677cf37882c8b015653a1c3a2e484/687474703a2f2f636f64652e7765717569636b2e6e65742f6173736574732f696d616765732f736d616c6c2d6865616465722e706e67)
 
 ## 课外话题
 
-[]()
+[阿里巴巴和小米都注册了哪些奇葩的商标？](https://www.zhihu.com/question/58264917)
 
-啦啦啦
+大公司都具有注册商标的意思，有哪些奇葩的商标？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
