@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第209期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[自定义ItemDecoration这个问题你真的注意到了吗](https://www.diycode.cc/news/2289)
 
-啦啦啦
+本文讨论的是关于自定义ItemDecoration容易被忽略的问题，此文适合有过自定义ItemDecoration经验的同学阅读，还没有学习过的可以先去看看相关文章再来看本文。
 
-[]()
+[Android各大手机品牌手机跳转到权限管理界面](https://www.diycode.cc/news/2290)
 
-啦啦啦
+当我们的用户使用App时不小心拒绝了某项必要权限，而导致无法正常使用。这时候希望重新去打开该权限，那么问题来了，Android厂家定制的room五花八门，很多时候却发现找不到权限管理的入口。为了解决这一问题，如果我们应用中直接提供权限管理入口给用户，是不是会很方便的解决用户这一困扰呢?经过一番研究，整理出了大部分国产手机直接打开权限管理界面的方法。
 
-[]()
+[Emoji's World, 一起实现Emoji输入吧!](https://www.diycode.cc/news/2291)
 
-啦啦啦
+本文介绍Emoji表情的实现方式。
 
-[]()
+[开源推荐：Android图片压缩开源库](https://www.diycode.cc/news/2288)
 
-啦啦啦
+推荐两个Github上开源的Android图片压缩库，两个库的代码量不多，可以直接使用或者借鉴学习。商业使用，别忘了遵循其对应的开源协议。
 
-[]()
+[react-native-bottom-sheet-behavior：React-Native封装实现Android BottomSheetBehavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior)
 
-![]()
+![](https://cloud.githubusercontent.com/assets/5366959/24594266/c59667bc-1801-11e7-840c-97588658a8ae.gif)
 
-啦啦啦
+支持FloatingActionButton和NestedScrollView。
 
 ## 课外话题
 
-[]()
+[Android 有哪些稀奇古怪的应用或者令人惊艳的工具软件？](https://www.zhihu.com/question/22698906)
 
-啦啦啦
+如题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
