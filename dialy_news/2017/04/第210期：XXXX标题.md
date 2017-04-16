@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第210期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[美团Android OOM案例分析](https://www.diycode.cc/news/2306)
 
-啦啦啦
+在Android（Java）开发中，基本都会遇到java.lang.OutOfMemoryError（本文简称OOM），这种错误解决起来相对于一般的Exception或者Error都要难一些，主要是由于错误产生的root cause不是很显而易见。由于没有办法能够直接拿到用户的内存dump文件，如果错误发生在线上的版本，分析起来就会更加困难。本文从一个具体的案例切入，介绍OOM分析的思路及相关工具的使用。
 
-[]()
+[用两张图告诉你，为什么你的App会卡顿?](https://www.diycode.cc/news/2315)
 
-啦啦啦
+文章的配图真潮流。
 
-[]()
+[你在适配Android 7.0的过程中踩过哪些坑，是如何解决的？](https://www.diycode.cc/news/2316)
 
-啦啦啦
+作者最近在适配Android 7.0的过程中，踩了一些坑，在低版本运行得很好，但到了7.0就出现了问题。
 
-[]()
+[2017腾讯实习生Android客户端开发面试总结](https://mp.weixin.qq.com/s/lSg6EFcaSoVtlLcpfTBedA)
 
-啦啦啦
+如题。
 
-[]()
+[几条小经验帮你美化你的GitHub开源项目](https://www.diycode.cc/news/2319)
 
-![]()
-
-啦啦啦
+很多同学都会在Github上有自己的开源项目，这里作者分享一下自己的一些小经验。
 
 ## 课外话题
 
-[]()
+[重新复习 Toast 和 Snackbar](https://www.diycode.cc/news/2317)
 
-啦啦啦
+移动端设计中有三个名字经常被提到：Dialog、Toast 和 Snackbar，大部分同学从 Google 设计规范中第一次了解它们。原本无论作为系统规范还是应用组件它们都已足够成熟，我也自以为对它们有足够的了解。但最近工作、交流中发现对这三者尤其 Snackbar 的了解非常浅，所以花了一点时间重新学习了一下。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
