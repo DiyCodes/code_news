@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第211期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[FileProvider 在 Android N 上的应用](https://www.diycode.cc/news/2322)
 
-啦啦啦
+Android 从 N 开始不允许以 file:// 的方式通过 Intent 在两个 App 之间分享文件，取而代之的是通过 FileProvider 生成 content://Uri 。如果在 Android N 以上的版本继续使用 file:// 的方式分享文件，则系统会直接抛出异常，导致 App 出现 Crash 。当然如果工程的 targetSDK 小于24，暂时还不会遇到这个问题，一旦升级到24及以上，则会立即出现上述问题，所以提早做好预防很有必要，否则等到线上曝出大量的 bug 就很被动了。
 
-[]()
+[理解Android Context](https://www.diycode.cc/news/2329)
 
-啦啦啦
+作者从Android源码分析的角度，带你深入了解各种Context。
 
-[]()
+[拆 JakeWharton 系列之 ButterKnife](https://www.diycode.cc/news/2330)
 
-啦啦啦
+JakeWharton 是 Android 大神，同时也是开源狂魔。他开源的项目特点是小而美，且应用广泛，比如 butterknife、RxBinding、hugo 等，本文从受众最广泛，star 最多的 ButterKnife 讲起。
 
-[]()
+[浅谈android hook技术](https://www.diycode.cc/news/2331)
 
-啦啦啦
+利用xposed框架可以很容易的获取到android应用中的信息，比如加密私钥、salt值等等，不需要饭编译获取密钥转换算法、不需要了解密钥保存机制，直接hook函数，获取输入输出就可以。
 
-[]()
+[MaterialChipsInput：遵循Material Design Chips设计的开源控件实现](https://github.com/pchmn/MaterialChipsInput)
 
-![]()
+![](https://github.com/pchmn/MaterialChipsInput/raw/master/docs/demo2.gif)
 
-啦啦啦
+包含ChipsInput和ChipView两枚自定义控件。
 
 ## 课外话题
 
-[]()
+[有哪些很赞的老戏骨？](https://www.zhihu.com/question/37885169)
 
-啦啦啦
+老戏骨是香港方言，一般指演艺精湛的影视戏剧老演员，形态风流，演戏惟妙惟肖，演什么像什么。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
