@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第212期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android 的单元测试—— Espresso](https://www.diycode.cc/news/2334)
 
-啦啦啦
+Espresso是Google官方提供的Android UI自动化测试的框架，非常适合编写白盒自动化测试，其中测试代码将利用所测试应用的实现代码详情。
 
-[]()
+[关于App的数据统计和分析](https://www.diycode.cc/news/2338)
 
-啦啦啦
+“一切都是数据”将成为其必然的趋势。经过了几年的发展和积累，大数据的三个特质越来越明显：量大、多样、实时。对于App应用来说，更多的是在于如何通过数据挖掘改善产品体验、差异化竞争、产生商业价值，达到改善用户体验，增强用户黏性的效果。数据将会是业务的一部分，数据将驱动开发，数据将驱动决策。将来的数据精细化运营，离不开精细、高效的数据统计和分析。这必然会成为一种趋势。本文将就App应用的数据统计分析和埋点技术作些总结和分析。
 
-[]()
+[Android O 中对设备标识符所做的变更](https://www.diycode.cc/news/2339)
 
-啦啦啦
+Android O 引入若干改进，帮助用户控制标识符的使用。
 
-[]()
+[Android辅助功能：AccessibilityEvent的分发](https://www.diycode.cc/news/2340)
 
-啦啦啦
+目前关于辅助功能的使用的文章很多，但鲜有分析其具体实现的，本文基于Andoird 7.1.0_r7源码分析一下辅助事件是怎么分发的，只涉及事件的分发和辅助App的接收，之后有机会再讲一讲获取AccessibilityNodeInfo、进行操作等等的源码流程。
 
-[]()
+[expanding-collection-android：一个开源的滑动翻页查看控制器](https://github.com/Ramotion/expanding-collection-android)
 
-![]()
-
-啦啦啦
+![](https://github.com/Ramotion/expanding-collection-android/raw/master/preview.gif)
 
 ## 课外话题
 
-[]()
+[产品经理的思维是什么？](https://www.zhihu.com/question/19892777)
 
-啦啦啦
+如题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
