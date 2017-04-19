@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第213期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://www.diycode.cc/news/2343)
 
-啦啦啦
+随着前端开发的兴起，QQ也逐渐演变为Web与原生终端混合的开发模式。得到Web动态运营能力的同时，QQ也在交互响应速度、后台服务压力、海量用户集的带宽冲击等方面，受到了更多的挑战。在快速的Web运营节奏下，必须保证嵌入QQ的第三方业务也始终处于一个高质量的服务状态。针对这些问题，QQ团队除了采用动态CDN、后台渲染等全栈手段优化体验，也构建了围绕速度、成功率、页面异常等维度的监控体系来保障服务质量。
 
-[]()
+[基于XDanmuku的Android性能优化实战](https://www.diycode.cc/news/2350)
 
-啦啦啦
+作者记录基于他之前开源的一款『弹幕控件』，开源之后根据issue的反馈进行了性能优化，完善了这个开源项目的历程。
 
-[]()
+[Android图片加载框架最全解析：从源码的角度理解Glide的执行流程](https://www.diycode.cc/news/2349)
 
-啦啦啦
+在平时使用Glide的时候格外地简单和方便，但是知其然也要知其所以然。那么今天我们就来解析一下Glide的源码，看看它在这些简单用法的背后，到底执行了多么复杂的工作。
 
-[]()
+[NavRouter:简单易用的 Android 路由框架](https://www.diycode.cc/topics/758)
 
-啦啦啦
+作者开源的一个路由框架，支持给activity绑定url，从而利用url唤起activity,并支持浏览器跳应用页面。
 
-[]()
+[React Native中Android实现ImagePicker](https://www.diycode.cc/news/2351)
 
-![]()
-
-啦啦啦
+作者这几天在做React Native 图片相关，本文做了相关记录。
 
 ## 课外话题
 
-[]()
+[如何看待 iOS 版微信公众平台赞赏功能因苹果相关政策被关闭？](https://www.zhihu.com/question/58721652)
 
-啦啦啦
+坐等看故事的结局。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
