@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第214期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android O移除HttpsURLConnection中不安全的TLS版本回退](https://www.diycode.cc/news/2361)
 
-啦啦啦
+为提高安全性，在 Android O 中，已从 HttpsURLConnection 中移除不安全的 TLS 版本回退。
 
-[]()
+[腾讯Bugly：Android插件技术实战总结](https://www.diycode.cc/news/2362)
 
-啦啦啦
+本文的目的是从一个典型的复杂项目中总结出较为全面与完整的安卓插件技术。
 
-[]()
+[使用Espresso实现完整覆盖的App功能测试](https://www.diycode.cc/news/2363)
 
-啦啦啦
+作者描述他们是怎么用 Espresso 来实现这一样一个完整覆盖的功能性测试平台。这篇文章会讲到一些在使用 Espresso 中遇到的坑，但是并不会在 How-to 的事情上面花太多的精力，如果你对Espresso还不是很了解的话，建议先去官方文档了解一些，并先进行一些简单的实践。
 
-[]()
+[一些关于加速Gradle构建的个人经验](https://www.diycode.cc/news/2364)
 
-啦啦啦
+目前绝大多数的Android项目都是基于Grale了，因为Gradle确实给我们带来了很多便利，然而，在使用了Gradle后，最大的不满就是编译起来太慢了。本文的主要经验围绕着如何减少不必要的耗时操作和如何充分利用机器性能展开。
 
-[]()
+[Android-InfiniteCards：卡片切换开源控件，支持自定义动画效果](https://github.com/BakerJQ/Android-InfiniteCards)
 
-![]()
-
-啦啦啦
+![](https://github.com/BakerJQ/Android-InfiniteCards/raw/master/screenshot/sample.gif)
 
 ## 课外话题
 
-[]()
+[进了小公司的应届程序员如何翻身进入大公司？](https://www.zhihu.com/question/58474365)
 
-啦啦啦
+如题，祝大家周末愉快！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
