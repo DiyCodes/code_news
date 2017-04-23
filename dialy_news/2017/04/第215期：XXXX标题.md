@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第215期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[有赞 App 模块化实战经验总结](https://www.diycode.cc/news/2383)
 
-啦啦啦
+随着有赞电商业务的不断发展壮大，App 端所承担的功能也越来越重，特别是代码几易其主之后开始变得杂乱无章，牵一发而动全局的事情时常发生。为了应对团队壮大之后的开发模式，我们必须要对业务进行隔离，同时沉淀出通用组件，完善移动开发的基础设施。
 
-[]()
+[流利说团队：Building a Better Recorder in Android](https://www.diycode.cc/news/2384)
 
-啦啦啦
+Recorder 可以说是流利说 app 中存在最长时间的类了, 用户通过这个类边录音边打分最后生成打分报告和对应的音频文件。本文分享了随着迭代的不断进行，流利说在 Recorder 使用上的心得。
 
-[]()
+[从卡顿到秒开：途牛Android端启动优化最佳实践](https://www.diycode.cc/news/2385)
 
-啦啦啦
+本文主要介绍了途牛App启动流程的优化方案，从梳理现有启动流程、明确任务分级，合理调度、网络优化几个方面入手，解决App在低端机型上启动迟缓、卡顿的问题，达到了在大部分机型上秒开的效果，极大地提高了用户体验。
 
-[]()
+[移动端APM性能监控](https://www.diycode.cc/news/2386)
 
-啦啦啦
+所谓『APM』，就是Application Performance Management的简称，我们利用这个系统来对应用的性能、可靠性进行线上的监控和预警的一种机制。现在App的开发技术相对成熟，而提升App的使用体验，就成了不同App之间的一个竞争点。
 
-[]()
+[MeiTuan：高仿美团客户端React-Native版，支持iOS、Android](https://github.com/huanxsd/MeiTuan)
 
-![]()
+![](https://github.com/huanxsd/MeiTuan/raw/master/screenshot/iOS_0.png)
 
-啦啦啦
+支持: Android 4.1 (API 16)+ IOS(8.0+)。
 
 ## 课外话题
 
-[]()
+[一篇文章了解Google新开源的操作系统 Fuchsia](https://www.diycode.cc/news/2380)
 
-啦啦啦
+Fuchsia是谷歌开发的一个操作系统，这是一个差不多从头研发的新系统。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
