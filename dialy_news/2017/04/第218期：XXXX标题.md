@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第218期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[进程的Binder线程池工作过程](https://www.diycode.cc/news/2405)
 
-啦啦啦
+基于Android 6.0源码剖析，分析Binder线程池以及binder线程启动过程。
 
-[]()
+[Native、Hybrid、Web App选型及演进方案](https://www.diycode.cc/news/2407)
 
-啦啦啦
+如题。
 
-[]()
+[Android Fresco 中 GIF 实现原理](https://www.diycode.cc/news/2408)
 
-啦啦啦
+本文从源码入手，分析在 Fresco 中加载 GIF 图片的原理。
 
-[]()
+[Android5.0中 hwui 中 RenderThread 工作流程](https://www.diycode.cc/news/2409)
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+本篇文章是作者的一个学习笔记，记录了 Android 5.0 中 hwui 中的 RenderThread 的简单工作流程。
 
 ## 课外话题
 
-[]()
+[微信2017用户研究和商机洞察](https://www.diycode.cc/news/2406)
 
-啦啦啦
+一份微信官方的数据报告！
+
+[完成环游世界是一种怎样的体验？](https://www.zhihu.com/question/27981574)
+
+来一场说走就走的旅行？
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
