@@ -1,10 +1,10 @@
-# 第219期：XXXX标题
+# 第219期：分析Android V2新签名打包机制
 
 ## 深度讨论
 
-[]()
+[分析Android V2新签名打包机制](https://www.diycode.cc/news/2418)
 
-王子，看你了！
+Android Studio 2.2发布之后公示了很多新特性，其中一些特性继承在了gradle plugin当中，这些不易被我们发现,比如新的签名机制(APK Signature Scheme v2)，本文对Android Gradle 2.2新推出来的新签名打包机制(V2新签名方案)作出相关分析，目前在Android 7.0以及之上版本已经对这套新签名机制提供了支持，因此随着版本的提升，新签名机制方案将是大势所趋。
 
 ## Android开发
 
