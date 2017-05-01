@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第220期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,29 @@
 
 ## Android开发
 
-[]()
+[为什么ContentResolver调用bulkInsert批量插入数据失败](https://www.diycode.cc/news/2421)
 
-啦啦啦
+记录了一下使用 ContentResolver 批量插入数据失败的线上问题。
 
-[]()
+[Android Support Library详细介绍](https://www.diycode.cc/news/2423)
 
-啦啦啦
+网上对Android Support Library中各个依赖包介绍的中文资料太少了，作者结合官方文档和有限的参考资料做了一次总结。
 
-[]()
+[Android 中如何计算 App 的启动时间？](https://www.diycode.cc/news/2425)
 
-啦啦啦
+在阅读本文前，你觉得应该如何计算呢？
 
-[]()
+[又又一个 DiyCode 社区第三方 Android 客户端](https://www.diycode.cc/topics/770)
 
-啦啦啦
+![](https://diycode.b0.upaiyun.com/photo/2017/7d0a415d7a994baa8b4f64c14ee6ce6c.png)
 
-[]()
-
-![]()
-
-啦啦啦
+Diycode的第三方Android客户端越来越多了，iOS版的至今还未有过，期待...
 
 ## 课外话题
 
-[]()
+[如何打造 “好用” 的应用？](https://www.diycode.cc/news/2424)
 
-啦啦啦
+开发者很容易沉迷于酷炫的新技术和移动应用，但忘记了用户。谷歌团体营销经理 Bethany Poole 分享了她的团队如何专注于以用户为中心进行设计并创建出 Google Primer —— 一个能在五分钟内教人学会营销策略的应用。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
