@@ -1,10 +1,10 @@
-# 第220期：XXXX标题
+# 第220期：React Native 在 Glow 的实践
 
 ## 深度讨论
 
-[]()
+[React Native 在 Glow 的实践](https://www.diycode.cc/news/2426)
 
-王子，看你了！
+在最近发布的 Eve v2.8 里，我们用 React Native 重构了几乎整个 Community。本文记录了 React Native 在 Glow 的实践经验，并主要从 iOS 角度展开一些细节实现。但本文不会涉及太多 React Native 的入门知识，如果你还没有接触过 React Native，推荐先阅读官方文档和 React Native Express。
 
 ## Android开发
 
