@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第223期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[杭州找Android工作的点点滴滴](https://www.diycode.cc/news/2442)
 
-啦啦啦
+作者记录了自己在杭州找Android工作的点点滴滴。
 
-[]()
+[我一行代码都不写实现Toolbar!你却还在封装BaseActivity?](https://www.diycode.cc/news/2444)
 
-啦啦啦
+作者使用本文来说说他怎么在不使用继承的情况下让Activty一行代码都不写就能实现Toolbar，为什以及么提倡少封装BaseActvity少用继承。
 
-[]()
+[Android SO 文件的兼容和适配](https://www.diycode.cc/news/2443)
 
-啦啦啦
+关于Android SO文件的兼容和适配，看完这篇就够了！
 
-[]()
+[[英]我们如何创建一个丰富多彩的菜单动画](https://www.diycode.cc/news/2445)
 
-啦啦啦
+Irina Galata描述了如何使用OpenGL和JBox2D构建基于物理的动画菜单。
 
-[]()
+[aurora-imui：极光推送开源的通用IM聊天UI组件](https://github.com/jpush/aurora-imui)
 
-![]()
+![](https://github.com/huangminlinux/resource/raw/master/IMUIPick%402x.png)
 
-啦啦啦
+已经同时支持 Android/iOS！
 
 ## 课外话题
 
-[]()
+[个人Github上面有哪些项目会赢得HR青睐？](https://www.zhihu.com/question/29356997)
 
-啦啦啦
+可惜，HR并不会看代码！
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
