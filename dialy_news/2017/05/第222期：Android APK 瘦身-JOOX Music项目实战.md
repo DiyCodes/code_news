@@ -1,10 +1,5 @@
-# 第222期：XXXX标题
+# 第222期：Android APK 瘦身-JOOX Music项目实战
 
-## 深度讨论
-
-[]()
-
-王子，看你了！
 
 ## Android开发
 
