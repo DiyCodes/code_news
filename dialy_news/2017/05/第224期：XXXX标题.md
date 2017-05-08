@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第224期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[一个用粒子动画显示文字的Android组件](https://www.diycode.cc/topics/782)
 
-啦啦啦
+作者近期在学习HTML5的Canvas动画，感觉粒子特效非常好看，所以想在Android端玩玩，就做了个小东西，跟大家分享一下。
 
-[]()
+[Android音频系统：从AudioTrack到AudioFlinger](https://www.diycode.cc/news/2447)
 
-啦啦啦
+文章基于Android 7.0的源码分析系统的音频框架，全文非常详细。
 
-[]()
+[Android7.0适配之FileProvide(拍照,裁剪,应用安装)](https://www.diycode.cc/news/2448)
 
-啦啦啦
+现在Android7.0在份额在不断的增加，许多应用都已经开始或者已经适配了Android7.0。
 
-[]()
+[Java8函数式编程读书总结](https://www.diycode.cc/topics/787)
 
-啦啦啦
+作者分享的学习笔记。
 
-[]()
+[Android ASM 插桩初步实现](https://www.diycode.cc/topics/786)
 
-![]()
-
-啦啦啦
+作者最近在对几个项目做一个启动速度的优化，发现使用Traceview的获取的时间和Runtime运行时的时间值其实是有比较大的差异，于是刚开始打算用手打的方式对每个方法进行时间戳的打印，后来发现，工作量巨大且重复，不适用这样的场景；于是想通过一些hook的方法来实现这样的功能。
 
 ## 课外话题
 
-[]()
+[如何看待腾讯推出的新图片格式TPG？性能优于谷歌的webp？](https://www.zhihu.com/question/59541224)
 
-啦啦啦
+如题。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
