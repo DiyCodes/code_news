@@ -1,10 +1,10 @@
-# 第224期：XXXX标题
+# 第224期：Android SystemUI 介绍 
 
 ## 深度讨论
 
-[]()
+[Android SystemUI 介绍 ](http://qiangbo.space/2017-05-09/SystemUI_Intro/)
 
-王子，看你了！
+系统界面是Android系统的一部分，系统上方的Status Bar，以及下方的Navigation Bar都属于系统界面。除此之外，近期任务界面，锁屏也都属于系统界面。可见，系统界面是用户交互最多的UI元素。
 
 ## Android开发
 
