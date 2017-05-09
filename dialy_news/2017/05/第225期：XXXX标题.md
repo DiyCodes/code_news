@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第225期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,27 @@
 
 ## Android开发
 
-[]()
+[Android 7.1上的App Shortcut功能讲解](https://www.diycode.cc/news/2454)
 
-啦啦啦
+App Shortcuts是Android 7.1上推出的新功能。借助于这项功能，应用程序可以在Launcher中放置一些常用的应用入口以方便用户使用。
 
-[]()
+[Java 技术之类加载机制](https://www.diycode.cc/news/2455)
 
-啦啦啦
+类加载机制是 Java 语言的一大亮点，使得 Java 类可以被动态加载到 Java 虚拟机中。这次我们抛开术语和概念，从例子入手，由浅入深地讲解 Java 的类加载机制。本文涉及知识点：双亲委托机制、BootstrapClassLoader、ExtClassLoader、AppClassLoader、自定义网络类加载器等。
 
-[]()
+[当Android模块化遇上多渠道](https://www.diycode.cc/news/2456)
 
-啦啦啦
+作者最近在研究Android模块化开发的一些东西, 网上大多数模块化的文章都是仅仅从一个demo的角度去看待的, 其实对于在真实项目中使用还有很多坑需要去踩, 本文是作者在模块化探索过程中遇到的众多坑中的一个——多渠道。
 
-[]()
+[MaterialSearchView：基于Material Design风格的SearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 
-啦啦啦
-
-[]()
-
-![]()
-
-啦啦啦
+![](https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/master/art/voice.gif) ![](https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/master/art/default.gif)
 
 ## 课外话题
 
-[]()
+[如何评价坚果 Pro?](https://www.zhihu.com/question/59617447)
 
-啦啦啦
+又到了为信仰充值的时候。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
