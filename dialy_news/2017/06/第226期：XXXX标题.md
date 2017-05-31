@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第226期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,33 @@
 
 ## Android开发
 
-[]()
+[Kotlin 函数与函数式编程](https://www.diycode.cc/topics/821)
 
-啦啦啦
+自从Google爸爸宣布Kotlin为自己的干儿子之后，Kotlin被各大社区炒的火热。
 
-[]()
+[Java 技术之垃圾回收机制](https://www.diycode.cc/news/2499)
 
-啦啦啦
+垃圾回收机制是 Java 非常重要的特性之一，也是面试题的常客。它让开发者无需关注空间的创建和释放，而是以守护进程的形式在后台自动回收垃圾。这样做不仅提高了开发效率，更改善了内存的使用状况。
 
-[]()
+[官方详细介绍Android Studio 3.0 Canary 1](https://www.diycode.cc/news/2493)
 
-啦啦啦
+Android Studio 3.0带来很多新功能，很惊艳哦！
 
-[]()
+[带你学开源项目：LeakCanary-如何检测 Activity 是否泄漏](https://www.diycode.cc/news/2478)
 
-啦啦啦
+本文的目的是试图通过分析 LeakCanary 源码来探讨它的 Activity 泄漏检测机制。
 
-[]()
+[开源整理： Android App 新手指引开源控件](https://www.diycode.cc/news/2481)
 
-![]()
+![](https://diycode.b0.upaiyun.com/photo/2017/602655b94fa451820d33a7b98f923503.gif)
 
-啦啦啦
+一个好的新手指引，往往能够方便新用户快速了解操作你的应用功能。
 
 ## 课外话题
 
-[]()
+[在团队士气低迷的时候，Leader应该怎么提升整个团队的心理状态？](https://www.zhihu.com/question/59618005)
 
-啦啦啦
+当好一个Leader不容易。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
