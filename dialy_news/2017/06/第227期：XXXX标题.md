@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第227期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,29 @@
 
 ## Android开发
 
-[]()
+[Android自定义动画酷炫的提交按钮](https://www.diycode.cc/news/2503)
 
-啦啦啦
+直接看图
 
-[]()
+![](https://diycode.b0.upaiyun.com/photo/2017/b66c9ce918bfbc27f652c38c78edc047.gif)
 
-啦啦啦
+[【译】Google 官方应用架构的最佳实践指南](https://www.diycode.cc/news/2504)
 
-[]()
+虽然说 Android 的架构选择一直都很自由，MVP、MVC、MVVM 各有拥趸。但 Google 最近还是推出了一份关于应用架构的实践指南，并给出了相当详尽的步骤和一些指导建议。希望大家都能看一看，学习一下，打造更加优秀易用的 APP，也为 Android 生态的改善做一点贡献。: )
 
-啦啦啦
+[为什么我要改用Kotlin？](https://www.diycode.cc/news/2505)
 
-[]()
+对于想要了解Kotlin这门语言的同学，作者的这篇总结是值得一看的。
 
-啦啦啦
+[MaterialShadows：添加立体阴影效果的开源库](https://github.com/harjot-oberai/MaterialShadows)
 
-[]()
-
-![]()
-
-啦啦啦
+![](https://github.com/harjot-oberai/MaterialShadows/raw/master/screens/cover.png)
 
 ## 课外话题
 
-[]()
+[如何抓住流量红利？](https://www.diycode.cc/news/2502)
 
-啦啦啦
+赚钱欲望是发动机，敏锐度是方向盘，执行力是油门。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
