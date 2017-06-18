@@ -8,6 +8,24 @@
 
 ## Android开发
 
+[美团：Android增量代码测试覆盖率工具](https://www.diycode.cc/news/2534)
+
+美团点评业务快速发展，新项目新业务不断出现，在项目开发和测试人员不足、开发同学粗心的情况下，难免会出现少测漏测的情况，如何保证新增代码有足够的测试覆盖率是我们需要思考的问题。
+
+[流利说：构建一个典型的Android音乐App](https://www.diycode.cc/news/2536)
+
+在过去的英语流利说 5.0 版本中，更新了“每日听力”功能。其实从技术的角度来看，和实现一个音乐 App没有多大差异。为了保证用户有个良好的收听体验，有一些注意事项是我们需要处理的。
+
+[Android 实现反人类音量滑块](https://www.diycode.cc/topics/855)
+
+前几天看到一个反人类音量滑动条设计的有趣帖子原帖地址，网友设计了各种反人类的滑动条(这些脑洞我是服气的!)，于是我抽空在 android 上面实现了一个其中比较有趣的设计，点击喇叭弹射出去圆点控制音量。在写这个控件的时候遇到的一些知识点分享给大家。
+
+![](http://7vzpfd.com1.z0.glb.clouddn.com/fuckingslider.gif)
+
+[关于Java面试，你应该准备这些知识点](https://www.diycode.cc/news/2537)
+
+马老师说过，员工的离职原因很多，只有两点最真实：1、钱，没给到位；2、心，受委屈了。当然，我是想换个平台，换个方向，想清楚为什么要跳槽，如果真的要跳槽，想要拿到一个理想的offer，除了运气，基本功也要足够的扎实，希望下面的面试经验能给你们能够提供一些帮助。
+
 [Android自定义动画酷炫的提交按钮](https://www.diycode.cc/news/2503)
 
 直接看图
@@ -25,6 +43,16 @@
 [MaterialShadows：添加立体阴影效果的开源库](https://github.com/harjot-oberai/MaterialShadows)
 
 ![](https://github.com/harjot-oberai/MaterialShadows/raw/master/screens/cover.png)
+
+[Thinking in Java (Java 编程思想)](https://www.gitbook.com/book/quanke/think-in-java/details)
+
+这是在GitBook上开源的《Thinking in Java》电子书，适合对于想看此书，又不想买厚重的书砖，又不喜欢下载盗版PDF的同学。
+
+[TimeLine：Android瀑布流时间轴](https://github.com/vivian8725118/TimeLine)
+
+![](https://diycode.b0.upaiyun.com/photo/2017/9190dccad84a1c5051c3b5e073d74e5d.png)
+
+来自钛媒体一个漂亮妹纸的开源作品。
 
 ## 课外话题
 
