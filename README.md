@@ -6,6 +6,7 @@
 
 |	精选文章	|
 | -------- |
+| [第227期：美团：Android增量代码测试覆盖率工具](/dialy_news/2017/06/第227期：美团：Android增量代码测试覆盖率工具.md) |
 | [第226期：现在，你应该切换到 Kotlin 开发了](/dialy_news/2017/06/第226期：现在，你应该切换到%20Kotlin%20开发了.md) |
 | [第225期：Android模块化探索与实践](/dialy_news/2017/05/第225期：Android%20模块化探索与实践%20.md) |
 | [第224期：Android SystemUI 介绍](/dialy_news/2017/05/第224期：Android%20SystemUI%20介绍%20.md) |
