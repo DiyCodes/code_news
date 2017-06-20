@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第229期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[为什么Kotlin调用java时可以使用Lambda？——SAM转换机制的介绍](https://www.diycode.cc/topics/857)
 
-啦啦啦
+如题！
 
-[]()
+[基于Glide V4.0封装的GlideImageView，可监听加载图片时的进度](https://www.diycode.cc/news/2543)
 
-啦啦啦
+![](https://github.com/sfsheng0322/GlideImageView/raw/master/screenshot/gif5.gif)
 
-[]()
+适合使用Glide作为图片加载框架的项目。
 
-啦啦啦
+[MVP模式在携程酒店的应用和扩展](https://www.diycode.cc/news/2544)
 
-[]()
+架构这东西，我们只谈合适不合适。
 
-啦啦啦
+[FeaturedRecyclerView：顶部Item放大的RecyclerView](https://github.com/developer-shivam/FeaturedRecyclerView)
 
-[]()
+![](https://github.com/developer-shivam/FeaturedRecyclerView/raw/master/art/sample_GIF.gif)
 
-![]()
-
-啦啦啦
+作者还特地写了一篇文章介绍实现原理。
 
 ## 课外话题
 
-[]()
+[找一个好工作，谈一份好薪水](https://www.diycode.cc/news/2542)
 
-啦啦啦
+时不时有读者留言聊起关于选择工作和谈薪水的事情，比如：“毕业不久出来找工作，没面试几次就被忽悠，稀里糊涂的进去了一个公司，结果一进去才发觉，与自己想象的差别太大，说好给的薪水，一而再，再而三地砍价，没有兑现...经过了一轮轮面试，终于到了谈薪水时，发觉自己却软了，才明白原来招聘贴上的薪资标价都有些虚高。”
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
