@@ -1,10 +1,4 @@
-# 第XX期：XXXX标题
-
-## 深度讨论
-
-[]()
-
-王子，看你了！
+# 第230期：在 Android 中集成 React Native 的经验分享
 
 ## Android开发
 
@@ -16,25 +10,18 @@
 
 过去五年多来，开发者们已经通过我们的开放源代码库 Blockly 创建了数以百计的项目，该代码库旨在打造基于块的编码体验。这些项目丰富多样，从 Code.org 这样的教育平台到 littleBits 这样的电子套件，甚至还有 MIT App Inventor 这样的 Android 应用创建工具。去年，我们还宣布与 Scratch 团队合作开发 Scratch Blocks，一款基于 Blockly 技术、专为创建儿童编码应用而优化的工具。
 
-[]()
+[Google I/O 中提到的提高 Android studio 的编译速度的几个建议 ](https://juejin.im/post/5947b55eda2f600067894275)
 
-啦啦啦
+Google I/O 中有一个How to speed up your slow Gradle builds 的演讲，提出了一些加快Android studio编译速度的建议，作者整理后得到本文。
 
-[]()
+[趣谈Java并发：线程池的使用与执行流程 ](https://www.diycode.cc/news/2547)
 
-啦啦啦
+作者在本文中简单介绍了 Java 中线程池的工作原理和一些常见线程池的使用。
 
-[]()
+[Android多线程断点续传下载 ](http://www.jianshu.com/p/2b82db0a5181)
 
-![]()
+文章带你全面了解文件上传下载需要考虑哪些问题
 
-啦啦啦
-
-## 课外话题
-
-[]()
-
-啦啦啦
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
