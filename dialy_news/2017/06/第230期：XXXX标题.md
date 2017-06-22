@@ -8,9 +8,9 @@
 
 ## Android开发
 
-[]()
+[在 Android 中集成 React Native 的经验分享](http://tech.glowing.com/cn/react_native_practice_on_android/)
 
-啦啦啦
+在本文中，给大家分享一下在Android平台上集成React Native的过程中碰到的一些问题和解决办法。
 
 []()
 
