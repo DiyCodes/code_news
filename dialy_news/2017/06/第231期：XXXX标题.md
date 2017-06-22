@@ -1,4 +1,4 @@
-# 第XX期：XXXX标题
+# 第231期：XXXX标题
 
 ## 深度讨论
 
@@ -8,33 +8,31 @@
 
 ## Android开发
 
-[]()
+[Android通过.nomedia文件禁止多媒体库扫描指定文件夹下的多媒体文件](https://www.diycode.cc/news/2552)
 
-啦啦啦
+如题。
 
-[]()
+[Hybrid App 跨平台热更新方案实践](https://www.diycode.cc/news/2551)
 
-啦啦啦
+移动开发的跨平台与快速发布一直是开发者的追求，也是技术的一个发展趋势，现在各大厂开始有了自己的大前端团队，所以我们也开始了自己的探索。
 
-[]()
+[微店 Android 插件化实践](https://www.diycode.cc/news/2526)
 
-啦啦啦
+随着微店业务的发展，App不可避免的也遇到了65535的大坑。除此之外，业务模块增多，代码量增大所带来的问题也逐渐显现出来。模块耦合度高、协作开发困难、编译时间过长等问题严重影响了开发进程。
 
-[]()
+[苹果终于入伙 WebRTC，新一代移动 Web 应用爆发路上还有哪些坑？](https://www.diycode.cc/news/2527)
 
-啦啦啦
+在刚刚落幕的 WWDC17 上，苹果为我们带来了一个不小的惊喜 —— 其浏览器内核 WebKit 将正式支持 WebRTC，而未来基于 WebKit 内核的苹果浏览器，比如 macOS High Sierra、iOS 11 中的 Safari 浏览器和 Safari 技术预览版 32，都将使用到 WebRTC 技术。
 
-[]()
+[AgentWeb：基于Android WebView一个功能完善小型浏览器库](https://github.com/Justson/AgentWeb)
 
-![]()
-
-啦啦啦
+![](https://github.com/Justson/AgentWeb/raw/master/img/logo.png)
 
 ## 课外话题
 
-[]()
+[携程：套现，一个隐秘的江湖](https://www.diycode.cc/news/2553)
 
-啦啦啦
+随着互联网的发展，其给我们带来便捷的同时，潜在的风险也一样如影随形。携程风险控制部致力于集团内部业务和产品的风险评估、反欺诈、刷单等业务风险防范等等。
 
 > 喜欢Diycode每日精选么？喜欢的话，不妨点个 **Star** 吧！
 
