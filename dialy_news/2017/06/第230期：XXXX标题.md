@@ -12,9 +12,9 @@
 
 在本文中，给大家分享一下在Android平台上集成React Native的过程中碰到的一些问题和解决办法。
 
-[]()
+[面向 Android 和 iOS 的 Blockly 1.0 简介](http://developers.googleblog.cn/2017/06/android-ios-blockly-10.html)
 
-啦啦啦
+过去五年多来，开发者们已经通过我们的开放源代码库 Blockly 创建了数以百计的项目，该代码库旨在打造基于块的编码体验。这些项目丰富多样，从 Code.org 这样的教育平台到 littleBits 这样的电子套件，甚至还有 MIT App Inventor 这样的 Android 应用创建工具。去年，我们还宣布与 Scratch 团队合作开发 Scratch Blocks，一款基于 Blockly 技术、专为创建儿童编码应用而优化的工具。
 
 []()
 
